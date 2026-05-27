@@ -188,16 +188,26 @@ def _docket_item(it: dict, status: str, votes: list) -> str:
     )
 
 
+def _vote_label(vote: str) -> str:
+    """'Voting Aye' -> 'Aye' (Legistar prefixes vote values with 'Voting ')."""
+    v = (vote or "").strip()
+    return v[7:] if v.lower().startswith("voting ") else v
+
+
 def _votes_html(votes: list) -> str:
     if not votes:
         return ""
-    ayes = [v for v in votes if (v["vote"] or "").lower() in ("aye", "yes", "yea", "approve")]
-    nays = [v for v in votes if (v["vote"] or "").lower() in ("nay", "no")]
+    # Legistar values are e.g. "Voting Aye" / "Voting Nay" / "Absent" / "Abstain" / "Recused" —
+    # match by substring, not exact, so "Voting Aye" counts as an aye (not "other").
+    def val(v):
+        return (v["vote"] or "").strip().lower()
+    ayes = [v for v in votes if "aye" in val(v) or "yea" in val(v) or val(v) in ("yes", "approve", "for")]
+    nays = [v for v in votes if "nay" in val(v) or val(v) in ("no", "against")]
     other = [v for v in votes if v not in ayes and v not in nays]
     tally = f'<span class="tally">{len(ayes)}–{len(nays)}'
     tally += f' · {len(other)} other' if other else ""
     tally += "</span>"
-    roll = " · ".join(f'{_esc(_person(v["person"]))} <em>({_esc(v["vote"])})</em>' for v in votes)
+    roll = " · ".join(f'{_esc(_person(v["person"]))} <em>({_esc(_vote_label(v["vote"]))})</em>' for v in votes)
     return f'<div class="votes"><span class="votes-label">Vote</span> {tally}<p class="roll">{roll}</p></div>'
 
 
