@@ -12,7 +12,7 @@ from zoneinfo import ZoneInfo
 
 from .config import AI_DISCLAIMER, BODIES, PUBLIC_BASE_URL
 
-from . import glossary, topics
+from . import glossary, location, topics
 from .util import fmt_date, fmt_date_short
 
 _PACIFIC = ZoneInfo("America/Los_Angeles")  # Clark County meetings are Pacific time
@@ -213,6 +213,22 @@ def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], o
     )
 
 
+def _where_html(w: dict) -> str:
+    """A compact 'where' line (cross-streets · acreage · zone) pulled from the raw title, so the
+    location survives into the quick view instead of hiding in the official wording."""
+    if not (w["location"] or w["acres"] or w["zone"]):
+        return ""
+    bits = []
+    if w["location"]:
+        bits.append(f'<span class="w-loc">{_esc(w["location"])}</span>')
+    if w["acres"]:
+        bits.append(f'<span class="w-meta">{_esc(w["acres"])} acres</span>')
+    if w["zone"]:
+        bits.append(f'<span class="w-meta">{_esc(w["zone"])} Zone</span>')
+    inner = ' <span class="w-sep">·</span> '.join(bits)
+    return f'<p class="item-where"><span class="pin" aria-hidden="true">📍</span> {inner}</p>'
+
+
 def _docket_item(it: dict, status: str, votes: list) -> str:
     seq = it.get("sequence")
     num = f'<span class="item-num">{int(seq)}</span>' if seq is not None else '<span class="item-num">—</span>'
@@ -229,6 +245,7 @@ def _docket_item(it: dict, status: str, votes: list) -> str:
         f'<li class="docket-item">'
         f'<div class="item-head">{num}{_stamp(it.get("action_name"), it.get("passed_flag"), status)}{topiclist}</div>'
         f'<p class="item-text">{glossary.annotate(text)}</p>'
+        f'{_where_html(location.extract(it.get("title") or ""))}'
         f'{raw}{movers}{_votes_html(votes)}'
         f'</li>'
     )

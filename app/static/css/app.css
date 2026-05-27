@@ -158,6 +158,10 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(1.5rem, 4vw, 3rem)
 }
 .term:hover .tip, .term:focus .tip, .term:focus-within .tip { display: block; }
 @media (max-width: 520px) { .term .tip { max-width: 80vw; } }
+.item-where { font-size: .85rem; color: var(--ink-soft); margin: .4rem 0 0; line-height: 1.4; }
+.item-where .pin { font-size: .8rem; }
+.item-where .w-loc { color: var(--ink); font-weight: 600; }
+.item-where .w-sep { color: var(--line); }
 .raw { margin: .5rem 0 0; font-size: .85rem; }
 .raw summary { cursor: pointer; color: var(--ink-soft); font-weight: 600; }
 .raw p { margin: .4rem 0 0; color: var(--ink-soft); padding-left: .9rem; border-left: 2px solid var(--line); }
