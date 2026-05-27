@@ -8,6 +8,7 @@ from __future__ import annotations
 import html
 import json
 from datetime import datetime
+from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
 from .config import AI_DISCLAIMER, BODIES, PUBLIC_BASE_URL
@@ -220,7 +221,12 @@ def _where_html(w: dict) -> str:
         return ""
     bits = []
     if w["location"]:
-        bits.append(f'<span class="w-loc">{_esc(w["location"])}</span>')
+        if w.get("map_query"):
+            url = "https://www.google.com/maps/search/?api=1&query=" + quote(w["map_query"])
+            bits.append(f'<a class="w-loc maplink" href="{_esc(url)}" target="_blank" '
+                        f'rel="noopener">{_esc(w["location"])} <span class="ext-arr">↗</span></a>')
+        else:
+            bits.append(f'<span class="w-loc">{_esc(w["location"])}</span>')
     if w["acres"]:
         bits.append(f'<span class="w-meta">{_esc(w["acres"])} acres</span>')
     if w["zone"]:
