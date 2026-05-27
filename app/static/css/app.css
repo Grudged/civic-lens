@@ -145,6 +145,19 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(1.5rem, 4vw, 3rem)
 .item-num { font-family: var(--mono); font-size: .8rem; font-weight: 600; color: var(--indigo);
   background: var(--paper-2); border: 1px solid var(--line); border-radius: 4px; padding: .1rem .5rem; min-width: 2.2rem; text-align: center; }
 .item-text { font-family: var(--serif); font-size: 1.12rem; line-height: 1.5; margin: 0; }
+.docket-hint { font-size: .8rem; color: var(--ink-soft); margin: 0 0 1rem; font-style: italic; }
+
+/* glossary tooltips — "what this means" on civic jargon */
+.term { border-bottom: 1px dotted var(--brass-hi); cursor: help; position: relative; }
+.term:hover, .term:focus { background: color-mix(in srgb, var(--brass) 14%, transparent); outline: none; }
+.term .tip {
+  display: none; position: absolute; left: 0; top: calc(100% + 6px); z-index: 30;
+  width: max-content; max-width: 18rem; font-family: var(--sans); font-size: .82rem; font-weight: 400;
+  line-height: 1.45; color: var(--paper); background: var(--ink); padding: .55rem .75rem;
+  border-radius: 6px; box-shadow: 0 8px 26px rgba(26,27,31,.28);
+}
+.term:hover .tip, .term:focus .tip, .term:focus-within .tip { display: block; }
+@media (max-width: 520px) { .term .tip { max-width: 80vw; } }
 .raw { margin: .5rem 0 0; font-size: .85rem; }
 .raw summary { cursor: pointer; color: var(--ink-soft); font-weight: 600; }
 .raw p { margin: .4rem 0 0; color: var(--ink-soft); padding-left: .9rem; border-left: 2px solid var(--line); }

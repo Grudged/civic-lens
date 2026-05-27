@@ -12,9 +12,10 @@ from zoneinfo import ZoneInfo
 
 from .config import AI_DISCLAIMER, BODIES, PUBLIC_BASE_URL
 
-_PACIFIC = ZoneInfo("America/Los_Angeles")  # Clark County meetings are Pacific time
-from . import topics
+from . import glossary, topics
 from .util import fmt_date, fmt_date_short
+
+_PACIFIC = ZoneInfo("America/Los_Angeles")  # Clark County meetings are Pacific time
 
 _FONTS = (
     '<link rel="preconnect" href="https://fonts.googleapis.com">'
@@ -179,7 +180,7 @@ def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], o
 
     gist = ""
     if overview:
-        gist = (f'<section class="gist"><h2>The gist</h2><p>{_esc(overview)}</p>'
+        gist = (f'<section class="gist"><h2>The gist</h2><p>{glossary.annotate(overview)}</p>'
                 f'<p class="disclaimer">{_esc(AI_DISCLAIMER)}</p></section>')
 
     sources = []
@@ -198,6 +199,7 @@ def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], o
 
     docket = "".join(_docket_item(it, m["status"], votes_by_item.get(it["event_item_id"], [])) for it in items)
     docket_sec = (f'<section class="docket"><h2>Agenda <span class="count">{len(items)} items</span></h2>'
+                  f'<p class="docket-hint">Dotted terms have plain-English explanations — hover or tap them.</p>'
                   f'<ol class="docket-list">{docket}</ol></section>') if items else \
                  '<section class="docket"><p class="muted">No agenda items posted yet.</p></section>'
 
@@ -226,7 +228,7 @@ def _docket_item(it: dict, status: str, votes: list) -> str:
     return (
         f'<li class="docket-item">'
         f'<div class="item-head">{num}{_stamp(it.get("action_name"), it.get("passed_flag"), status)}{topiclist}</div>'
-        f'<p class="item-text">{_esc(text)}</p>'
+        f'<p class="item-text">{glossary.annotate(text)}</p>'
         f'{raw}{movers}{_votes_html(votes)}'
         f'</li>'
     )
