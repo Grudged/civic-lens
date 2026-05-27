@@ -23,7 +23,8 @@ _FONTS = (
     'family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400'
     '&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">'
 )
-_UMAMI = ""  # set at wire-in: '<script defer src="https://analytics.grudged.io/script.js" data-website-id="..."></script>'
+_UMAMI = ('<script defer src="https://analytics.grudged.io/script.js" '
+          'data-website-id="a593cc84-67df-424e-8912-70f04fa9e298"></script>')
 
 _NAV = [
     ("/", "Latest"),
