@@ -5,7 +5,6 @@ Hetzner rebuilds its SQLite from this JSON (tools/load_json.py), so the public s
 the binary DB. Stable output (sorted keys) keeps git diffs clean. Run after summarize_job.py.
 """
 import json
-from datetime import datetime, timezone
 from pathlib import Path
 
 from app.db import db
@@ -15,7 +14,8 @@ TABLES = ["meetings", "agenda_items", "item_votes", "meeting_summaries"]
 
 
 def export() -> None:
-    payload = {"exported_at": datetime.now(timezone.utc).isoformat(), "tables": {}}
+    # Deterministic (no volatile timestamp) so identical data -> identical file -> no churn commit.
+    payload = {"tables": {}}
     with db() as conn:
         for t in TABLES:
             payload["tables"][t] = [dict(r) for r in conn.execute(f"SELECT * FROM {t}").fetchall()]
