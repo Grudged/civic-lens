@@ -168,6 +168,29 @@ def api_meetings(status: str | None = None, body: str | None = None, limit: int 
     return JSONResponse(rows)
 
 
+@app.get("/api/stats")
+def api_stats():
+    """Aggregate snapshot for the nightly collector + knowledge compiler (no PII). Includes the
+    recent summarized meetings so Gemma's knowledge base gets real civic content to learn from."""
+    with db() as conn:
+        total = conn.execute("SELECT count(*) c FROM meetings").fetchone()["c"]
+        by_status = {r["status"]: r["c"] for r in conn.execute(
+            "SELECT status, count(*) c FROM meetings GROUP BY status").fetchall()}
+        by_body = {r["body_slug"]: r["c"] for r in conn.execute(
+            "SELECT body_slug, count(*) c FROM meetings GROUP BY body_slug").fetchall()}
+        summarized = conn.execute("SELECT count(*) c FROM meeting_summaries WHERE overview IS NOT NULL").fetchone()["c"]
+        items = conn.execute("SELECT count(*) c FROM agenda_items").fetchone()["c"]
+        recent = [dict(r) for r in conn.execute(
+            "SELECT m.event_id, m.body_name, m.body_slug, m.meeting_date, m.status, s.overview, s.topics, "
+            "(SELECT count(*) FROM agenda_items a WHERE a.event_id=m.event_id) item_count "
+            "FROM meetings m LEFT JOIN meeting_summaries s ON s.event_id=m.event_id "
+            "ORDER BY m.meeting_date DESC LIMIT 20").fetchall()]
+    for r in recent:
+        r["topics"] = json.loads(r.get("topics") or "[]")
+    return {"total_meetings": total, "by_status": by_status, "by_body": by_body,
+            "summarized": summarized, "total_items": items, "recent": recent}
+
+
 @app.get("/robots.txt", response_class=PlainTextResponse)
 def robots():
     return f"User-agent: *\nAllow: /\nSitemap: {PUBLIC_BASE_URL}/sitemap.xml\n"
