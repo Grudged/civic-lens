@@ -8,8 +8,11 @@ from __future__ import annotations
 import html
 import json
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from .config import AI_DISCLAIMER, BODIES, PUBLIC_BASE_URL
+
+_PACIFIC = ZoneInfo("America/Los_Angeles")  # Clark County meetings are Pacific time
 from . import topics
 from .util import fmt_date, fmt_date_short
 
@@ -121,10 +124,10 @@ def _countdown_span(meeting_date: str, status: str) -> str:
     if status != "upcoming":
         return ""
     try:
-        dt = datetime.fromisoformat(meeting_date)
+        dt = datetime.fromisoformat(meeting_date).replace(tzinfo=_PACIFIC)
     except ValueError:
         return ""
-    secs = (dt - datetime.now()).total_seconds()
+    secs = (dt - datetime.now(_PACIFIC)).total_seconds()
     if secs <= 0:
         text, soon = "happening today", True
     else:
@@ -138,7 +141,9 @@ def _countdown_span(meeting_date: str, status: str) -> str:
             text = f"in {int(secs // 60)}m"
         soon = secs < 2 * 86400
     cls = "countdown soon" if soon else "countdown"
-    return f'<span class="{cls}" data-when="{_esc(meeting_date)}">{text}</span>'
+    # data-when carries the explicit Pacific offset (…-07:00) so any visitor's browser computes the
+    # right remaining time regardless of their own timezone.
+    return f'<span class="{cls}" data-when="{_esc(dt.isoformat())}">{text}</span>'
 
 
 # ---- listing card ----------------------------------------------------------
