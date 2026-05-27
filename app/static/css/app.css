@@ -93,6 +93,17 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(1.5rem, 4vw, 3rem)
 .card-foot { display: flex; align-items: center; justify-content: space-between; gap: .75rem; margin-top: .6rem; }
 .card-foot .go { font-size: .82rem; font-weight: 700; color: var(--indigo); }
 
+/* ---- countdown (upcoming meetings) ---- */
+.countdown { font-family: var(--mono); font-weight: 700; color: var(--brass-hi); font-variant-numeric: tabular-nums; }
+.countdown.soon { color: var(--failed); }
+.cd-line { margin: -.05rem 0 .35rem; font-size: .82rem; color: var(--ink-soft); }
+.cd-banner { display: flex; flex-wrap: wrap; align-items: baseline; gap: .5rem; margin: 0 0 1.5rem;
+  padding: .85rem 1.15rem; border-radius: 6px;
+  background: color-mix(in srgb, var(--brass) 12%, var(--paper));
+  border: 1px solid color-mix(in srgb, var(--brass) 32%, var(--line)); }
+.cd-banner .countdown { font-size: 1.15rem; }
+.cd-banner .cd-msg { font-size: .92rem; color: var(--ink); }
+
 /* ---- topic pills ---- */
 .pills { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .2rem; }
 .pill { font-size: .72rem; font-weight: 600; text-decoration: none; color: var(--indigo);

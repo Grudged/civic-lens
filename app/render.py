@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import html
 import json
+from datetime import datetime
 
 from .config import AI_DISCLAIMER, BODIES, PUBLIC_BASE_URL
 from . import topics
@@ -84,6 +85,7 @@ def page(title: str, description: str, canonical_path: str, body: str, robots: s
     <p class="grudged-mark"><a href="https://grudged.io" target="_blank" rel="noopener">A Grudged project ↗</a></p>
   </div>
 </footer>
+<script src="/static/js/countdown.js" defer></script>
 </body>
 </html>"""
 
@@ -111,6 +113,34 @@ def _dateline(body_name: str, date_iso: str) -> str:
     return f'<p class="dateline">{_esc(body_name)} <span>·</span> {_esc(fmt_date_short(date_iso))} <span>·</span> Las Vegas</p>'
 
 
+def _countdown_span(meeting_date: str, status: str) -> str:
+    """A self-contained countdown phrase ('in 5d 14h') as a <span class="countdown" data-when=…>.
+    Server renders a static fallback (SEO / no-JS); countdown.js upgrades it to a live ticker.
+    Empty for past meetings. Server clock is Pacific = the meeting tz, and the audience is local,
+    so the naive datetime compares correctly on both ends."""
+    if status != "upcoming":
+        return ""
+    try:
+        dt = datetime.fromisoformat(meeting_date)
+    except ValueError:
+        return ""
+    secs = (dt - datetime.now()).total_seconds()
+    if secs <= 0:
+        text, soon = "happening today", True
+    else:
+        days, rem = divmod(int(secs), 86400)
+        hrs, rem = divmod(rem, 3600)
+        if days >= 1:
+            text = f"in {days}d {hrs}h"
+        elif hrs >= 1:
+            text = f"in {hrs}h {rem // 60}m"
+        else:
+            text = f"in {int(secs // 60)}m"
+        soon = secs < 2 * 86400
+    cls = "countdown soon" if soon else "countdown"
+    return f'<span class="{cls}" data-when="{_esc(meeting_date)}">{text}</span>'
+
+
 # ---- listing card ----------------------------------------------------------
 def dispatch_card(m: dict, gist: str | None) -> str:
     snippet = gist or f'{m["item_count"]} agenda items'
@@ -119,12 +149,15 @@ def dispatch_card(m: dict, gist: str | None) -> str:
     # nest (a nested <a> auto-closes the card anchor, spilling the pills out as siblings). A
     # stretched overlay link makes the whole card clickable while the pills stay individually live.
     label = f'{_esc(m["body_name"])} {_esc(fmt_date(m["meeting_date"], with_time=False))}'
+    cd = _countdown_span(m["meeting_date"], m["status"])
+    cd_line = f'<p class="cd-line">&#9203; {cd}</p>' if cd else ''
     return (
         f'<div class="dispatch">'
         f'<a class="stretch" href="/meeting/{m["event_id"]}" aria-label="{label}"></a>'
         f'{_dateline(m["body_name"], m["meeting_date"])}'
         f'<h3>{_esc(m["body_name"])}</h3>'
         f'<p class="when">{_esc(fmt_date(m["meeting_date"]))}</p>'
+        f'{cd_line}'
         f'<p class="dispatch-gist">{_esc(snippet)}</p>'
         f'{_topic_pills(json.loads(m.get("agg_topics") or "[]"))}'
         f'<div class="card-foot">{stamp}<span class="go">Read the brief →</span></div>'
@@ -152,6 +185,11 @@ def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], o
         sources.append(f'<a href="{_esc(m["legistar_url"])}" target="_blank" rel="noopener">Full record on Legistar ↗</a>')
     source_row = f'<div class="source-row">{"".join(sources)}</div>' if sources else ""
 
+    cd = _countdown_span(m["meeting_date"], m["status"])
+    cd_banner = (f'<div class="cd-banner">&#9203; {cd}'
+                 f'<span class="cd-msg">— there\'s still time to make your voice heard before this meeting.</span>'
+                 f'</div>') if cd else ''
+
     docket = "".join(_docket_item(it, m["status"], votes_by_item.get(it["event_item_id"], [])) for it in items)
     docket_sec = (f'<section class="docket"><h2>Agenda <span class="count">{len(items)} items</span></h2>'
                   f'<ol class="docket-list">{docket}</ol></section>') if items else \
@@ -162,7 +200,7 @@ def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], o
         f'{_dateline(m["body_name"], m["meeting_date"])}'
         f'<h1>{title_h}</h1>'
         f'<p class="when">{when}{loc}</p>'
-        f'{gist}{source_row}{docket_sec}'
+        f'{cd_banner}{gist}{source_row}{docket_sec}'
         f'</article>'
     )
 
