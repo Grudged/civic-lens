@@ -1,0 +1,15 @@
+[Unit]
+Description=Civic Lens — Clark County meeting summaries (web)
+After=network.target
+
+[Service]
+Type=simple
+User=grudged
+WorkingDirectory=/home/grudged/repos/civic-lens
+ExecStart=/home/grudged/repos/civic-lens/venv/bin/uvicorn app.main:app --host 0.0.0.0 --port 8902
+Restart=always
+RestartSec=5
+Environment=HOME=/home/grudged
+
+[Install]
+WantedBy=multi-user.target

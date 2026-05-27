@@ -1,0 +1,10 @@
+[Unit]
+Description=Civic Lens — pull Clark County meetings from Legistar
+After=network.target
+
+[Service]
+Type=oneshot
+User=grudged
+WorkingDirectory=/home/grudged/repos/civic-lens
+ExecStart=/home/grudged/repos/civic-lens/venv/bin/python collect.py
+Environment=HOME=/home/grudged

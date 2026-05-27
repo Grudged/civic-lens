@@ -1,0 +1,10 @@
+[Unit]
+Description=Nightly Civic Lens Gemma summarization
+
+[Timer]
+# 10:45 PM Pacific — shortly after the collector pulls fresh meetings.
+OnCalendar=*-*-* 22:45:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

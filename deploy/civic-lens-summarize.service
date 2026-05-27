@@ -1,0 +1,14 @@
+[Unit]
+Description=Civic Lens — Gemma plain-English summaries
+# Runs after the collector. Calls the Mac's MLX server, so MLX_URL in .env must point at the
+# Mac LAN IP (http://192.168.0.79:8321). Best-effort: a Gemma/LAN outage leaves raw agendas intact.
+After=network.target civic-lens-collect.service
+Wants=civic-lens-collect.service
+
+[Service]
+Type=oneshot
+User=grudged
+WorkingDirectory=/home/grudged/repos/civic-lens
+ExecStart=/home/grudged/repos/civic-lens/venv/bin/python summarize_job.py
+Environment=HOME=/home/grudged
+TimeoutStartSec=5400
