@@ -78,11 +78,15 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(1.5rem, 4vw, 3rem)
 /* ---- dispatch cards (listings) ---- */
 .dispatch-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 1.1rem; }
 .dispatch {
-  display: flex; flex-direction: column; gap: .35rem; text-decoration: none; color: inherit;
+  position: relative;
+  display: flex; flex-direction: column; gap: .35rem; color: inherit;
   background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 1.3rem 1.4rem;
   transition: border-color .15s, box-shadow .2s, transform .15s;
 }
 .dispatch:hover { border-color: var(--indigo); box-shadow: 0 6px 22px rgba(26,27,31,.10); transform: translateY(-2px); }
+/* stretched overlay link → whole card clicks through to the meeting; pills sit above it (z-index) */
+.dispatch .stretch { position: absolute; inset: 0; z-index: 0; border-radius: 4px; }
+.dispatch .pills { position: relative; z-index: 1; }
 .dispatch h3 { font-size: 1.35rem; }
 .dispatch .when { font-family: var(--mono); font-size: .78rem; color: var(--ink-soft); margin: .1rem 0 .4rem; }
 .dispatch-gist { color: var(--ink-soft); font-size: .95rem; margin: 0; }

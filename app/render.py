@@ -115,15 +115,20 @@ def _dateline(body_name: str, date_iso: str) -> str:
 def dispatch_card(m: dict, gist: str | None) -> str:
     snippet = gist or f'{m["item_count"]} agenda items'
     stamp = '<span class="stamp upcoming">Upcoming</span>' if m["status"] == "upcoming" else '<span class="stamp neutral">Decided</span>'
+    # The card is a <div>, NOT an <a>: the topic pills are themselves <a> links and anchors can't
+    # nest (a nested <a> auto-closes the card anchor, spilling the pills out as siblings). A
+    # stretched overlay link makes the whole card clickable while the pills stay individually live.
+    label = f'{_esc(m["body_name"])} {_esc(fmt_date(m["meeting_date"], with_time=False))}'
     return (
-        f'<a class="dispatch" href="/meeting/{m["event_id"]}">'
+        f'<div class="dispatch">'
+        f'<a class="stretch" href="/meeting/{m["event_id"]}" aria-label="{label}"></a>'
         f'{_dateline(m["body_name"], m["meeting_date"])}'
         f'<h3>{_esc(m["body_name"])}</h3>'
         f'<p class="when">{_esc(fmt_date(m["meeting_date"]))}</p>'
         f'<p class="dispatch-gist">{_esc(snippet)}</p>'
         f'{_topic_pills(json.loads(m.get("agg_topics") or "[]"))}'
         f'<div class="card-foot">{stamp}<span class="go">Read the brief →</span></div>'
-        f'</a>'
+        f'</div>'
     )
 
 
