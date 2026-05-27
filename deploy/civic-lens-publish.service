@@ -1,0 +1,11 @@
+[Unit]
+Description=Civic Lens — export + push data/civic.json to GitHub (Hetzner pulls it)
+After=network.target civic-lens-summarize.service
+Wants=civic-lens-summarize.service
+
+[Service]
+Type=oneshot
+User=grudged
+WorkingDirectory=/home/grudged/repos/civic-lens
+ExecStart=/bin/bash tools/publish.sh
+Environment=HOME=/home/grudged

@@ -1,0 +1,10 @@
+[Unit]
+Description=Nightly Civic Lens publish to GitHub
+
+[Timer]
+# 11:00 PM Pacific — after collect (22:30) and summarize (22:45).
+OnCalendar=*-*-* 23:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
