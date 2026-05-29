@@ -16802,6 +16802,2608 @@
     "topics": "[]"
    }
   ],
+  "geocodes": [
+   {
+    "geo_key": "oakey boulevard & red rock street",
+    "geocoded_at": "2026-05-29T14:33:57.491436+00:00",
+    "label": "North of Oakey Blvd and west of Red Rock St within the Spring Valley planning area",
+    "lat": 36.151793,
+    "lng": -115.223399,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "warm springs road & fort apache road",
+    "geocoded_at": "2026-05-29T14:33:57.963247+00:00",
+    "label": "South of Warm Springs Rd and west of Fort Apache Rd within Enterprise",
+    "lat": 36.055557,
+    "lng": -115.297423,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::paradise",
+    "geocoded_at": "2026-05-29T14:33:58.219585+00:00",
+    "label": "Between Las Vegas Blvd South and Linq Ln, and Flamingo Rd and Albert Ave (alignment) within Paradise (description on file)",
+    "lat": 36.0972,
+    "lng": -115.1467,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "las vegas boulevard south & flamingo road",
+    "geocoded_at": "2026-05-29T14:33:58.448110+00:00",
+    "label": "East of Las Vegas Blvd South and north of Flamingo Rd within Paradise",
+    "lat": 36.114721,
+    "lng": -115.172855,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "mohawk street & sobb avenue",
+    "geocoded_at": "2026-05-29T14:33:58.918445+00:00",
+    "label": "East of Mohawk St and south of Sobb Ave (alignment) within Spring Valley",
+    "lat": 36.108,
+    "lng": -115.245,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "area::spring valley",
+    "geocoded_at": "2026-05-29T14:33:59.174314+00:00",
+    "label": "Between Sobb Ave (alignment) and Teco Ave (alignment), and Mohawk St (alignment) and Edmond St (alignment) within Spring Valley (description on file)",
+    "lat": 36.108,
+    "lng": -115.245,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "richmar avenue & arville street",
+    "geocoded_at": "2026-05-29T14:33:59.253504+00:00",
+    "label": "North of Richmar Ave and east of Arville St within Enterprise (description on file)",
+    "lat": 36.017138,
+    "lng": -115.198835,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::enterprise",
+    "geocoded_at": "2026-05-29T14:33:59.508697+00:00",
+    "label": "Between Richmar Ave and Serene Ave, and Arville St and Hinson St within Enterprise (description on file)",
+    "lat": 36.0136,
+    "lng": -115.24,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "valley view boulevard & cactus avenue",
+    "geocoded_at": "2026-05-29T14:34:00.155390+00:00",
+    "label": "East of Valley View Blvd and north of Cactus Ave within Enterprise",
+    "lat": 35.998881,
+    "lng": -115.189533,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pebble road and east & grand canyon drive",
+    "geocoded_at": "2026-05-29T14:34:00.650646+00:00",
+    "label": "North of Pebble Rd and east and west of Grand Canyon Dr (alignment) within Enterprise",
+    "lat": 36.0136,
+    "lng": -115.24,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "pebble road & grand canyon drive",
+    "geocoded_at": "2026-05-29T14:34:00.993996+00:00",
+    "label": "South of Pebble Rd and east of Grand Canyon Dr within Enterprise",
+    "lat": 36.026134,
+    "lng": -115.307059,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "agate avenue & pioneer way",
+    "geocoded_at": "2026-05-29T14:34:01.356631+00:00",
+    "label": "South of Agate Ave and west of Pioneer Way within Enterprise",
+    "lat": 36.023081,
+    "lng": -115.256455,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "elizabeth avenue & maryland parkway",
+    "geocoded_at": "2026-05-29T14:34:01.691490+00:00",
+    "label": "South of Elizabeth Ave and east of Maryland Pkwy within Paradise",
+    "lat": 36.102381,
+    "lng": -115.137015,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "silverado ranch boulevard & las vegas boulevard south",
+    "geocoded_at": "2026-05-29T14:34:02.139207+00:00",
+    "label": "South of Silverado Ranch Blvd and west of Las Vegas Blvd South within Enterprise",
+    "lat": 36.013741,
+    "lng": -115.172397,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "arville street & pebble road",
+    "geocoded_at": "2026-05-29T14:34:02.469375+00:00",
+    "label": "East of Arville St and south of Pebble Rd within Enterprise",
+    "lat": 36.02808,
+    "lng": -115.198917,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pebble road & arville street",
+    "geocoded_at": "2026-05-29T14:34:02.808822+00:00",
+    "label": "South of Pebble Rd and east of Arville St within Enterprise",
+    "lat": 36.02808,
+    "lng": -115.198917,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::lone mountain",
+    "geocoded_at": "2026-05-29T14:34:03.064245+00:00",
+    "label": "Between Michelli Crest Way and Egan Crest Dr, and Bright Angel Way and Azure Dr within Lone Mountain (description on file)",
+    "lat": 36.254,
+    "lng": -115.279,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "bright angel way & michelli crest way",
+    "geocoded_at": "2026-05-29T14:34:03.141098+00:00",
+    "label": "North of Bright Angel Way and east of Michelli Crest Way within Lone Mountain",
+    "lat": 36.271772,
+    "lng": -115.321892,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "las vegas boulevard south & arby avenue",
+    "geocoded_at": "2026-05-29T14:34:03.842277+00:00",
+    "label": "West of Las Vegas Blvd South and north of Arby Ave within Enterprise",
+    "lat": 36.060464,
+    "lng": -115.172359,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "oleta avenue & conquistador street",
+    "geocoded_at": "2026-05-29T14:34:04.156588+00:00",
+    "label": "North of Oleta Ave and west of Conquistador St within Enterprise",
+    "lat": 36.020425,
+    "lng": -115.311811,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "silver falls avenue & silver view street",
+    "geocoded_at": "2026-05-29T14:34:04.637512+00:00",
+    "label": "South of Silver Falls Ave and west of Silver View St within Paradise",
+    "lat": 36.015904,
+    "lng": -115.131525,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "kraft avenue & grand canyon drive",
+    "geocoded_at": "2026-05-29T14:34:04.953197+00:00",
+    "label": "South of Kraft Ave and west of Grand Canyon Dr within Lone Mountain",
+    "lat": 36.246181,
+    "lng": -115.306244,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "blue diamond road & erskine junction road",
+    "geocoded_at": "2026-05-29T14:34:05.318384+00:00",
+    "label": "South of Blue Diamond Rd and east of Erskine Junction Rd within Red Rock",
+    "lat": 36.034946,
+    "lng": -115.358882,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "willow avenue & metcalf drive",
+    "geocoded_at": "2026-05-29T14:34:05.812237+00:00",
+    "label": "North of Willow Ave and east of Metcalf Dr within Moapa Valley",
+    "lat": 36.543,
+    "lng": -114.448,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "wells avenue & moapa valley boulevard",
+    "geocoded_at": "2026-05-29T14:34:06.136514+00:00",
+    "label": "North of Wells Ave and west of Moapa Valley Blvd within Moapa Valley",
+    "lat": 36.620722,
+    "lng": -114.484236,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "eldorado lane and east & schirlls street",
+    "geocoded_at": "2026-05-29T14:34:06.487398+00:00",
+    "label": "South of Eldorado Ln and east and west of Schirlls St within Enterprise",
+    "lat": 36.0136,
+    "lng": -115.24,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "warm springs road and east & hinson street",
+    "geocoded_at": "2026-05-29T14:34:06.895156+00:00",
+    "label": "South of Warm Springs Rd and east and west of Hinson St within Enterprise",
+    "lat": 36.0136,
+    "lng": -115.24,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "edmond street & russell road",
+    "geocoded_at": "2026-05-29T14:34:07.232524+00:00",
+    "label": "West of Edmond St and south of Russell Rd within Spring Valley",
+    "lat": 36.086114,
+    "lng": -115.212264,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "russell road & edmond street",
+    "geocoded_at": "2026-05-29T14:34:07.656348+00:00",
+    "label": "South of Russell Rd and west of Edmond St within Spring Valley",
+    "lat": 36.086114,
+    "lng": -115.212264,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "desert inn road & maryland parkway",
+    "geocoded_at": "2026-05-29T14:34:08.116502+00:00",
+    "label": "North of Desert Inn Rd and west of Maryland Pkwy within Winchester",
+    "lat": 36.129775,
+    "lng": -115.136902,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "starr hills avenue & dalia grove street",
+    "geocoded_at": "2026-05-29T14:34:08.431473+00:00",
+    "label": "North of Starr Hills Ave and west of Dalia Grove St within Enterprise",
+    "lat": 35.984215,
+    "lng": -115.21186,
+    "precision": "point",
+    "score": 95.17,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "fogg street & bonanza road",
+    "geocoded_at": "2026-05-29T14:34:08.753038+00:00",
+    "label": "West of Fogg St and south of Bonanza Rd within Sunrise Manor",
+    "lat": 36.174155,
+    "lng": -115.034892,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "desert inn road & torrey pines drive",
+    "geocoded_at": "2026-05-29T14:34:09.142228+00:00",
+    "label": "North of Desert Inn Rd and east of Torrey Pines Dr within Spring Valley",
+    "lat": 36.129295,
+    "lng": -115.233959,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pecos road & oquendo road",
+    "geocoded_at": "2026-05-29T14:34:09.574831+00:00",
+    "label": "East of Pecos Rd and south of Oquendo Rd (alignment) within Paradise",
+    "lat": 36.082724,
+    "lng": -115.100962,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "desert inn road & seneca drive",
+    "geocoded_at": "2026-05-29T14:34:09.905403+00:00",
+    "label": "North of Desert Inn Rd and east of Seneca Dr within Winchester",
+    "lat": 36.129878,
+    "lng": -115.125963,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sahara avenue & town center drive",
+    "geocoded_at": "2026-05-29T14:34:10.303480+00:00",
+    "label": "North of Sahara Ave, and west of Town Center Dr within Summerlin South",
+    "lat": 36.144403,
+    "lng": -115.326472,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "flamingo road & cambridge street",
+    "geocoded_at": "2026-05-29T14:34:10.651463+00:00",
+    "label": "North of Flamingo Rd and east of Cambridge St within Paradise",
+    "lat": 36.114621,
+    "lng": -115.142246,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "lamont street & alto avenue",
+    "geocoded_at": "2026-05-29T14:34:10.958508+00:00",
+    "label": "West of Lamont St and north of Alto Ave within Sunrise Manor",
+    "lat": 36.2108,
+    "lng": -115.066689,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "tropicana avenue & mojave road",
+    "geocoded_at": "2026-05-29T14:34:11.356106+00:00",
+    "label": "North of Tropicana Ave and east of Mojave Rd within Paradise",
+    "lat": 36.100025,
+    "lng": -115.105567,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::searchlight",
+    "geocoded_at": "2026-05-29T14:34:11.612383+00:00",
+    "label": "Between Armed Forces St and Gasline Rd, and Gaviland St and Check Ride Ave within Searchlight (description on file)",
+    "lat": 35.4647,
+    "lng": -114.9183,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "pioneer avenue & decatur boulevard",
+    "geocoded_at": "2026-05-29T14:34:11.828115+00:00",
+    "label": "South of Pioneer Ave and east of Decatur Blvd within Paradise",
+    "lat": 36.128124,
+    "lng": -115.208102,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "rush avenue & cameron street",
+    "geocoded_at": "2026-05-29T14:34:12.135920+00:00",
+    "label": "South of Rush Ave and east of Cameron St within Enterprise",
+    "lat": 36.000527,
+    "lng": -115.203457,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "kimberly avenue & steptoe street",
+    "geocoded_at": "2026-05-29T14:34:12.436510+00:00",
+    "label": "North of Kimberly Ave and east of Steptoe St within Whitney",
+    "lat": 36.09815,
+    "lng": -115.03901,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "monte cristo way & coley avenue",
+    "geocoded_at": "2026-05-29T14:34:12.778340+00:00",
+    "label": "West of Monte Cristo Way and north of Coley Ave within Spring Valley",
+    "lat": 36.134744,
+    "lng": -115.254224,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "viking road & mcleod drive",
+    "geocoded_at": "2026-05-29T14:34:13.142459+00:00",
+    "label": "South of Viking Rd and east of McLeod Dr within Paradise",
+    "lat": 36.118653,
+    "lng": -115.109818,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "kraft avenue & jace canyon court",
+    "geocoded_at": "2026-05-29T14:34:13.434500+00:00",
+    "label": "North of Kraft Ave and east of Jace Canyon Court within Lone Mountain",
+    "lat": 36.24627,
+    "lng": -115.301257,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "kris kringle road & seven dwarfs road",
+    "geocoded_at": "2026-05-29T14:34:13.745403+00:00",
+    "label": "South of Kris Kringle Rd and west of Seven Dwarfs Rd within Mt",
+    "lat": 36.262919,
+    "lng": -115.650207,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "smoke ranch road & apricot lane",
+    "geocoded_at": "2026-05-29T14:34:14.079756+00:00",
+    "label": "North of Smoke Ranch Rd and west of Apricot Ln within the Lone Mountain planning area",
+    "lat": 36.202859,
+    "lng": -115.211374,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "silverado ranch boulevard & gilespie street",
+    "geocoded_at": "2026-05-29T14:34:14.407862+00:00",
+    "label": "South of Silverado Ranch Blvd and east of Gilespie St within Enterprise",
+    "lat": 36.013493,
+    "lng": -115.163436,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "riverside road & hopeless way",
+    "geocoded_at": "2026-05-29T14:34:14.722417+00:00",
+    "label": "North of Riverside Rd and west of Hopeless Way (alignment) within Bunkerville",
+    "lat": 36.777088,
+    "lng": -114.111874,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "eldora avenue & jones boulevard",
+    "geocoded_at": "2026-05-29T14:34:15.032746+00:00",
+    "label": "North of Eldora Ave and east of Jones Blvd within Spring Valley",
+    "lat": 36.140455,
+    "lng": -115.225203,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "state route 168 & us-93",
+    "geocoded_at": "2026-05-29T14:34:19.473313+00:00",
+    "label": "South of State Route 168 and east of US-93 within the Northeast County",
+    "lat": 36.79919,
+    "lng": -114.946633,
+    "precision": "point",
+    "score": 91.53,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "town center drive & la madre mountain drive",
+    "geocoded_at": "2026-05-29T14:34:19.862427+00:00",
+    "label": "West of Town Center Dr and south of La Madre Mountain Dr within Summerlin South",
+    "lat": 36.14686,
+    "lng": -115.326255,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "spring mountain road & polaris avenue",
+    "geocoded_at": "2026-05-29T14:34:20.437790+00:00",
+    "label": "South of Spring Mountain Rd and east of Polaris Ave within Paradise",
+    "lat": 36.126356,
+    "lng": -115.185518,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "serene avenue & las vegas boulevard south",
+    "geocoded_at": "2026-05-29T14:34:20.778624+00:00",
+    "label": "North of Serene Ave and west of Las Vegas Blvd South within Enterprise",
+    "lat": 36.021045,
+    "lng": -115.172347,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cherokee avenue & rosewood drive",
+    "geocoded_at": "2026-05-29T14:34:21.162973+00:00",
+    "label": "South of Cherokee Ave and west of Rosewood Dr within Paradise",
+    "lat": 36.125049,
+    "lng": -115.086103,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cactus avenue & bermuda road",
+    "geocoded_at": "2026-05-29T14:34:21.632551+00:00",
+    "label": "South of Cactus Ave and west of Bermuda Rd within Enterprise",
+    "lat": 35.999312,
+    "lng": -115.154955,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "windmill lane & cimarron road",
+    "geocoded_at": "2026-05-29T14:34:22.054242+00:00",
+    "label": "South of Windmill Ln and west of Cimarron Rd within Enterprise",
+    "lat": 36.040921,
+    "lng": -115.27007,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "rochelle avenue & eastern avenue",
+    "geocoded_at": "2026-05-29T14:34:22.408343+00:00",
+    "label": "North of Rochelle Ave and west of Eastern Ave within Paradise",
+    "lat": 36.110979,
+    "lng": -115.11915,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "linn lane & lake mead boulevard",
+    "geocoded_at": "2026-05-29T14:34:22.718080+00:00",
+    "label": "East of Linn Ln and north of Lake Mead Blvd within Sunrise Manor",
+    "lat": 36.196225,
+    "lng": -115.048237,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "lake mead boulevard & linn lane",
+    "geocoded_at": "2026-05-29T14:34:23.534688+00:00",
+    "label": "North of Lake Mead Blvd and east of Linn Ln within Sunrise Manor",
+    "lat": 36.196225,
+    "lng": -115.048237,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "jones boulevard & oquendo road",
+    "geocoded_at": "2026-05-29T14:34:23.946457+00:00",
+    "label": "East of Jones Blvd and north of Oquendo Rd within Spring Valley (description on file)",
+    "lat": 36.081763,
+    "lng": -115.225071,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sahara avenue & monte cristo way",
+    "geocoded_at": "2026-05-29T14:34:24.261996+00:00",
+    "label": "South of Sahara Ave and west of Monte Cristo Way within Spring Valley",
+    "lat": 36.14385,
+    "lng": -115.25417,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "warm springs road & durango drive",
+    "geocoded_at": "2026-05-29T14:34:24.627362+00:00",
+    "label": "North of Warm Springs Rd and west of Durango Dr within Spring Valley",
+    "lat": 36.055532,
+    "lng": -115.279169,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "topaz street & oleta avenue",
+    "geocoded_at": "2026-05-29T14:34:24.987726+00:00",
+    "label": "East of Topaz St and south of Oleta Ave within Paradise",
+    "lat": 36.022289,
+    "lng": -115.114103,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "boulder highway & english avenue",
+    "geocoded_at": "2026-05-29T14:34:25.329636+00:00",
+    "label": "East of Boulder Hwy and north of English Ave within Whitney (description on file)",
+    "lat": 36.098596,
+    "lng": -115.048407,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "nellis boulevard & cheyenne avenue",
+    "geocoded_at": "2026-05-29T14:34:25.684692+00:00",
+    "label": "East of Nellis Blvd and south of Cheyenne Ave within Sunrise Manor (description on file)",
+    "lat": 36.218325,
+    "lng": -115.062174,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "durango drive & badura avenue",
+    "geocoded_at": "2026-05-29T14:34:26.045258+00:00",
+    "label": "East of Durango Dr and north of Badura Ave within Spring Valley",
+    "lat": 36.061086,
+    "lng": -115.279274,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "serene avenue & redwood street",
+    "geocoded_at": "2026-05-29T14:34:26.404526+00:00",
+    "label": "South of Serene Ave and west of Redwood St within Enterprise",
+    "lat": 36.020547,
+    "lng": -115.239047,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "lake mead boulevard & marion drive",
+    "geocoded_at": "2026-05-29T14:34:26.999582+00:00",
+    "label": "North of Lake Mead Blvd and east of Marion Dr within Sunrise Manor",
+    "lat": 36.195919,
+    "lng": -115.070995,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "las vegas boulevard south & russell road",
+    "geocoded_at": "2026-05-29T14:34:27.612204+00:00",
+    "label": "East of Las Vegas Blvd South and south of Russell Rd (alignment) within Paradise",
+    "lat": 36.086149,
+    "lng": -115.172893,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::sunrise manor",
+    "geocoded_at": "2026-05-29T14:34:27.867226+00:00",
+    "label": "Between Hollywood Blvd and Easement Ln, and Owens Ave and Hathaway Dr within Sunrise Manor (description on file)",
+    "lat": 36.211,
+    "lng": -115.073,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "topanga street & hermosa street",
+    "geocoded_at": "2026-05-29T14:34:27.921971+00:00",
+    "label": "East of Topanga St and south of Hermosa St within Winchester",
+    "lat": 36.139636,
+    "lng": -115.134042,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "hacienda avenue & san anselmo street",
+    "geocoded_at": "2026-05-29T14:34:28.462628+00:00",
+    "label": "North of Hacienda Ave and west of San Anselmo St within Paradise",
+    "lat": 36.092904,
+    "lng": -115.070527,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "las vegas boulevard south & harmon avenue",
+    "geocoded_at": "2026-05-29T14:34:29.055202+00:00",
+    "label": "East of Las Vegas Blvd South and south of Harmon Ave within Paradise",
+    "lat": 36.108813,
+    "lng": -115.172983,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "las vegas boulevard south & erie avenue",
+    "geocoded_at": "2026-05-29T14:34:29.536714+00:00",
+    "label": "East of Las Vegas Blvd South and south of Erie Ave within Enterprise",
+    "lat": 35.991929,
+    "lng": -115.172612,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "us hwy 95 & sky road",
+    "geocoded_at": "2026-05-29T14:34:29.851034+00:00",
+    "label": "South of US Hwy 95 and west of Sky Rd (alignment) within Indian Springs",
+    "lat": 36.5686,
+    "lng": -115.67,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "fremont street & st",
+    "geocoded_at": "2026-05-29T14:34:30.204916+00:00",
+    "label": "East of Fremont St and north of St",
+    "lat": null,
+    "lng": null,
+    "precision": "none",
+    "score": null,
+    "source": null
+   },
+   {
+    "geo_key": "convention center drive & debbie reynolds drive",
+    "geocoded_at": "2026-05-29T14:34:30.528932+00:00",
+    "label": "South of Convention Center Dr and west of Debbie Reynolds Dr within Winchester",
+    "lat": 36.132301,
+    "lng": -115.15802,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "riverside road & sarah shannon drive",
+    "geocoded_at": "2026-05-29T14:34:31.231628+00:00",
+    "label": "South of Riverside Rd and east of Sarah Shannon Dr (alignment) within Bunkerville (description on file)",
+    "lat": 36.766223,
+    "lng": -114.1322,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "ensworth street & ford avenue",
+    "geocoded_at": "2026-05-29T14:34:31.527249+00:00",
+    "label": "West of Ensworth St and south of Ford Ave (alignment) within Enterprise",
+    "lat": 36.031887,
+    "lng": -115.179671,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::upper and lower kyle canyon",
+    "geocoded_at": "2026-05-29T14:34:31.783583+00:00",
+    "label": "Between Kyle Canyon Rd and Horse Dr, and Cardenas Way and Moss Way within Upper and Lower Kyle Canyon (description on file)",
+    "lat": null,
+    "lng": null,
+    "precision": "none",
+    "score": null,
+    "source": null
+   },
+   {
+    "geo_key": "kyle canyon road & cardenas way",
+    "geocoded_at": "2026-05-29T14:34:31.856707+00:00",
+    "label": "North of Kyle Canyon Rd and east of Cardenas Way within Upper and Lower Kyle Canyon",
+    "lat": 36.311627,
+    "lng": -115.385836,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sunset road & surrey street",
+    "geocoded_at": "2026-05-29T14:34:32.331569+00:00",
+    "label": "South of Sunset Rd and east of Surrey St within Paradise",
+    "lat": 36.071652,
+    "lng": -115.123784,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sunset road & windy road",
+    "geocoded_at": "2026-05-29T14:34:32.918438+00:00",
+    "label": "North of Sunset Rd and west of Windy Rd within Paradise",
+    "lat": 36.07097,
+    "lng": -115.17685,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "silverado ranch boulevard & ullom drive",
+    "geocoded_at": "2026-05-29T14:34:33.250527+00:00",
+    "label": "North of Silverado Ranch Blvd and east of Ullom Dr within Enterprise",
+    "lat": 36.0136,
+    "lng": -115.24,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "carey avenue & lamont street",
+    "geocoded_at": "2026-05-29T14:34:33.629079+00:00",
+    "label": "North of Carey Ave and west of Lamont St within Sunrise Manor",
+    "lat": 36.203478,
+    "lng": -115.066675,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "marion drive & melvin street",
+    "geocoded_at": "2026-05-29T14:34:33.991563+00:00",
+    "label": "West of Marion Dr and south of Melvin St within Sunrise Manor",
+    "lat": 36.207386,
+    "lng": -115.071157,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "las vegas boulevard north & nellis boulevard",
+    "geocoded_at": "2026-05-29T14:34:34.462170+00:00",
+    "label": "South of Las Vegas Blvd North and east of Nellis Blvd within Sunrise Manor (description on file)",
+    "lat": 36.235973,
+    "lng": -115.062146,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "wigwam avenue & eastern avenue",
+    "geocoded_at": "2026-05-29T14:34:34.829710+00:00",
+    "label": "North of Wigwam Ave and west of Eastern Ave within Paradise (description on file)",
+    "lat": 36.03494,
+    "lng": -115.118362,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "topaz street & dustin avenue",
+    "geocoded_at": "2026-05-29T14:34:35.141269+00:00",
+    "label": "East of Topaz St and north of Dustin Ave within Paradise (description on file)",
+    "lat": 36.081713,
+    "lng": -115.114314,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "dustin avenue & topaz street",
+    "geocoded_at": "2026-05-29T14:34:35.439878+00:00",
+    "label": "North of Dustin Ave and east of Topaz St within Paradise",
+    "lat": 36.081713,
+    "lng": -115.114314,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pebble road & i-15 right-of-way",
+    "geocoded_at": "2026-05-29T14:34:35.782752+00:00",
+    "label": "South of Pebble Rd and west of I-15 right-of-way within Enterprise",
+    "lat": 36.0136,
+    "lng": -115.24,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "blue diamond road & cameron street",
+    "geocoded_at": "2026-05-29T14:34:36.106749+00:00",
+    "label": "South of Blue Diamond Rd and west of Cameron St within Spring Valley",
+    "lat": 36.034453,
+    "lng": -115.203679,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "fourth street & avenue g",
+    "geocoded_at": "2026-05-29T14:34:36.410593+00:00",
+    "label": "East of Fourth St and north of Ave G within the Whitney planning area",
+    "lat": 36.041745,
+    "lng": -115.00714,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "blue diamond road & grand canyon drive",
+    "geocoded_at": "2026-05-29T14:34:36.731192+00:00",
+    "label": "South of Blue Diamond Rd and west of Grand Canyon Dr within Enterprise",
+    "lat": 36.021721,
+    "lng": -115.307143,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "nellis boulevard & carey avenue",
+    "geocoded_at": "2026-05-29T14:34:37.055343+00:00",
+    "label": "West of Nellis Blvd and north of Carey Ave within Sunrise Manor",
+    "lat": 36.203609,
+    "lng": -115.062174,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "fremont street & oakey boulevard",
+    "geocoded_at": "2026-05-29T14:34:37.368270+00:00",
+    "label": "East of Fremont St and north of Oakey Blvd within Sunrise Manor",
+    "lat": 36.152174,
+    "lng": -115.108752,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "blue diamond road & durango drive",
+    "geocoded_at": "2026-05-29T14:34:37.674534+00:00",
+    "label": "South of Blue Diamond Rd and west of Durango Dr within Enterprise",
+    "lat": 36.020268,
+    "lng": -115.279236,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "eastern avenue & palora avenue",
+    "geocoded_at": "2026-05-29T14:34:38.013553+00:00",
+    "label": "East of Eastern Ave and north of Palora Ave within Winchester",
+    "lat": 36.134143,
+    "lng": -115.118578,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "westpark court & aspen street",
+    "geocoded_at": "2026-05-29T14:34:38.312892+00:00",
+    "label": "South of Westpark Court and west of Aspen St within Spring Valley",
+    "lat": 36.111799,
+    "lng": -115.243674,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "schirlls street & badura avenue",
+    "geocoded_at": "2026-05-29T14:34:38.612799+00:00",
+    "label": "West of Schirlls St and north of Badura Ave within Enterprise",
+    "lat": 36.062604,
+    "lng": -115.197008,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "decatur boulevard & ford avenue",
+    "geocoded_at": "2026-05-29T14:34:38.961637+00:00",
+    "label": "East of Decatur Blvd and south of Ford Ave within Enterprise",
+    "lat": 36.031574,
+    "lng": -115.207887,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "maryland parkway & cactus avenue",
+    "geocoded_at": "2026-05-29T14:34:39.311196+00:00",
+    "label": "West of Maryland Pkwy and south of Cactus Ave within Enterprise",
+    "lat": 35.999081,
+    "lng": -115.136916,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cactus avenue & maryland parkway",
+    "geocoded_at": "2026-05-29T14:34:39.640696+00:00",
+    "label": "South of Cactus Ave and west of Maryland Pkwy within Enterprise",
+    "lat": 35.999081,
+    "lng": -115.136916,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "buffalo drive & sunset road",
+    "geocoded_at": "2026-05-29T14:34:40.057033+00:00",
+    "label": "East of Buffalo Dr and south of Sunset Rd within Spring Valley",
+    "lat": 36.070196,
+    "lng": -115.260706,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "buffalo drive & torino avenue",
+    "geocoded_at": "2026-05-29T14:34:40.386477+00:00",
+    "label": "West of Buffalo Dr and north of Torino Ave (alignment) within Enterprise",
+    "lat": 36.028237,
+    "lng": -115.260736,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "rainbow boulevard & meranto avenue",
+    "geocoded_at": "2026-05-29T14:34:40.871858+00:00",
+    "label": "West of Rainbow Blvd and north of Meranto Ave within Enterprise",
+    "lat": 36.018696,
+    "lng": -115.243494,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "highland drive & sahara avenue",
+    "geocoded_at": "2026-05-29T14:34:41.217863+00:00",
+    "label": "East of Highland Dr and south of Sahara Ave within Winchester",
+    "lat": 36.144106,
+    "lng": -115.168942,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "billman avenue & sandhill road",
+    "geocoded_at": "2026-05-29T14:34:41.522702+00:00",
+    "label": "North of Billman Ave and west of Sandhill Rd within Paradise",
+    "lat": 36.105761,
+    "lng": -115.091844,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "canterbury court & spencer street",
+    "geocoded_at": "2026-05-29T14:34:41.857146+00:00",
+    "label": "North of Canterbury Court and west of Spencer St within Paradise",
+    "lat": 36.10384,
+    "lng": -115.128086,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "quarterhouse lane & sobb avenue",
+    "geocoded_at": "2026-05-29T14:34:42.151491+00:00",
+    "label": "East of Quarterhouse Ln and south of Sobb Ave within Spring Valley",
+    "lat": 36.075843,
+    "lng": -115.293107,
+    "precision": "point",
+    "score": 95.17,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "eastern avenue & rochelle avenue",
+    "geocoded_at": "2026-05-29T14:34:42.496446+00:00",
+    "label": "East of Eastern Ave and south of Rochelle Ave within Paradise",
+    "lat": 36.110979,
+    "lng": -115.11915,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "vegas valley drive & augusta drive",
+    "geocoded_at": "2026-05-29T14:34:42.901978+00:00",
+    "label": "South of Vegas Valley Dr and west of Augusta Dr within Winchester (description on file)",
+    "lat": 36.138434,
+    "lng": -115.141415,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "stephanie street & hacienda avenue",
+    "geocoded_at": "2026-05-29T14:34:43.218706+00:00",
+    "label": "East of Stephanie St and south of Hacienda Ave (alignment) within Whitney",
+    "lat": 36.09312,
+    "lng": -115.046143,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "desert inn & sandhill road",
+    "geocoded_at": "2026-05-29T14:34:43.857251+00:00",
+    "label": "South of Desert Inn and east of Sandhill Rd within Paradise",
+    "lat": 36.129605,
+    "lng": -115.091896,
+    "precision": "point",
+    "score": 88.71,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "patrick lane & annie oakley drive",
+    "geocoded_at": "2026-05-29T14:34:44.221459+00:00",
+    "label": "South of Patrick Ln and east of Annie Oakley Dr within Paradise",
+    "lat": 36.078454,
+    "lng": -115.086915,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "warm springs road & arville street",
+    "geocoded_at": "2026-05-29T14:34:44.578309+00:00",
+    "label": "South of Warm Springs Rd and west of Arville St within Enterprise",
+    "lat": 36.057149,
+    "lng": -115.199325,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "la madre way & durango drive",
+    "geocoded_at": "2026-05-29T14:34:45.278790+00:00",
+    "label": "South of La Madre Way and west of Durango Dr within Lone Mountain",
+    "lat": 36.251994,
+    "lng": -115.279059,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "eldorado lane & arville street",
+    "geocoded_at": "2026-05-29T14:34:45.930016+00:00",
+    "label": "North of Eldorado Ln and west of Arville St within Enterprise",
+    "lat": 36.053508,
+    "lng": -115.199321,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "mardon avenue & arville street",
+    "geocoded_at": "2026-05-29T14:34:46.238762+00:00",
+    "label": "South of Mardon Ave and east of Arville St within Enterprise",
+    "lat": 36.055331,
+    "lng": -115.199322,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "naples drive & paradise road",
+    "geocoded_at": "2026-05-29T14:34:46.543506+00:00",
+    "label": "North of Naples Dr and west of Paradise Rd within Paradise (description on file)",
+    "lat": 36.105717,
+    "lng": -115.151342,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "russell road & durango drive",
+    "geocoded_at": "2026-05-29T14:34:46.898410+00:00",
+    "label": "North of Russell Rd and west of Durango Dr within Spring Valley",
+    "lat": 36.085222,
+    "lng": -115.279235,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "las vegas boulevard & erie avenue",
+    "geocoded_at": "2026-05-29T14:34:47.337258+00:00",
+    "label": "West of Las Vegas Blvd and south of Erie Ave within Enterprise",
+    "lat": 35.991929,
+    "lng": -115.172612,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sunset road & tenaya way",
+    "geocoded_at": "2026-05-29T14:34:47.709877+00:00",
+    "label": "North of Sunset Rd and east of Tenaya Way within Spring Valley",
+    "lat": 36.07035,
+    "lng": -115.251585,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pebble road & torrey pines drive",
+    "geocoded_at": "2026-05-29T14:34:48.109116+00:00",
+    "label": "North of Pebble Rd and east of Torrey Pines Dr within Enterprise",
+    "lat": 36.027233,
+    "lng": -115.234589,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "rainbow boulevard & landberg avenue",
+    "geocoded_at": "2026-05-29T14:34:48.751815+00:00",
+    "label": "West of Rainbow Blvd and north of Landberg Ave within Enterprise",
+    "lat": 36.011408,
+    "lng": -115.243525,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "chartan avenue & rancho destino road",
+    "geocoded_at": "2026-05-29T14:34:49.124310+00:00",
+    "label": "North of Chartan Ave and west of Rancho Destino Rd within Enterprise",
+    "lat": 35.988415,
+    "lng": -115.165981,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sunset road & tioga way",
+    "geocoded_at": "2026-05-29T14:34:49.498539+00:00",
+    "label": "South of Sunset Rd and west of Tioga Way within Spring Valley",
+    "lat": 36.070234,
+    "lng": -115.258424,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::moapa valley",
+    "geocoded_at": "2026-05-29T14:34:49.753977+00:00",
+    "label": "South of Wildlife Rd and northwest of Moapa Valley Blvd (State Hwy 169) within Moapa Valley",
+    "lat": 36.543,
+    "lng": -114.448,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "tropicana avenue & fort apache road",
+    "geocoded_at": "2026-05-29T14:34:49.852742+00:00",
+    "label": "North of Tropicana Ave and east of Fort Apache Rd within Spring Valley",
+    "lat": 36.100025,
+    "lng": -115.297295,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "walnut road & cecile avenue",
+    "geocoded_at": "2026-05-29T14:34:50.219335+00:00",
+    "label": "East of Walnut Rd and north of Cecile Ave within Sunrise Manor",
+    "lat": 36.214034,
+    "lng": -115.089326,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sun valley drive & nellis boulevard",
+    "geocoded_at": "2026-05-29T14:34:50.685519+00:00",
+    "label": "North of Sun Valley Dr and east of Nellis Blvd within Whitney",
+    "lat": 36.104826,
+    "lng": -115.064176,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "torino avenue & wounded horse trail",
+    "geocoded_at": "2026-05-29T14:34:51.007513+00:00",
+    "label": "South of Torino Ave and east of Wounded Horse Trail within Red Rock",
+    "lat": 36.028068,
+    "lng": -115.340407,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sterling creek street & rock stream lane",
+    "geocoded_at": "2026-05-29T14:34:51.390662+00:00",
+    "label": "West of Sterling Creek St and south of Rock Stream Ln within Enterprise",
+    "lat": 36.001482,
+    "lng": -115.228601,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "mondell pine circle & bristlecone street",
+    "geocoded_at": "2026-05-29T14:34:51.694216+00:00",
+    "label": "North of Mondell Pine Circle and west of Bristlecone St within Spring Valley",
+    "lat": 36.127242,
+    "lng": -115.232181,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sego glen circle & sego drive",
+    "geocoded_at": "2026-05-29T14:34:51.985105+00:00",
+    "label": "West of Sego Glen Circle and south of Sego Dr within Paradise",
+    "lat": 36.127886,
+    "lng": -115.107911,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "blue diamond road & cimarron road",
+    "geocoded_at": "2026-05-29T14:34:52.296364+00:00",
+    "label": "South of Blue Diamond Rd and west of Cimarron Rd within Enterprise",
+    "lat": 36.02023,
+    "lng": -115.270205,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "russell road & nellis boulevard",
+    "geocoded_at": "2026-05-29T14:34:52.699879+00:00",
+    "label": "South of Russell Rd and west of Nellis Blvd (alignment) within Paradise",
+    "lat": 36.087308,
+    "lng": -115.063994,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "marion drive & judson avenue",
+    "geocoded_at": "2026-05-29T14:34:53.028933+00:00",
+    "label": "West of Marion Dr and north of Judson Ave within Sunrise Manor",
+    "lat": 36.199629,
+    "lng": -115.071085,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "serene avenue & decatur boulevard",
+    "geocoded_at": "2026-05-29T14:34:53.348284+00:00",
+    "label": "South of Serene Ave and east of Decatur Blvd within Enterprise",
+    "lat": 36.020642,
+    "lng": -115.207902,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "tropicana avenue & las vegas boulevard south",
+    "geocoded_at": "2026-05-29T14:34:53.688480+00:00",
+    "label": "South of Tropicana Ave and east of Las Vegas Blvd South within Paradise",
+    "lat": 36.100857,
+    "lng": -115.172956,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "maule avenue & spencer street",
+    "geocoded_at": "2026-05-29T14:34:54.003539+00:00",
+    "label": "North of Maule Ave and east of Spencer St within Paradise (description on file)",
+    "lat": 36.064541,
+    "lng": -115.127633,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "maule avenue & eastern avenue",
+    "geocoded_at": "2026-05-29T14:34:54.309469+00:00",
+    "label": "North of Maule Ave and west of Eastern Ave within Paradise",
+    "lat": 36.064392,
+    "lng": -115.118498,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "windmill lane & gilespie street",
+    "geocoded_at": "2026-05-29T14:34:54.618847+00:00",
+    "label": "South of Windmill Ln and west of Gilespie St within Enterprise",
+    "lat": 36.042341,
+    "lng": -115.163382,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "costa brava road & redwood street",
+    "geocoded_at": "2026-05-29T14:34:54.985580+00:00",
+    "label": "South of Costa Brava Rd and west of Redwood St within Spring Valley",
+    "lat": 36.126241,
+    "lng": -115.238454,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "warm springs road & valley view boulevard",
+    "geocoded_at": "2026-05-29T14:34:55.392081+00:00",
+    "label": "North of Warm Springs Rd and east of Valley View Blvd within Enterprise",
+    "lat": 36.057236,
+    "lng": -115.190318,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "tropicana avenue & grand canyon drive",
+    "geocoded_at": "2026-05-29T14:34:55.709726+00:00",
+    "label": "South of Tropicana Ave and west of Grand Canyon Dr within Spring Valley",
+    "lat": 36.100106,
+    "lng": -115.306338,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "hobson street & us 95",
+    "geocoded_at": "2026-05-29T14:34:56.016584+00:00",
+    "label": "South of Hobson St and east of US 95 within Searchlight",
+    "lat": 35.463002,
+    "lng": -114.919381,
+    "precision": "point",
+    "score": 85.18,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "eldora avenue & westwind road",
+    "geocoded_at": "2026-05-29T14:34:56.322239+00:00",
+    "label": "North of Eldora Ave and west of Westwind Rd within Spring Valley",
+    "lat": 36.140625,
+    "lng": -115.218802,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "betty lane & owens avenue",
+    "geocoded_at": "2026-05-29T14:34:56.640685+00:00",
+    "label": "East of Betty Ln and north of Owens Ave within Sunrise Manor (description on file)",
+    "lat": 36.188875,
+    "lng": -115.057451,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "owens avenue & betty lane",
+    "geocoded_at": "2026-05-29T14:34:56.975245+00:00",
+    "label": "North of Owens Ave and east of Betty Ln within Sunrise Manor",
+    "lat": 36.188875,
+    "lng": -115.057451,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cimarron road & patrick lane",
+    "geocoded_at": "2026-05-29T14:34:57.370188+00:00",
+    "label": "West of Cimarron Rd and south of Patrick Ln within Spring Valley (description on file)",
+    "lat": 36.077675,
+    "lng": -115.270089,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "raven avenue & edmond street",
+    "geocoded_at": "2026-05-29T14:34:57.688615+00:00",
+    "label": "North of Raven Ave and west of Edmond St within Enterprise",
+    "lat": 36.026057,
+    "lng": -115.212357,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cactus avenue & schirlls street",
+    "geocoded_at": "2026-05-29T14:34:58.016368+00:00",
+    "label": "North of Cactus Ave and east of Schirlls St within Enterprise",
+    "lat": 35.998785,
+    "lng": -115.196466,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "richmar avenue & decatur boulevard",
+    "geocoded_at": "2026-05-29T14:34:58.333295+00:00",
+    "label": "North and south of Richmar Ave and east of Decatur Blvd within Enterprise (description on file)",
+    "lat": 36.017054,
+    "lng": -115.207829,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "jones boulevard & badura avenue",
+    "geocoded_at": "2026-05-29T14:34:58.650460+00:00",
+    "label": "East of Jones Blvd and south of Badura Ave within Enterprise",
+    "lat": 36.061967,
+    "lng": -115.224744,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "chartan avenue & placid street",
+    "geocoded_at": "2026-05-29T14:34:58.948280+00:00",
+    "label": "South of Chartan Ave and west of Placid St within Enterprise",
+    "lat": 35.988428,
+    "lng": -115.159269,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "mormon peak street & bryner avenue",
+    "geocoded_at": "2026-05-29T14:34:59.252479+00:00",
+    "label": "West of Mormon Peak St and north of Bryner Ave within Moapa Valley",
+    "lat": 36.553388,
+    "lng": -114.452344,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "rainbow boulevard & cactus avenue",
+    "geocoded_at": "2026-05-29T14:34:59.652276+00:00",
+    "label": "West of Rainbow Blvd and north of Cactus Ave within Enterprise",
+    "lat": 35.998654,
+    "lng": -115.243549,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "lamb boulevard & alto avenue",
+    "geocoded_at": "2026-05-29T14:34:59.993389+00:00",
+    "label": "West of Lamb Blvd and north of Alto Ave within Sunrise Manor",
+    "lat": 36.21031,
+    "lng": -115.080189,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "valley view boulevard & blue diamond road",
+    "geocoded_at": "2026-05-29T14:35:00.909675+00:00",
+    "label": "East of Valley View Blvd and north of Blue Diamond Rd within Enterprise",
+    "lat": 36.040513,
+    "lng": -115.190178,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cactus avenue & rainbow boulevard",
+    "geocoded_at": "2026-05-29T14:35:01.321468+00:00",
+    "label": "South of Cactus Ave and west of Rainbow Blvd within Enterprise",
+    "lat": 35.998654,
+    "lng": -115.243549,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "alto avenue & lincoln road",
+    "geocoded_at": "2026-05-29T14:35:01.717719+00:00",
+    "label": "North of Alto Ave and west of Lincoln Rd within Sunrise Manor",
+    "lat": 36.210341,
+    "lng": -115.084746,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sunset road & mcleod drive",
+    "geocoded_at": "2026-05-29T14:35:02.093905+00:00",
+    "label": "North of Sunset Rd and east of McLeod Dr within Paradise",
+    "lat": 36.071562,
+    "lng": -115.112797,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "warm springs road & amigo street",
+    "geocoded_at": "2026-05-29T14:35:02.517075+00:00",
+    "label": "North of Warm Springs Rd and east of Amigo St within Paradise",
+    "lat": 36.057071,
+    "lng": -115.149915,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "silverado ranch boulevard & arville street",
+    "geocoded_at": "2026-05-29T14:35:02.863743+00:00",
+    "label": "South of Silverado Ranch Blvd and west of Arville St within Enterprise",
+    "lat": 36.013443,
+    "lng": -115.198833,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "jones boulevard & sheila avenue",
+    "geocoded_at": "2026-05-29T14:35:03.237538+00:00",
+    "label": "East of Jones Blvd and south of Sheila Ave within the Lone Mountain planning area",
+    "lat": 36.209402,
+    "lng": -115.224645,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "crestview drive & seven dwarfs road",
+    "geocoded_at": "2026-05-29T14:35:03.538203+00:00",
+    "label": "North of Crestview Dr and west of Seven Dwarfs Rd within Mt",
+    "lat": 36.26185,
+    "lng": -115.650389,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "arby avenue & gagnier boulevard",
+    "geocoded_at": "2026-05-29T14:35:03.865709+00:00",
+    "label": "South of Arby Ave and west of Gagnier Blvd within Spring Valley",
+    "lat": 36.059238,
+    "lng": -115.274685,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "tropicana avenue & duneville street",
+    "geocoded_at": "2026-05-29T14:35:04.170590+00:00",
+    "label": "South of Tropicana Ave and east of Duneville St within Spring Valley",
+    "lat": 36.100135,
+    "lng": -115.220781,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "crowley way & forsythe drive",
+    "geocoded_at": "2026-05-29T14:35:04.473120+00:00",
+    "label": "West of Crowley Way and south of Forsythe Dr within Sunrise Manor",
+    "lat": 36.150882,
+    "lng": -115.048255,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "chaplin cove avenue & bermuda nights street",
+    "geocoded_at": "2026-05-29T14:35:04.773337+00:00",
+    "label": "North of Chaplin Cove Ave and west of Bermuda Nights St within Enterprise",
+    "lat": 35.992603,
+    "lng": -115.155574,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "white drive & ray charles lane",
+    "geocoded_at": "2026-05-29T14:35:05.250074+00:00",
+    "label": "North of White Dr and east of Ray Charles Ln within Paradise",
+    "lat": 36.061404,
+    "lng": -115.136325,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pyle avenue & arville street",
+    "geocoded_at": "2026-05-29T14:35:05.570356+00:00",
+    "label": "North of Pyle Ave and east of Arville St within Enterprise",
+    "lat": 36.006131,
+    "lng": -115.198805,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "patrick lane & topaz street",
+    "geocoded_at": "2026-05-29T14:35:05.927006+00:00",
+    "label": "North of Patrick Ln and west of Topaz St within Paradise",
+    "lat": 36.078928,
+    "lng": -115.114289,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "decatur boulevard & moberly avenue",
+    "geocoded_at": "2026-05-29T14:35:06.280447+00:00",
+    "label": "East of Decatur Blvd and south of Moberly Ave (alignment) within Enterprise",
+    "lat": 36.047953,
+    "lng": -115.207828,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "decatur boulevard & robindale road",
+    "geocoded_at": "2026-05-29T14:35:06.664492+00:00",
+    "label": "East of Decatur Blvd and south of Robindale Rd within Enterprise",
+    "lat": 36.049777,
+    "lng": -115.207818,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "shelbourne avenue & miller lane",
+    "geocoded_at": "2026-05-29T14:35:06.990263+00:00",
+    "label": "South of Shelbourne Ave and west of Miller Ln within Enterprise",
+    "lat": 36.037337,
+    "lng": -115.263228,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "diablo drive & mann street",
+    "geocoded_at": "2026-05-29T14:35:07.325350+00:00",
+    "label": "South of Diablo Dr and east of Mann St within Spring Valley",
+    "lat": 36.08895,
+    "lng": -115.231874,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "boulder lane & macfarland avenue",
+    "geocoded_at": "2026-05-29T14:35:07.684110+00:00",
+    "label": "North of Boulder Ln and east of MacFarland Ave within Indian Springs",
+    "lat": 36.573346,
+    "lng": -115.669866,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "durango drive & cc 215",
+    "geocoded_at": "2026-05-29T14:35:08.043127+00:00",
+    "label": "East of Durango Dr and south of CC 215 within Spring Valley",
+    "lat": 36.108,
+    "lng": -115.245,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "flamingo road & lindell road",
+    "geocoded_at": "2026-05-29T14:35:08.416020+00:00",
+    "label": "North of Flamingo Rd and west of Lindell Rd within Spring Valley",
+    "lat": 36.114932,
+    "lng": -115.216475,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "capovilla avenue & arville street",
+    "geocoded_at": "2026-05-29T14:35:08.723021+00:00",
+    "label": "South of Capovilla Ave and west of Arville St within Enterprise",
+    "lat": 36.058973,
+    "lng": -115.199314,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "ford avenue & dean martin drive",
+    "geocoded_at": "2026-05-29T14:35:09.173729+00:00",
+    "label": "North of Ford Ave and east of Dean Martin Dr within Enterprise",
+    "lat": 36.031948,
+    "lng": -115.183507,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "blue diamond road & park street",
+    "geocoded_at": "2026-05-29T14:35:09.511347+00:00",
+    "label": "North of Blue Diamond Rd and east of Park St (alignment) within Enterprise",
+    "lat": 36.021388,
+    "lng": -115.304815,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cheyenne avenue & betty lane",
+    "geocoded_at": "2026-05-29T14:35:09.872312+00:00",
+    "label": "South of Cheyenne Ave and east of Betty Ln within Sunrise Manor (description on file)",
+    "lat": 36.218295,
+    "lng": -115.057504,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "bonanza road & sari drive",
+    "geocoded_at": "2026-05-29T14:35:10.241815+00:00",
+    "label": "South of Bonanza Rd and east of Sari Dr within Sunrise Manor",
+    "lat": 36.173908,
+    "lng": -115.02018,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "cartier avenue & gateway road",
+    "geocoded_at": "2026-05-29T14:35:10.552696+00:00",
+    "label": "South of Cartier Ave and west of Gateway Rd within Sunrise Manor",
+    "lat": 36.206726,
+    "lng": -115.087014,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "boxwood lane & baywood avenue",
+    "geocoded_at": "2026-05-29T14:35:10.846536+00:00",
+    "label": "East of Boxwood Ln and north of Baywood Ave within Spring Valley",
+    "lat": 36.122372,
+    "lng": -115.237115,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "montessouri street & wagon trail avenue",
+    "geocoded_at": "2026-05-29T14:35:11.163364+00:00",
+    "label": "West of Montessouri St (alignment) and south of Wagon Trail Ave (alignment) within Spring Valley",
+    "lat": 36.108,
+    "lng": -115.245,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "fort apache road & lone mountain road",
+    "geocoded_at": "2026-05-29T14:35:11.525698+00:00",
+    "label": "West of Fort Apache Rd and north of Lone Mountain Rd within Lone Mountain",
+    "lat": 36.248171,
+    "lng": -115.29746,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "boulder highway & indios avenue",
+    "geocoded_at": "2026-05-29T14:35:11.837338+00:00",
+    "label": "West of Boulder Hwy and south of Indios Ave within Paradise",
+    "lat": 36.121515,
+    "lng": -115.074214,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pebble road & rainbow boulevard",
+    "geocoded_at": "2026-05-29T14:35:12.195382+00:00",
+    "label": "South of Pebble Rd and east of Rainbow Blvd within Enterprise",
+    "lat": 36.026712,
+    "lng": -115.243454,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "hinson street & maule avenue",
+    "geocoded_at": "2026-05-29T14:35:12.496348+00:00",
+    "label": "West of Hinson St and north of Maule Ave within Enterprise",
+    "lat": 36.064463,
+    "lng": -115.194726,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "windmill lane & bermuda road",
+    "geocoded_at": "2026-05-29T14:35:12.841918+00:00",
+    "label": "North of Windmill Ln and west of Bermuda Rd within Enterprise",
+    "lat": 36.042313,
+    "lng": -115.154407,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "palmyra avenue & rainbow boulevard",
+    "geocoded_at": "2026-05-29T14:35:13.165283+00:00",
+    "label": "North of Palmyra Ave and west of Rainbow Blvd within Spring Valley (description on file)",
+    "lat": 36.133149,
+    "lng": -115.242965,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "vegas valley drive & tree line drive",
+    "geocoded_at": "2026-05-29T14:35:13.643909+00:00",
+    "label": "North of Vegas Valley Dr and east of Tree Line Dr within Sunrise Manor",
+    "lat": 36.137183,
+    "lng": -115.033691,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "twain avenue & university center drive",
+    "geocoded_at": "2026-05-29T14:35:14.010452+00:00",
+    "label": "South of Twain Ave and west of University Center Dr within Paradise",
+    "lat": 36.121741,
+    "lng": -115.146184,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "mojave road & viking road",
+    "geocoded_at": "2026-05-29T14:35:14.358356+00:00",
+    "label": "East of Mojave Rd and north of Viking Rd within Paradise",
+    "lat": 36.118748,
+    "lng": -115.105369,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::red rock",
+    "geocoded_at": "2026-05-29T14:35:14.614208+00:00",
+    "label": "Between Nursery St and Hickey Dr and between Windmill Ln (alignment) and State Route 159; and a portion of right-of-way being Windmill Ln (alignment) located between Nursery St and Hickey Dr within Red Rock (description on file)",
+    "lat": 36.13,
+    "lng": -115.42,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "bare rabbit court & early horizon drive",
+    "geocoded_at": "2026-05-29T14:35:14.685454+00:00",
+    "label": "West of Bare Rabbit Court and north of Early Horizon Dr within Enterprise",
+    "lat": 36.002365,
+    "lng": -115.283026,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "hacienda avenue & cameron street",
+    "geocoded_at": "2026-05-29T14:35:14.993512+00:00",
+    "label": "South of Hacienda Ave and west of Cameron St within Paradise",
+    "lat": 36.09362,
+    "lng": -115.203867,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "grossmont avenue & osbiston way",
+    "geocoded_at": "2026-05-29T14:35:15.295451+00:00",
+    "label": "South of Grossmont Ave and west of Osbiston Way within Sunrise Manor",
+    "lat": 36.182615,
+    "lng": -115.049332,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "twinkle star drive & walnut road",
+    "geocoded_at": "2026-05-29T14:35:15.595439+00:00",
+    "label": "South of Twinkle Star Dr and west of Walnut Rd within Sunrise Manor",
+    "lat": 36.236594,
+    "lng": -115.089342,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "spanish gate drive & butler national drive",
+    "geocoded_at": "2026-05-29T14:35:15.960198+00:00",
+    "label": "South of Spanish Gate Dr and west of Butler National Dr within Spring Valley",
+    "lat": 36.096869,
+    "lng": -115.272554,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pecos road & alto avenue",
+    "geocoded_at": "2026-05-29T14:35:16.345122+00:00",
+    "label": "East of Pecos Rd and south of Alto Ave within Sunrise Manor (description on file)",
+    "lat": 36.210329,
+    "lng": -115.098508,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sahara avenue & cimarron road",
+    "geocoded_at": "2026-05-29T14:35:16.695578+00:00",
+    "label": "South of Sahara Ave and west of Cimarron Rd within Spring Valley",
+    "lat": 36.143883,
+    "lng": -115.269954,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "twain avenue & tenaya way",
+    "geocoded_at": "2026-05-29T14:35:17.028141+00:00",
+    "label": "North of Twain Ave and east of Tenaya Way within Spring Valley",
+    "lat": 36.121948,
+    "lng": -115.251995,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "oquendo road & pecos road",
+    "geocoded_at": "2026-05-29T14:35:17.356691+00:00",
+    "label": "South of Oquendo Rd and west of Pecos Rd within Paradise",
+    "lat": 36.082724,
+    "lng": -115.100962,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "russell road & redwood street",
+    "geocoded_at": "2026-05-29T14:35:17.713555+00:00",
+    "label": "North of Russell Rd and west of Redwood St within Spring Valley",
+    "lat": 36.085189,
+    "lng": -115.238433,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "us highway 95 & state route 163",
+    "geocoded_at": "2026-05-29T14:35:18.088816+00:00",
+    "label": "East of US Hwy 95 and north of State Route 163 within South County",
+    "lat": 35.192439,
+    "lng": -114.853375,
+    "precision": "point",
+    "score": 84.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "us highway 95 & state highway 163",
+    "geocoded_at": "2026-05-29T14:35:18.444998+00:00",
+    "label": "East of US Hwy 95 and north of State Hwy 163 within the South County",
+    "lat": 35.192439,
+    "lng": -114.853375,
+    "precision": "point",
+    "score": 84.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "edmond street & oquendo road",
+    "geocoded_at": "2026-05-29T14:35:18.766692+00:00",
+    "label": "West of Edmond St and north of Oquendo Rd within Spring Valley (description on file)",
+    "lat": 36.082469,
+    "lng": -115.212197,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "oquendo road & edmond street",
+    "geocoded_at": "2026-05-29T14:35:19.098935+00:00",
+    "label": "North of Oquendo Rd and west of Edmond St within Spring Valley",
+    "lat": 36.082469,
+    "lng": -115.212197,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "russell road & jones boulevard",
+    "geocoded_at": "2026-05-29T14:35:19.420244+00:00",
+    "label": "South of Russell Rd and east of Jones Blvd within Spring Valley",
+    "lat": 36.085386,
+    "lng": -115.225326,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "warm springs road & hinson street",
+    "geocoded_at": "2026-05-29T14:35:19.820475+00:00",
+    "label": "North of Warm Springs Rd and east of Hinson St within Enterprise",
+    "lat": 36.057194,
+    "lng": -115.194826,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "halvern avenue & osbiston way",
+    "geocoded_at": "2026-05-29T14:35:20.130342+00:00",
+    "label": "North of Halvern Ave and east of Osbiston Way within Sunrise Manor",
+    "lat": 36.181947,
+    "lng": -115.049271,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "lone mountain road & sweetie court",
+    "geocoded_at": "2026-05-29T14:35:20.597086+00:00",
+    "label": "North of Lone Mountain Rd and west of Sweetie Court within Lone Mountain",
+    "lat": 36.248059,
+    "lng": -115.304568,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "koval lane & harmon avenue",
+    "geocoded_at": "2026-05-29T14:35:20.898824+00:00",
+    "label": "East of Koval Ln and north of Harmon Ave within Paradise",
+    "lat": 36.108024,
+    "lng": -115.163947,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pebble road & buffalo drive",
+    "geocoded_at": "2026-05-29T14:35:21.311768+00:00",
+    "label": "North of Pebble Rd and west of Buffalo Dr within Enterprise",
+    "lat": 36.026409,
+    "lng": -115.260692,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "linda avenue & topaz street",
+    "geocoded_at": "2026-05-29T14:35:21.646359+00:00",
+    "label": "North of Linda Ave and east of Topaz St within Winchester",
+    "lat": 36.131596,
+    "lng": -115.114166,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "reno avenue & giles street",
+    "geocoded_at": "2026-05-29T14:35:21.973966+00:00",
+    "label": "South of Reno Ave and west of Giles St within Paradise",
+    "lat": 36.097133,
+    "lng": -115.170194,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "i-15 & larson lane",
+    "geocoded_at": "2026-05-29T14:35:22.357525+00:00",
+    "label": "East of I-15 and south of Larson Ln (alignment) within Sloan (description on file)",
+    "lat": 35.94,
+    "lng": -115.21,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "durango drive & patrick lane",
+    "geocoded_at": "2026-05-29T14:35:22.668207+00:00",
+    "label": "East of Durango Dr and south of Patrick Ln within Spring Valley",
+    "lat": 36.077801,
+    "lng": -115.279342,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sunset road & spencer street",
+    "geocoded_at": "2026-05-29T14:35:23.037545+00:00",
+    "label": "South of Sunset Rd and west of Spencer St within Paradise",
+    "lat": 36.071711,
+    "lng": -115.127739,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::whitney",
+    "geocoded_at": "2026-05-29T14:35:23.294147+00:00",
+    "label": "Between Stephanie St and Boulder Hwy within Whitney (description on file)",
+    "lat": 36.098,
+    "lng": -115.037,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "russell road & boulder highway",
+    "geocoded_at": "2026-05-29T14:35:23.415254+00:00",
+    "label": "North of Russell Rd and west of Boulder Hwy within Whitney",
+    "lat": 36.084681,
+    "lng": -115.032753,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "reno avenue & haven street",
+    "geocoded_at": "2026-05-29T14:35:23.712889+00:00",
+    "label": "South of Reno Ave and east of Haven St within Paradise",
+    "lat": 36.097272,
+    "lng": -115.16829,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "barlow avenue & rox road",
+    "geocoded_at": "2026-05-29T14:35:24.007662+00:00",
+    "label": "South of Barlow Ave and east of Rox Rd within Moapa",
+    "lat": 36.670743,
+    "lng": -114.589351,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "roark avenue & hinson street",
+    "geocoded_at": "2026-05-29T14:35:24.296780+00:00",
+    "label": "North of Roark Ave and west of Hinson St within the South County planning area (description on file)",
+    "lat": 35.936914,
+    "lng": -115.19467,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "area::south county",
+    "geocoded_at": "2026-05-29T14:35:24.552705+00:00",
+    "label": "Between Arville St (alignment) and Hinson St, and between Roark Ave (alignment) and Via Inspirada (alignment) within the South County planning area (description on file)",
+    "lat": 35.9,
+    "lng": -115.25,
+    "precision": "area",
+    "score": null,
+    "source": "centroid"
+   },
+   {
+    "geo_key": "huckleberry lane & arville street",
+    "geocoded_at": "2026-05-29T14:35:24.605549+00:00",
+    "label": "North of Huckleberry Ln and east of Arville St within the South County planning area (description on file)",
+    "lat": 35.932905,
+    "lng": -115.198983,
+    "precision": "point",
+    "score": 95.76,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "arville street & huckleberry lane",
+    "geocoded_at": "2026-05-29T14:35:24.921148+00:00",
+    "label": "East of Arville St and north of Huckleberry Ln within the South County planning area",
+    "lat": 35.932905,
+    "lng": -115.198983,
+    "precision": "point",
+    "score": 95.76,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "eldorado lane & dean martin drive",
+    "geocoded_at": "2026-05-29T14:35:25.252826+00:00",
+    "label": "South of Eldorado Ln and west of Dean Martin Dr within Enterprise",
+    "lat": 36.053486,
+    "lng": -115.183584,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "flamingo road & pinecrest street",
+    "geocoded_at": "2026-05-29T14:35:25.579598+00:00",
+    "label": "North of Flamingo Rd and west of Pinecrest St within Paradise",
+    "lat": 36.115259,
+    "lng": -115.094332,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "harmon avenue & wynn road",
+    "geocoded_at": "2026-05-29T14:35:25.915549+00:00",
+    "label": "South of Harmon Ave and west of Wynn Rd within Paradise",
+    "lat": 36.108217,
+    "lng": -115.194599,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "pama lane & eastern avenue",
+    "geocoded_at": "2026-05-29T14:35:26.220745+00:00",
+    "label": "North of Pama Ln and west of Eastern Ave within Paradise",
+    "lat": 36.066395,
+    "lng": -115.118551,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "rainbow boulevard & spring mountain road",
+    "geocoded_at": "2026-05-29T14:35:26.556187+00:00",
+    "label": "East of Rainbow Blvd and north of Spring Mountain Rd within Spring Valley",
+    "lat": 36.125729,
+    "lng": -115.242988,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "russell road & rogers street",
+    "geocoded_at": "2026-05-29T14:35:26.875330+00:00",
+    "label": "South of Russell Rd and east of Rogers St within Paradise",
+    "lat": 36.086338,
+    "lng": -115.201514,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "warm springs road & buffalo drive",
+    "geocoded_at": "2026-05-29T14:35:27.232233+00:00",
+    "label": "North of Warm Springs Rd and west of Buffalo Dr within Spring Valley",
+    "lat": 36.055625,
+    "lng": -115.261114,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "talbot street & balboa avenue",
+    "geocoded_at": "2026-05-29T14:35:27.535412+00:00",
+    "label": "East of Talbot St and south of Balboa Ave within Winchester",
+    "lat": 36.139206,
+    "lng": -115.127127,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "arby avenue & hinson street",
+    "geocoded_at": "2026-05-29T14:35:27.836510+00:00",
+    "label": "South of Arby Ave and east of Hinson St within Enterprise",
+    "lat": 36.060824,
+    "lng": -115.194741,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "quail avenue & santa margarita street",
+    "geocoded_at": "2026-05-29T14:35:28.244381+00:00",
+    "label": "North of Quail Ave and east of Santa Margarita St (alignment) within Spring Valley",
+    "lat": 36.083339,
+    "lng": -115.240568,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "hammer lane & auto street",
+    "geocoded_at": "2026-05-29T14:35:28.559899+00:00",
+    "label": "North of Hammer Ln and west of Auto St within the Sunrise Manor Planning Area",
+    "lat": 36.258307,
+    "lng": -115.073168,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "tonopah avenue & walnut road",
+    "geocoded_at": "2026-05-29T14:35:28.894346+00:00",
+    "label": "North of Tonopah Ave and west of Walnut Rd within Sunrise Manor (description on file)",
+    "lat": 36.192017,
+    "lng": -115.089156,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "us 95 & kidwell hanger road",
+    "geocoded_at": "2026-05-29T14:35:29.274426+00:00",
+    "label": "East of US 95 and north of Kidwell Hanger Rd (alignment) within Cal-Nev-Ari (South County)",
+    "lat": 35.299502,
+    "lng": -114.878749,
+    "precision": "point",
+    "score": 88.71,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "nellis boulevard & lake mead boulevard",
+    "geocoded_at": "2026-05-29T14:35:29.587252+00:00",
+    "label": "East of Nellis Blvd and north of Lake Mead Blvd within Sunrise Manor",
+    "lat": 36.196235,
+    "lng": -115.062146,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "ford avenue & durango drive",
+    "geocoded_at": "2026-05-29T14:35:30.042015+00:00",
+    "label": "North of Ford Ave and east of Durango Dr within Enterprise",
+    "lat": 36.029827,
+    "lng": -115.278806,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "ullom drive & warm springs road",
+    "geocoded_at": "2026-05-29T14:35:30.353871+00:00",
+    "label": "East of Ullom Dr and south of Warm Springs Rd within Enterprise",
+    "lat": 36.05707,
+    "lng": -115.206087,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "reno avenue & fort apache road",
+    "geocoded_at": "2026-05-29T14:35:30.701382+00:00",
+    "label": "North of Reno Ave and west of Fort Apache Rd within Spring Valley",
+    "lat": 36.096297,
+    "lng": -115.297344,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "red coach avenue & grand canyon drive",
+    "geocoded_at": "2026-05-29T14:35:31.223546+00:00",
+    "label": "North of Red Coach Ave and west of Grand Canyon Dr within Lone Mountain",
+    "lat": 36.244354,
+    "lng": -115.306282,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "martin avenue & fort apache road",
+    "geocoded_at": "2026-05-29T14:35:31.580610+00:00",
+    "label": "North of Martin Ave and east of Fort Apache Rd within Spring Valley (description on file)",
+    "lat": 36.066643,
+    "lng": -115.297712,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "blue diamond road & kens court",
+    "geocoded_at": "2026-05-29T14:35:31.900292+00:00",
+    "label": "North of Blue Diamond Rd and west of Kens Court within Enterprise (description on file)",
+    "lat": 36.026704,
+    "lng": -115.220981,
+    "precision": "point",
+    "score": 100.0,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "blue diamond road & jones boulevard",
+    "geocoded_at": "2026-05-29T14:35:32.212727+00:00",
+    "label": "North of Blue Diamond Rd and east of Jones Blvd within Enterprise",
+    "lat": 36.02556,
+    "lng": -115.225697,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "sunset road & rainbow boulevard",
+    "geocoded_at": "2026-05-29T14:35:32.580129+00:00",
+    "label": "South of Sunset Rd and west of Rainbow Blvd within Spring Valley",
+    "lat": 36.070552,
+    "lng": -115.242519,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "mesa verde lane & hauck street",
+    "geocoded_at": "2026-05-29T14:35:33.143681+00:00",
+    "label": "North of Mesa Verde Ln and west of Hauck St within Enterprise",
+    "lat": 36.046082,
+    "lng": -115.210048,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "meranto avenue & tenaya way",
+    "geocoded_at": "2026-05-29T14:35:33.460275+00:00",
+    "label": "North of Meranto Ave and east of Tenaya Way within Enterprise",
+    "lat": 36.018177,
+    "lng": -115.252281,
+    "precision": "point",
+    "score": 92.94,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "edmond street & silverado ranch boulevard",
+    "geocoded_at": "2026-05-29T14:35:33.793817+00:00",
+    "label": "East of Edmond St and north of Silverado Ranch Blvd within Enterprise",
+    "lat": 36.013423,
+    "lng": -115.212229,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   },
+   {
+    "geo_key": "radcliff street & robindale road",
+    "geocoded_at": "2026-05-29T14:35:34.093573+00:00",
+    "label": "West of Radcliff St and south of Robindale Rd within Paradise",
+    "lat": 36.049841,
+    "lng": -115.143138,
+    "precision": "point",
+    "score": 96.47,
+    "source": "clarkcounty"
+   }
+  ],
   "item_votes": [
    {
     "event_item_id": 170463,
