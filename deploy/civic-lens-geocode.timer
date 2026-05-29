@@ -1,0 +1,11 @@
+[Unit]
+Description=Nightly Civic Lens geocoding
+
+[Timer]
+# 10:40 PM Pacific — after collect (22:30), before summarize (22:45) and publish (23:00),
+# so the published civic.json carries fresh map coordinates.
+OnCalendar=*-*-* 22:40:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

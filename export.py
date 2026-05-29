@@ -10,7 +10,7 @@ from pathlib import Path
 from app.db import db
 
 OUT = Path(__file__).resolve().parent / "data" / "civic.json"
-TABLES = ["meetings", "agenda_items", "item_votes", "meeting_summaries"]
+TABLES = ["meetings", "agenda_items", "item_votes", "meeting_summaries", "geocodes"]
 
 
 def export() -> None:

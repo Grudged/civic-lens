@@ -1,4 +1,5 @@
 import datetime as dt
+import hashlib
 import html
 import json
 from contextlib import asynccontextmanager
@@ -8,7 +9,7 @@ from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse, JSONResponse, PlainTextResponse, Response
 from fastapi.staticfiles import StaticFiles
 
-from . import render, topics
+from . import geocode, location, render, topics
 from .config import BODIES, PUBLIC_BASE_URL
 from .db import db, init_db
 
@@ -28,7 +29,10 @@ _CSP = (
     "script-src 'self' https://analytics.grudged.io; "
     "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
     "font-src https://fonts.gstatic.com; "
-    "img-src 'self' data:; connect-src 'self' https://analytics.grudged.io; "
+    # MapLibre tiles/glyphs/sprites come from OpenFreeMap; the map's GL worker is a blob.
+    "img-src 'self' data: blob: https://tiles.openfreemap.org; "
+    "connect-src 'self' https://analytics.grudged.io https://tiles.openfreemap.org; "
+    "worker-src blob:; "
     "base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
 )
 
@@ -102,11 +106,15 @@ def meeting(event_id: int):
             for v in vrows:
                 votes_by_item.setdefault(v["event_item_id"], []).append(dict(v))
 
-    body = render.meeting_record(m, items, votes_by_item, m.get("overview"))
+    has_geo = any(geocode.cache_key(location.extract(it.get("title") or "")) for it in items)
+    body = render.meeting_record(m, items, votes_by_item, m.get("overview"), has_geo=has_geo)
     from .util import fmt_date
     title = f'{m["body_name"]} — {fmt_date(m["meeting_date"], with_time=False)} | Civic Lens'
     desc = (m.get("overview") or f'{m["item_count"]} agenda items for the {m["body_name"]}.')[:200]
-    return HTMLResponse(render.page(title, desc, f"/meeting/{event_id}", body))
+    head_extra = render.MAP_HEAD if has_geo else ""
+    body_end = render.MAP_BODY_END if has_geo else ""
+    return HTMLResponse(render.page(title, desc, f"/meeting/{event_id}", body,
+                                    head_extra=head_extra, body_end=body_end))
 
 
 @app.get("/body/{slug}", response_class=HTMLResponse)
@@ -143,6 +151,99 @@ def topic_view(slug: str):
 @app.get("/about", response_class=HTMLResponse)
 def about():
     return HTMLResponse(render.page("About Civic Lens", "How Civic Lens turns Clark County meeting records into plain-English briefs.", "/about", render.about_page()))
+
+
+@app.get("/map", response_class=HTMLResponse)
+def map_page():
+    desc = ("An interactive map of Clark County land-use and zoning items — see where development, "
+            "rezonings, and use permits are up for decision, and how they were decided.")
+    return HTMLResponse(render.page("Development map — Clark County | Civic Lens", desc, "/map",
+                                    render.map_page(), head_extra=render.MAP_HEAD, body_end=render.MAP_BODY_END))
+
+
+# ---- map data --------------------------------------------------------------
+def _map_state(status: str, passed_flag) -> str:
+    """Colour bucket: upcoming (pending) vs the decided outcomes."""
+    if status == "upcoming":
+        return "upcoming"
+    if passed_flag == 1:
+        return "passed"
+    if passed_flag == 0:
+        return "failed"
+    return "decided"
+
+
+def _jitter(seed, amp: float = 0.012) -> tuple[float, float]:
+    """Deterministic small offset so multiple neighborhood-level pins at one centroid don't stack."""
+    h = int(hashlib.md5(str(seed).encode()).hexdigest(), 16)
+    dlat = ((h & 0xFFFF) / 0xFFFF - 0.5) * 2 * amp
+    dlng = (((h >> 16) & 0xFFFF) / 0xFFFF - 0.5) * 2 * amp
+    return dlat, dlng
+
+
+def _map_features(rows: list[dict], geo: dict[str, dict]) -> list[dict]:
+    feats = []
+    for r in rows:
+        ex = location.extract(r["title"] or "")
+        key = geocode.cache_key(ex)
+        g = geo.get(key) if key else None
+        if not g or g["lat"] is None:
+            continue
+        lat, lng = g["lat"], g["lng"]
+        if g["precision"] == "area":
+            dlat, dlng = _jitter(r["event_item_id"])
+            lat, lng = lat + dlat, lng + dlng
+        feats.append({
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [round(lng, 6), round(lat, 6)]},
+            "properties": {
+                "id": r["event_item_id"],
+                "meeting_id": r["event_id"],
+                "url": f"/meeting/{r['event_id']}",
+                "state": _map_state(r["status"], r["passed_flag"]),
+                "status": r["status"],
+                "body": r["body_slug"],
+                "body_name": r["body_name"],
+                "date": (r["meeting_date"] or "")[:10],
+                "text": r["plain_summary"] or r["title"],
+                "where": ex.get("location") or g.get("label"),
+                "zone": ex.get("zone"),
+                "acres": ex.get("acres"),
+                "topics": json.loads(r.get("topics") or "[]"),
+                "precision": g["precision"],
+            },
+        })
+    return feats
+
+
+@app.get("/api/map.geojson")
+def api_map(body: str | None = None, topic: str | None = None, status: str | None = None,
+            days: int | None = None, meeting: int | None = None):
+    where, params = [], []
+    if body:
+        where.append("m.body_slug=?"); params.append(body)
+    if status in ("upcoming", "past"):
+        where.append("m.status=?"); params.append(status)
+    if meeting is not None:
+        where.append("a.event_id=?"); params.append(meeting)
+    if topic:
+        where.append("a.topics LIKE ?"); params.append(f'%"{topic}"%')
+    if days is not None:
+        today = dt.date.today()
+        where.append("substr(m.meeting_date,1,10) BETWEEN ? AND ?")
+        params += [(today - dt.timedelta(days=days)).isoformat(),
+                   (today + dt.timedelta(days=days)).isoformat()]
+    clause = ("WHERE " + " AND ".join(where)) if where else ""
+    with db() as conn:
+        rows = [dict(r) for r in conn.execute(
+            f"SELECT a.event_item_id, a.event_id, a.title, a.plain_summary, a.passed_flag, "
+            f"a.topics, m.body_slug, m.body_name, m.meeting_date, m.status "
+            f"FROM agenda_items a JOIN meetings m ON m.event_id=a.event_id {clause} "
+            f"ORDER BY m.meeting_date DESC", tuple(params)).fetchall()]
+        geo = {r["geo_key"]: dict(r) for r in conn.execute(
+            "SELECT geo_key, label, lat, lng, precision FROM geocodes WHERE lat IS NOT NULL").fetchall()}
+    return JSONResponse({"type": "FeatureCollection", "features": _map_features(rows, geo)},
+                        media_type="application/geo+json")
 
 
 # ---- machine surfaces ------------------------------------------------------

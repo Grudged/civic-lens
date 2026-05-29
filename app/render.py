@@ -30,11 +30,17 @@ _UMAMI = ('<script defer src="https://analytics.grudged.io/script.js" '
 
 _NAV = [
     ("/", "Latest"),
+    ("/map", "Map"),
     ("/body/board-of-commissioners", "Commissioners"),
     ("/body/planning-commission", "Planning"),
     ("/body/zoning-commission", "Zoning"),
     ("/about", "About"),
 ]
+
+# Self-hosted MapLibre (keeps script-src 'self'); OpenFreeMap tiles are allowed in the CSP.
+MAP_HEAD = '<link rel="stylesheet" href="/static/vendor/maplibre/maplibre-gl.css">'
+MAP_BODY_END = ('<script src="/static/vendor/maplibre/maplibre-gl.js"></script>'
+                '<script src="/static/js/map.js" defer></script>')
 
 
 def _esc(s) -> str:
@@ -49,7 +55,8 @@ def _person(name: str) -> str:
     return name or ""
 
 
-def page(title: str, description: str, canonical_path: str, body: str, robots: str | None = None) -> str:
+def page(title: str, description: str, canonical_path: str, body: str, robots: str | None = None,
+         head_extra: str = "", body_end: str = "") -> str:
     canonical = f"{PUBLIC_BASE_URL}{canonical_path}"
     robots_tag = f'<meta name="robots" content="{robots}">' if robots else ""
     nav = "".join(f'<a href="{h}">{_esc(t)}</a>' for h, t in _NAV)
@@ -71,6 +78,7 @@ def page(title: str, description: str, canonical_path: str, body: str, robots: s
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='86'>🏛️</text></svg>">
 {_FONTS}
 <link rel="stylesheet" href="/static/css/app.css">
+{head_extra}
 {_UMAMI}
 </head>
 <body>
@@ -92,8 +100,44 @@ def page(title: str, description: str, canonical_path: str, body: str, robots: s
   </div>
 </footer>
 <script src="/static/js/countdown.js" defer></script>
+{body_end}
 </body>
 </html>"""
+
+
+def map_page() -> str:
+    bodies = "".join(f'<option value="{b["slug"]}">{_esc(b["name"])}</option>' for b in BODIES.values())
+    topic_opts = "".join(f'<option value="{s}">{_esc(topics.label(s))}</option>' for s in topics.TOPICS)
+    legend = "".join(
+        f'<span class="lg-item"><span class="lg-dot {cls}"></span>{_esc(lbl)}</span>'
+        for cls, lbl in (("upcoming", "Up for decision"), ("passed", "Approved"),
+                         ("failed", "Denied"), ("decided", "Other action")))
+    return f"""
+<section class="lede-block">
+  <p class="kicker">Clark County, Nevada</p>
+  <h1>Where the county is deciding.</h1>
+  <p class="lede">Every zoning, land-use, and development item with a mappable location — pinned to
+  the corner it concerns. Amber pins are coming up for a decision; green and red are already
+  decided. Click a pin for the plain-English brief and a link to the full meeting record.</p>
+</section>
+<div class="map-controls" role="group" aria-label="Map filters">
+  <label class="ctl"><span>Body</span>
+    <select id="flt-body"><option value="">All bodies</option>{bodies}</select></label>
+  <label class="ctl"><span>Status</span>
+    <select id="flt-status">
+      <option value="">Upcoming &amp; decided</option>
+      <option value="upcoming">Up for decision</option>
+      <option value="decided">Decided</option>
+    </select></label>
+  <label class="ctl"><span>Topic</span>
+    <select id="flt-topic"><option value="">All topics</option>{topic_opts}</select></label>
+  <span class="map-count" id="map-count"></span>
+</div>
+<div class="map-legend">{legend}<span class="lg-note">Hollow pins are approximate (neighborhood level).</span></div>
+<div id="map" class="map-canvas" data-src="/api/map.geojson"></div>
+<p class="map-foot muted">Pins are placed from the official agenda wording via the Clark County
+address locator; some are approximate. {_esc(AI_DISCLAIMER)}</p>
+"""
 
 
 def _stamp(action_name, passed_flag, status) -> str:
@@ -174,7 +218,8 @@ def dispatch_card(m: dict, gist: str | None) -> str:
 
 
 # ---- meeting record page ---------------------------------------------------
-def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], overview: str | None) -> str:
+def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], overview: str | None,
+                   has_geo: bool = False) -> str:
     title_h = f'{_esc(m["body_name"])} — {_esc(fmt_date(m["meeting_date"], with_time=False))}'
     when = _esc(fmt_date(m["meeting_date"]))
     loc = f' <span>·</span> {_esc(m["location"])}' if m.get("location") else ""
@@ -193,6 +238,11 @@ def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], o
         sources.append(f'<a href="{_esc(m["legistar_url"])}" target="_blank" rel="noopener">Full record on Legistar ↗</a>')
     source_row = f'<div class="source-row">{"".join(sources)}</div>' if sources else ""
 
+    mini_map = (f'<section class="meeting-map-sec"><h2>On the map</h2>'
+                f'<div id="meeting-map" class="map-canvas mini" data-src="/api/map.geojson?meeting={m["event_id"]}"></div>'
+                f'<p class="map-foot muted">Locations pinned from the agenda wording — some approximate.</p>'
+                f'</section>') if has_geo else ""
+
     cd = _countdown_span(m["meeting_date"], m["status"])
     cd_banner = (f'<div class="cd-banner">&#9203; {cd}'
                  f'<span class="cd-msg">— there\'s still time to make your voice heard before this meeting.</span>'
@@ -209,7 +259,7 @@ def meeting_record(m: dict, items: list[dict], votes_by_item: dict[int, list], o
         f'{_dateline(m["body_name"], m["meeting_date"])}'
         f'<h1>{title_h}</h1>'
         f'<p class="when">{when}{loc}</p>'
-        f'{cd_banner}{gist}{source_row}{docket_sec}'
+        f'{cd_banner}{gist}{source_row}{mini_map}{docket_sec}'
         f'</article>'
     )
 

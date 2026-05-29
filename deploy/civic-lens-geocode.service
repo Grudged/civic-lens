@@ -1,0 +1,11 @@
+[Unit]
+Description=Civic Lens — geocode agenda-item locations (Clark County locator + centroids)
+After=network.target civic-lens-collect.service
+Wants=civic-lens-collect.service
+
+[Service]
+Type=oneshot
+User=grudged
+WorkingDirectory=/home/grudged/repos/civic-lens
+ExecStart=/home/grudged/repos/civic-lens/venv/bin/python geocode_job.py
+Environment=HOME=/home/grudged

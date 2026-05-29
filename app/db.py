@@ -51,6 +51,17 @@ CREATE TABLE IF NOT EXISTS meeting_summaries (
     model        TEXT,
     generated_at TEXT
 );
+
+CREATE TABLE IF NOT EXISTS geocodes (
+    geo_key      TEXT PRIMARY KEY,         -- normalized location key (shared across items)
+    label        TEXT,                     -- human location text for the popup
+    lat          REAL,
+    lng          REAL,
+    precision    TEXT,                     -- 'point' (exact corner) | 'area' (neighborhood) | 'none'
+    source       TEXT,                     -- 'clarkcounty' | 'centroid'
+    score        REAL,
+    geocoded_at  TEXT
+);
 """
 
 

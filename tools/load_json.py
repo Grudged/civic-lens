@@ -28,9 +28,14 @@ def load() -> None:
 
     conn = sqlite3.connect(tmp)
     conn.executescript(SCHEMA)
+    known = {r[0] for r in conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table'").fetchall()}
     total = 0
     for table, rows in tables.items():
         if not rows:
+            continue
+        if table not in known:   # JSON ahead of this code's schema — skip rather than crash
+            print(f"skip unknown table {table!r} ({len(rows)} rows)")
             continue
         cols = list(rows[0].keys())
         placeholders = ",".join("?" * len(cols))

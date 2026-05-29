@@ -13,14 +13,18 @@ Part of the Grudged "access infrastructure" line (sibling to FirstEmbark / Open 
 - **Coverage:** upcoming agendas *and* past outcomes (roll-call votes included).
 - **Summaries:** Gemma 4 (MLX) writes a plain-English meeting overview + one-sentence rewrite of each
   agenda item. Topics are tagged deterministically (keyword vocabulary in `app/topics.py`).
-- **Surface:** server-rendered SEO pages — `/`, `/meeting/{id}`, `/body/{slug}`, `/topic/{slug}`,
-  `/about`, plus `/sitemap.xml`, `/robots.txt`, and a light JSON API at `/api/meetings`.
+- **Map:** `/map` plots every land-use/zoning item with a mappable location (MapLibre + OpenFreeMap
+  tiles). Coordinates come from the free Clark County address locator (exact corners) with a township
+  centroid fallback; data served as GeoJSON at `/api/map.geojson`. Per-meeting pages get a mini-map.
+- **Surface:** server-rendered SEO pages — `/`, `/map`, `/meeting/{id}`, `/body/{slug}`, `/topic/{slug}`,
+  `/about`, plus `/sitemap.xml`, `/robots.txt`, and JSON APIs at `/api/meetings` and `/api/map.geojson`.
 
 ## Architecture
 ```
 collect.py          Legistar -> civic.db (meetings, agenda_items, item_votes, topics)  [deterministic]
+geocode_job.py      civic.db titles -> Clark County locator / centroids -> geocodes    [deterministic]
 summarize_job.py    civic.db -> Gemma (MLX) -> overviews + plain rewrites              [best-effort]
-app/                FastAPI: render.py (HTML), main.py (routes), legistar/summarize/topics/db/config
+app/                FastAPI: render.py (HTML), main.py (routes), legistar/summarize/topics/geocode/db
 ```
 SQLite at `DB_PATH` (`/data/civic.db` on Arch). Summaries call MLX on the Mac (`MLX_URL`); if MLX is
 unreachable the site still renders the raw agenda — a summary outage never breaks a page.
@@ -30,6 +34,7 @@ unreachable the site still renders the raw agenda — a summary outage never bre
 python -m venv venv && venv/bin/pip install -r requirements.txt
 cp .env.example .env
 DB_PATH=./civic.db venv/bin/python collect.py            # pull meetings
+DB_PATH=./civic.db venv/bin/python geocode_job.py        # map coordinates (Clark County locator)
 DB_PATH=./civic.db venv/bin/python summarize_job.py      # Gemma summaries (MLX on :8321)
 DB_PATH=./civic.db venv/bin/uvicorn app.main:app --port 8902
 ```

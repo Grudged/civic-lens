@@ -18,6 +18,24 @@ _ZONE = re.compile(r"\bin\s+an?\s+(.+?)\s+Zone\b", re.I)
 _STREETS = re.compile(
     r"(?:north|south|east|west)\s+of\s+(.+?)\s+and\s+(?:north|south|east|west)\s+of\s+(.+?)"
     r"(?:\s+within\s+(.+?))?$", re.I)
+# The trailing "within AREA" (township / town) — present even when the streets don't follow the
+# intersection pattern, so it powers a neighborhood-level pin when an exact corner isn't available.
+_WITHIN = re.compile(r"\bwithin\s+(?:the\s+)?(.+?)(?:\s+Township)?\s*$", re.I)
+
+
+def _clean_area(area: str | None) -> str | None:
+    a = re.sub(r"\([^)]*\)", " ", area or "")          # drop "(description on file)" etc.
+    a = re.sub(r"\s+", " ", a).strip().rstrip(".").strip()
+    a = re.sub(r"^the\s+", "", a, flags=re.I)
+    a = re.sub(r"\s+Township$", "", a, flags=re.I)
+    a = re.sub(r"\s+planning area$", "", a, flags=re.I)
+    return a or None
+
+
+def _clean_street(s: str | None) -> str | None:
+    s = re.sub(r"\([^)]*\)", " ", s or "")             # drop "(alignment)" — breaks the locator
+    s = re.sub(r"\s+", " ", s).strip().rstrip(",").strip()
+    return s or None
 
 _ABBR = [("Boulevard", "Blvd"), ("Avenue", "Ave"), ("Street", "St"), ("Road", "Rd"),
          ("Drive", "Dr"), ("Parkway", "Pkwy"), ("Highway", "Hwy"), ("Lane", "Ln")]
@@ -25,16 +43,24 @@ _ABBR = [("Boulevard", "Blvd"), ("Avenue", "Ave"), ("Street", "St"), ("Road", "R
 
 def extract(title: str) -> dict:
     t = title or ""
-    out: dict = {"location": None, "acres": None, "zone": None, "map_query": None}
+    out: dict = {"location": None, "acres": None, "zone": None, "map_query": None,
+                 "street1": None, "street2": None, "area": None}
 
     m = _LOC.search(t)
     if m:
         raw = re.sub(r"\s+", " ", m.group(1)).strip().rstrip(".")
         sm = _STREETS.search(raw)
         if sm:
-            s1, s2 = sm.group(1).strip(), sm.group(2).strip()
-            place = (sm.group(3) or "").strip() or "Las Vegas"
-            out["map_query"] = f"{s1} & {s2}, {place}, NV"
+            s1, s2 = _clean_street(sm.group(1)), _clean_street(sm.group(2))
+            area = _clean_area(sm.group(3))
+            out["street1"], out["street2"] = s1, s2
+            out["area"] = area
+            if s1 and s2:
+                out["map_query"] = f"{s1} & {s2}, {area or 'Las Vegas'}, NV"
+        if out["area"] is None:
+            wm = _WITHIN.search(raw)
+            if wm:
+                out["area"] = _clean_area(wm.group(1))
         loc = raw
         for word, abbr in _ABBR:
             loc = re.sub(rf"\b{word}\b", abbr, loc)
