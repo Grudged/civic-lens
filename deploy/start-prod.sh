@@ -40,11 +40,11 @@ docker run -d \
   -v civic-lens-db:/data \
   --label "traefik.docker.network=coolify" \
   --label "traefik.enable=true" \
-  --label "traefik.http.routers.civiclens.entrypoints=https" \
-  --label "traefik.http.routers.civiclens.rule=Host(\`civic.grudged.io\`)" \
-  --label "traefik.http.routers.civiclens.tls=true" \
-  --label "traefik.http.routers.civiclens.tls.certresolver=letsencrypt" \
-  --label "traefik.http.services.civiclens.loadbalancer.server.port=8902" \
+  --label "traefik.http.routers.civiclens2.entrypoints=https" \
+  --label "traefik.http.routers.civiclens2.rule=Host(\`civic.grudged.io\`)" \
+  --label "traefik.http.routers.civiclens2.tls=true" \
+  --label "traefik.http.routers.civiclens2.tls.certresolver=letsencrypt" \
+  --label "traefik.http.services.civiclens2.loadbalancer.server.port=8902" \
   civic-lens:latest
 
 echo "→ Waiting for it to settle…"
