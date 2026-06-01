@@ -108,12 +108,30 @@
     var geo = payload.geocoded;
     var districts = payload.districts || [];
 
-    var header = '';
+    // Districts summary — a roster-style at-a-glance list of every district
+    // the address falls in, before the user has to scan rep cards. The
+    // district values use the same italic-serif treatment as the per-rep card.
+    var summary = '';
+    if (districts.length) {
+      summary = '<div class="calc-summary">' +
+        '<p class="kicker">Your districts</p>' +
+        '<ul class="summary-list">' +
+        districts.map(function (d) {
+          var label = '<span class="sum-layer">' + esc(d.label) + '</span>';
+          var distHtml = d.district
+            ? '<span class="sum-dist">District ' + esc(d.district) + '</span>'
+            : '<span class="sum-dist sum-dist-empty">no match</span>';
+          return '<li>' + label + distHtml + '</li>';
+        }).join('') +
+        '</ul></div>';
+    }
+
+    var matched = '';
     if (geo && geo.matched_address) {
-      header = '<p class="calc-matched"><span class="kicker">Matched address</span> ' + esc(geo.matched_address) + '</p>';
+      matched = '<p class="calc-matched"><span class="kicker">Matched address</span> ' + esc(geo.matched_address) + '</p>';
     }
     var list = '<ul class="rep-list">' + districts.map(repCard).join('') + '</ul>';
-    resultsEl.innerHTML = header + list;
+    resultsEl.innerHTML = summary + matched + list;
     resultsEl.hidden = false;
 
     // CSP forbids inline onerror handlers; wire fallback to the placeholder
