@@ -128,7 +128,7 @@ def map_page() -> str:
   <form id="calc-form" class="calc-form" role="search" autocomplete="off">
     <label class="vh" for="calc-input">Street address</label>
     <input id="calc-input" class="calc-input" type="text"
-           placeholder="178 Shaded Peak St, Henderson NV"
+           placeholder="495 S Main St, Las Vegas NV"
            inputmode="text" autocapitalize="words" spellcheck="false" required />
     <button class="calc-submit" type="submit">Look up</button>
     <p class="calc-hint">Address only — we don't store it. Clark County addresses work best.</p>
