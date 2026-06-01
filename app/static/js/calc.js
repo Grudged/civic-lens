@@ -44,7 +44,10 @@
 
   function repCard(d) {
     var rep = d.rep;
-    var dist = d.district ? 'District ' + esc(d.district) : 'No matching district';
+    var hasDistrict = !!d.district;
+    var distHtml = hasDistrict
+      ? '<p class="rep-district">District ' + esc(d.district) + '</p>'
+      : '<p class="rep-district rep-district-empty">No matching district</p>';
 
     if (!rep) {
       // We know the district but don't have a rep seeded — be honest about it.
@@ -53,8 +56,8 @@
           '<div class="rep-photo placeholder" aria-hidden="true"></div>' +
           '<div class="rep-body">' +
             '<p class="rep-layer">' + esc(d.label) + '</p>' +
-            '<p class="rep-name">' + esc(dist) + '</p>' +
-            '<p class="rep-meta muted">Representative not yet on file.</p>' +
+            distHtml +
+            (hasDistrict ? '<p class="rep-meta muted">Representative not yet on file.</p>' : '') +
           '</div>' +
         '</li>'
       );
@@ -90,7 +93,8 @@
       '<li class="rep">' +
         photo +
         '<div class="rep-body">' +
-          '<p class="rep-layer">' + esc(d.label) + ' <span class="rep-dist">' + esc(dist) + '</span></p>' +
+          '<p class="rep-layer">' + esc(d.label) + '</p>' +
+          distHtml +
           '<p class="rep-name">' + nameHtml + ' ' + partyTag(rep.party) + '</p>' +
           (meta.length ? '<p class="rep-meta muted">' + meta.join(' · ') + '</p>' : '') +
           (contacts.length ? '<p class="rep-contact">' + contacts.join(' · ') + '</p>' : '') +

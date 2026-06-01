@@ -15,7 +15,7 @@ reps:
     full_name: Dina Titus
     short_name: Titus
     party: D
-    photo_url: null
+    photo_url: "/static/reps/us_house-1.jpg"
     profile_url: https://titus.house.gov
     source: hand
   - rep_id: us_house:2
@@ -24,7 +24,7 @@ reps:
     full_name: Mark Amodei
     short_name: Amodei
     party: R
-    photo_url: null
+    photo_url: "/static/reps/us_house-2.jpg"
     profile_url: https://amodei.house.gov
     source: hand
   - rep_id: us_house:3
@@ -33,7 +33,7 @@ reps:
     full_name: Susie Lee
     short_name: Lee
     party: D
-    photo_url: null
+    photo_url: "/static/reps/us_house-3.jpg"
     profile_url: https://susielee.house.gov
     source: hand
   - rep_id: us_house:4
@@ -42,36 +42,36 @@ reps:
     full_name: Steven Horsford
     short_name: Horsford
     party: D
-    photo_url: null
+    photo_url: "/static/reps/us_house-4.jpg"
     profile_url: https://horsford.house.gov
     source: hand
 
   # ── Nevada Board of Regents (13, nonpartisan) ────────────────────────────
   # Source: https://nshe.nevada.edu/regents/current-regents/
-  - { rep_id: nv_regents:1,  layer_id: nv_regents, district: "1",  full_name: "Carlos D. Fernandez",      short_name: "Fernandez",       party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:2,  layer_id: nv_regents, district: "2",  full_name: "Jennifer J. McGrath",      short_name: "McGrath",         party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:3,  layer_id: nv_regents, district: "3",  full_name: "Byron Brooks",             short_name: "Brooks",          party: NP, role: Chair,       profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:4,  layer_id: nv_regents, district: "4",  full_name: "Aaron Bautista",           short_name: "Bautista",        party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:5,  layer_id: nv_regents, district: "5",  full_name: "Patrick J. Boylan",        short_name: "Boylan",          party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:6,  layer_id: nv_regents, district: "6",  full_name: "Heather Brown",            short_name: "Brown",           party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:7,  layer_id: nv_regents, district: "7",  full_name: "Susan Brager",             short_name: "Brager",          party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:8,  layer_id: nv_regents, district: "8",  full_name: "Pete Goicoechea",          short_name: "Goicoechea",      party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:9,  layer_id: nv_regents, district: "9",  full_name: "Carol Del Carlo",          short_name: "Del Carlo",       party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:10, layer_id: nv_regents, district: "10", full_name: "Joseph C. Arrascada",      short_name: "Arrascada",       party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:11, layer_id: nv_regents, district: "11", full_name: "Jeffrey S. Downs",         short_name: "Downs",           party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:12, layer_id: nv_regents, district: "12", full_name: "Amy J. Carvalho",          short_name: "Carvalho",        party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
-  - { rep_id: nv_regents:13, layer_id: nv_regents, district: "13", full_name: "Stephanie Goodman",       short_name: "Goodman",         party: NP, role: "Vice Chair", profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand }
+  - { rep_id: nv_regents:1,  layer_id: nv_regents, district: "1",  full_name: "Carlos D. Fernandez",      short_name: "Fernandez",       party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-1.jpg" }
+  - { rep_id: nv_regents:2,  layer_id: nv_regents, district: "2",  full_name: "Jennifer J. McGrath",      short_name: "McGrath",         party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-2.jpg" }
+  - { rep_id: nv_regents:3,  layer_id: nv_regents, district: "3",  full_name: "Byron Brooks",             short_name: "Brooks",          party: NP, role: Chair,       profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-3.jpg" }
+  - { rep_id: nv_regents:4,  layer_id: nv_regents, district: "4",  full_name: "Aaron Bautista",           short_name: "Bautista",        party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-4.jpg" }
+  - { rep_id: nv_regents:5,  layer_id: nv_regents, district: "5",  full_name: "Patrick J. Boylan",        short_name: "Boylan",          party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-5.jpg" }
+  - { rep_id: nv_regents:6,  layer_id: nv_regents, district: "6",  full_name: "Heather Brown",            short_name: "Brown",           party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-6.jpg" }
+  - { rep_id: nv_regents:7,  layer_id: nv_regents, district: "7",  full_name: "Susan Brager",             short_name: "Brager",          party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-7.jpg" }
+  - { rep_id: nv_regents:8,  layer_id: nv_regents, district: "8",  full_name: "Pete Goicoechea",          short_name: "Goicoechea",      party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-8.jpg" }
+  - { rep_id: nv_regents:9,  layer_id: nv_regents, district: "9",  full_name: "Carol Del Carlo",          short_name: "Del Carlo",       party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-9.jpg" }
+  - { rep_id: nv_regents:10, layer_id: nv_regents, district: "10", full_name: "Joseph C. Arrascada",      short_name: "Arrascada",       party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-10.jpg" }
+  - { rep_id: nv_regents:11, layer_id: nv_regents, district: "11", full_name: "Jeffrey S. Downs",         short_name: "Downs",           party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-11.jpg" }
+  - { rep_id: nv_regents:12, layer_id: nv_regents, district: "12", full_name: "Amy J. Carvalho",          short_name: "Carvalho",        party: NP, profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-12.jpg" }
+  - { rep_id: nv_regents:13, layer_id: nv_regents, district: "13", full_name: "Stephanie Goodman",       short_name: "Goodman",         party: NP, role: "Vice Chair", profile_url: "https://nshe.nevada.edu/regents/current-regents/", source: hand , photo_url: "/static/reps/nv_regents-13.jpg" }
 
   # ── Clark County Commission (7) ───────────────────────────────────────────
   # Source: https://www.clarkcountynv.gov/government/board_of_county_commissioners/
   # Layer also embeds 'NAME' = 'A - Michael Naft (D)' if we ever want to auto-sync.
-  - { rep_id: cc_commission:A, layer_id: cc_commission, district: "A", full_name: "Michael Naft",          short_name: "Naft",        party: D, role: Chair,       profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand }
-  - { rep_id: cc_commission:B, layer_id: cc_commission, district: "B", full_name: "Marilyn Kirkpatrick",   short_name: "Kirkpatrick", party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand }
-  - { rep_id: cc_commission:C, layer_id: cc_commission, district: "C", full_name: "April Becker",          short_name: "Becker",      party: R, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand }
-  - { rep_id: cc_commission:D, layer_id: cc_commission, district: "D", full_name: "William McCurdy II",    short_name: "McCurdy",     party: D, role: "Vice Chair", profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand }
-  - { rep_id: cc_commission:E, layer_id: cc_commission, district: "E", full_name: "Tick Segerblom",        short_name: "Segerblom",   party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand }
-  - { rep_id: cc_commission:F, layer_id: cc_commission, district: "F", full_name: "Justin Jones",          short_name: "Jones",       party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand }
-  - { rep_id: cc_commission:G, layer_id: cc_commission, district: "G", full_name: "Jim Gibson",            short_name: "Gibson",      party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand }
+  - { rep_id: cc_commission:A, layer_id: cc_commission, district: "A", full_name: "Michael Naft",          short_name: "Naft",        party: D, role: Chair,       profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand , photo_url: "/static/reps/cc_commission-A.jpg" }
+  - { rep_id: cc_commission:B, layer_id: cc_commission, district: "B", full_name: "Marilyn Kirkpatrick",   short_name: "Kirkpatrick", party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand , photo_url: "/static/reps/cc_commission-B.jpg" }
+  - { rep_id: cc_commission:C, layer_id: cc_commission, district: "C", full_name: "April Becker",          short_name: "Becker",      party: R, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand , photo_url: "/static/reps/cc_commission-C.jpg" }
+  - { rep_id: cc_commission:D, layer_id: cc_commission, district: "D", full_name: "William McCurdy II",    short_name: "McCurdy",     party: D, role: "Vice Chair", profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand , photo_url: "/static/reps/cc_commission-D.jpg" }
+  - { rep_id: cc_commission:E, layer_id: cc_commission, district: "E", full_name: "Tick Segerblom",        short_name: "Segerblom",   party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand , photo_url: "/static/reps/cc_commission-E.jpg" }
+  - { rep_id: cc_commission:F, layer_id: cc_commission, district: "F", full_name: "Justin Jones",          short_name: "Jones",       party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand , photo_url: "/static/reps/cc_commission-F.jpg" }
+  - { rep_id: cc_commission:G, layer_id: cc_commission, district: "G", full_name: "Jim Gibson",            short_name: "Gibson",      party: D, profile_url: "https://www.clarkcountynv.gov/government/elected_officials/board_of_commissioners/", source: hand , photo_url: "/static/reps/cc_commission-G.jpg" }
 
   # ── Las Vegas City Council (6 wards, nonpartisan) ─────────────────────────
   # Source: https://www.lasvegasnevada.gov/Government/Mayor-City-Council
@@ -93,10 +93,10 @@ reps:
 
   # ── CCSD Board of Trustees (7, nonpartisan) ──────────────────────────────
   # Names come from the GIS layer's TRUSTEE attribute (ccsd.net).
-  - { rep_id: ccsd_trustees:A, layer_id: ccsd_trustees, district: "A", full_name: "Emily Stevens",         short_name: "Stevens",         party: NP, profile_url: "https://ccsd.net/trustees", source: hand }
-  - { rep_id: ccsd_trustees:B, layer_id: ccsd_trustees, district: "B", full_name: "Lydia Dominguez",       short_name: "Dominguez",       party: NP, profile_url: "https://ccsd.net/trustees", source: hand }
-  - { rep_id: ccsd_trustees:C, layer_id: ccsd_trustees, district: "C", full_name: "Tameka Henry",          short_name: "Henry",           party: NP, profile_url: "https://ccsd.net/trustees", source: hand }
-  - { rep_id: ccsd_trustees:D, layer_id: ccsd_trustees, district: "D", full_name: "Brenda Zamora",         short_name: "Zamora",          party: NP, profile_url: "https://ccsd.net/trustees", source: hand }
-  - { rep_id: ccsd_trustees:E, layer_id: ccsd_trustees, district: "E", full_name: "Lorena Biassotti",      short_name: "Biassotti",       party: NP, profile_url: "https://ccsd.net/trustees", source: hand }
-  - { rep_id: ccsd_trustees:F, layer_id: ccsd_trustees, district: "F", full_name: "Irene Bustamante Adams",short_name: "Bustamante Adams",party: NP, profile_url: "https://ccsd.net/trustees", source: hand }
-  - { rep_id: ccsd_trustees:G, layer_id: ccsd_trustees, district: "G", full_name: "Linda P. Cavazos",      short_name: "Cavazos",         party: NP, profile_url: "https://ccsd.net/trustees", source: hand }
+  - { rep_id: ccsd_trustees:A, layer_id: ccsd_trustees, district: "A", full_name: "Emily Stevens",         short_name: "Stevens",         party: NP, profile_url: "https://ccsd.net/trustees", source: hand , photo_url: "/static/reps/ccsd_trustees-A.jpg" }
+  - { rep_id: ccsd_trustees:B, layer_id: ccsd_trustees, district: "B", full_name: "Lydia Dominguez",       short_name: "Dominguez",       party: NP, profile_url: "https://ccsd.net/trustees", source: hand , photo_url: "/static/reps/ccsd_trustees-B.jpg" }
+  - { rep_id: ccsd_trustees:C, layer_id: ccsd_trustees, district: "C", full_name: "Tameka Henry",          short_name: "Henry",           party: NP, profile_url: "https://ccsd.net/trustees", source: hand , photo_url: "/static/reps/ccsd_trustees-C.jpg" }
+  - { rep_id: ccsd_trustees:D, layer_id: ccsd_trustees, district: "D", full_name: "Brenda Zamora",         short_name: "Zamora",          party: NP, profile_url: "https://ccsd.net/trustees", source: hand , photo_url: "/static/reps/ccsd_trustees-D.jpg" }
+  - { rep_id: ccsd_trustees:E, layer_id: ccsd_trustees, district: "E", full_name: "Lorena Biassotti",      short_name: "Biassotti",       party: NP, profile_url: "https://ccsd.net/trustees", source: hand , photo_url: "/static/reps/ccsd_trustees-E.jpg" }
+  - { rep_id: ccsd_trustees:F, layer_id: ccsd_trustees, district: "F", full_name: "Irene Bustamante Adams",short_name: "Bustamante Adams",party: NP, profile_url: "https://ccsd.net/trustees", source: hand , photo_url: "/static/reps/ccsd_trustees-F.jpg" }
+  - { rep_id: ccsd_trustees:G, layer_id: ccsd_trustees, district: "G", full_name: "Linda P. Cavazos",      short_name: "Cavazos",         party: NP, profile_url: "https://ccsd.net/trustees", source: hand , photo_url: "/static/reps/ccsd_trustees-G.jpg" }

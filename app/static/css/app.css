@@ -300,7 +300,11 @@ main { max-width: var(--maxw); margin: 0 auto; padding: clamp(1.5rem, 4vw, 3rem)
 .rep-body { min-width: 0; }
 .rep-layer { font-size: .72rem; font-weight: 700; text-transform: uppercase;
              letter-spacing: .1em; color: var(--brass); margin: 0; }
-.rep-layer .rep-dist { color: var(--ink-soft); font-weight: 600; }
+/* District is the primary answer to "what's my district" — promoted to its own
+   italic-serif line, larger than the name's small-caps section label. */
+.rep-district { font-family: var(--serif); font-style: italic; font-size: 1.18rem;
+                color: var(--ink); margin: .15rem 0 .1rem; line-height: 1.15; }
+.rep-district-empty { color: var(--ink-soft); font-style: normal; font-size: 1rem; }
 .rep-name { font-family: var(--serif); font-size: 1.18rem; font-weight: 600;
             margin: .15rem 0 .2rem; line-height: 1.2; }
 .rep-name a { color: var(--ink); text-decoration: none; }
