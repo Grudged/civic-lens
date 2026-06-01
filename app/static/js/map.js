@@ -154,5 +154,10 @@
     apply();
   }
 
-  document.querySelectorAll('.map-canvas[data-src]').forEach(initMap);
+  document.querySelectorAll('.map-canvas[data-src]').forEach(function (el) {
+    var m = initMap(el);
+    // Publish the primary (non-mini) map so the address calculator can overlay
+    // matched district polygons + the searched address marker on the same view.
+    if (el.id === 'map' && !window.civicMap) window.civicMap = m;
+  });
 })();

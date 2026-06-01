@@ -40,7 +40,8 @@ _NAV = [
 # Self-hosted MapLibre (keeps script-src 'self'); OpenFreeMap tiles are allowed in the CSP.
 MAP_HEAD = '<link rel="stylesheet" href="/static/vendor/maplibre/maplibre-gl.css">'
 MAP_BODY_END = ('<script src="/static/vendor/maplibre/maplibre-gl.js"></script>'
-                '<script src="/static/js/map.js" defer></script>')
+                '<script src="/static/js/map.js" defer></script>'
+                '<script src="/static/js/calc.js" defer></script>')
 
 
 def _esc(s) -> str:
@@ -120,6 +121,23 @@ def map_page() -> str:
   the corner it concerns. Amber pins are coming up for a decision; green and red are already
   decided. Click a pin for the plain-English brief and a link to the full meeting record.</p>
 </section>
+
+<section class="calc" aria-labelledby="calc-h">
+  <p class="kicker">Find your representatives</p>
+  <h2 id="calc-h">Who decides for this address?</h2>
+  <form id="calc-form" class="calc-form" role="search" autocomplete="off">
+    <label class="vh" for="calc-input">Street address</label>
+    <input id="calc-input" class="calc-input" type="text"
+           placeholder="178 Shaded Peak St, Henderson NV"
+           inputmode="text" autocapitalize="words" spellcheck="false" required />
+    <button class="calc-submit" type="submit">Look up</button>
+    <p class="calc-hint">Address only — we don't store it. Clark County addresses work best.</p>
+  </form>
+  <div id="calc-status" class="calc-status" role="status" aria-live="polite"></div>
+  <div id="calc-results" class="calc-results" hidden></div>
+</section>
+
+<h2 class="section-h">The development docket</h2>
 <div class="map-controls" role="group" aria-label="Map filters">
   <label class="ctl"><span>Body</span>
     <select id="flt-body"><option value="">All bodies</option>{bodies}</select></label>

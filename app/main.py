@@ -9,7 +9,7 @@ from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse, JSONResponse, PlainTextResponse, Response
 from fastapi.staticfiles import StaticFiles
 
-from . import geocode, location, render, topics
+from . import districts, geocode, location, render, topics
 from .config import BODIES, PUBLIC_BASE_URL
 from .db import db, init_db
 
@@ -19,6 +19,7 @@ STATIC_DIR = Path(__file__).resolve().parent / "static"
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     init_db()
+    districts.load()
     yield
 
 
@@ -30,7 +31,11 @@ _CSP = (
     "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
     "font-src https://fonts.gstatic.com; "
     # MapLibre tiles/glyphs/sprites come from OpenFreeMap; the map's GL worker is a blob.
-    "img-src 'self' data: blob: https://tiles.openfreemap.org; "
+    # Legislator headshots for the address calculator are hosted by the NV Legislature.
+    "img-src 'self' data: blob: https://tiles.openfreemap.org "
+    # leg.state.nv.us 302-redirects legislator photos to archive.leg.state.nv.us;
+    # both subdomains need to be listed because CSP applies to the final URL too.
+    "https://www.leg.state.nv.us https://archive.leg.state.nv.us; "
     "connect-src 'self' https://analytics.grudged.io https://tiles.openfreemap.org; "
     "worker-src blob:; "
     "base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
@@ -244,6 +249,48 @@ def api_map(body: str | None = None, topic: str | None = None, status: str | Non
             "SELECT geo_key, label, lat, lng, precision FROM geocodes WHERE lat IS NOT NULL").fetchall()}
     return JSONResponse({"type": "FeatureCollection", "features": _map_features(rows, geo)},
                         media_type="application/geo+json")
+
+
+# ---- district calculator ---------------------------------------------------
+@app.get("/api/districts")
+def api_districts(
+    lat: float | None = None,
+    lng: float | None = None,
+    address: str | None = None,
+):
+    """Address (or lat/lng) → matched district per layer + rep + recent votes.
+
+    Pass either `address` (we geocode via the Clark County composite locator) or
+    `lat`+`lng` directly. Validates both forms in one place so callers can use
+    whichever is convenient.
+    """
+    geocoded = None
+    if address:
+        geocoded = districts.geocode_address(address)
+        if not geocoded:
+            return JSONResponse(
+                {"error": "address_not_geocodable", "address": address},
+                status_code=404,
+            )
+        lat, lng = geocoded["lat"], geocoded["lng"]
+    if lat is None or lng is None:
+        return JSONResponse(
+            {"error": "missing_params",
+             "detail": "Provide either ?address=… or ?lat=…&lng=…"},
+            status_code=400,
+        )
+
+    return {
+        "geocoded": geocoded,
+        "query": {"lat": lat, "lng": lng},
+        "districts": districts.lookup(lat, lng),
+    }
+
+
+@app.get("/api/districts/layers")
+def api_district_layers():
+    """Layer metadata for the map overlay (id, label, polygon count)."""
+    return {"layers": districts.layer_list()}
 
 
 # ---- machine surfaces ------------------------------------------------------

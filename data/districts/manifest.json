@@ -1,0 +1,61 @@
+{
+  "as_of": "2026-06-01T14:07:08Z",
+  "layers": [
+    {
+      "layer_id": "us_house",
+      "label": "U.S. House of Representatives",
+      "sort_order": 10,
+      "geojson_path": "data/districts/us_house.geojson",
+      "source_url": "https://services9.arcgis.com/UU5yXg9PV67U0ebq/arcgis/rest/services/2021Congressional_Final_SB1_Amd2/FeatureServer/3"
+    },
+    {
+      "layer_id": "nv_senate",
+      "label": "Nevada State Senate",
+      "sort_order": 20,
+      "geojson_path": "data/districts/nv_senate.geojson",
+      "source_url": "https://services9.arcgis.com/UU5yXg9PV67U0ebq/arcgis/rest/services/2021Senate_Final_SB1_Amd2/FeatureServer/1"
+    },
+    {
+      "layer_id": "nv_assembly",
+      "label": "Nevada State Assembly",
+      "sort_order": 30,
+      "geojson_path": "data/districts/nv_assembly.geojson",
+      "source_url": "https://services9.arcgis.com/UU5yXg9PV67U0ebq/arcgis/rest/services/2021Assembly_Final_SB1_Amd2/FeatureServer/0"
+    },
+    {
+      "layer_id": "nv_regents",
+      "label": "Nevada Board of Regents",
+      "sort_order": 40,
+      "geojson_path": "data/districts/nv_regents.geojson",
+      "source_url": "https://services9.arcgis.com/UU5yXg9PV67U0ebq/arcgis/rest/services/2021Regents_BDR_Final/FeatureServer/2"
+    },
+    {
+      "layer_id": "cc_commission",
+      "label": "Clark County Commission",
+      "sort_order": 50,
+      "geojson_path": "data/districts/cc_commission.geojson",
+      "source_url": "https://maps.clarkcountynv.gov/arcgis/rest/services/AdminServ/CommissionerDistrict_p/FeatureServer/0"
+    },
+    {
+      "layer_id": "ccsd_trustees",
+      "label": "Clark County School District Trustees",
+      "sort_order": 60,
+      "geojson_path": "data/districts/ccsd_trustees.geojson",
+      "source_url": "https://services1.arcgis.com/F1v0ufATbBQScMtY/arcgis/rest/services/CCSD_Trustees_2020_JAN_2025/FeatureServer/426"
+    },
+    {
+      "layer_id": "lv_ward",
+      "label": "Las Vegas City Council Ward",
+      "sort_order": 70,
+      "geojson_path": "data/districts/lv_ward.geojson",
+      "source_url": "https://services2.arcgis.com/MLoS3Qx4BXmDoTIY/arcgis/rest/services/CLV_WARDS/FeatureServer/3"
+    },
+    {
+      "layer_id": "hen_ward",
+      "label": "Henderson City Council Ward",
+      "sort_order": 80,
+      "geojson_path": "data/districts/hen_ward.geojson",
+      "source_url": "https://maps.cityofhenderson.com/arcgis/rest/services/public/Elections/MapServer/1"
+    }
+  ]
+}

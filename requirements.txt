@@ -3,3 +3,6 @@ uvicorn[standard]
 httpx
 python-dotenv
 pydantic
+beautifulsoup4
+shapely
+pyyaml
