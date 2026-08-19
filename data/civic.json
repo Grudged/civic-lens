@@ -24586,7 +24586,7 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Presented",
     "event_id": 2987,
     "event_item_id": 176598,
     "matter_id": 110592,
@@ -24614,13 +24614,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176602,
     "matter_id": 110356,
     "matter_type": "Agenda Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Tick Segerblom",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 16,
@@ -24628,13 +24628,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176603,
     "matter_id": 110357,
     "matter_type": "Agenda Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Tick Segerblom",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 17,
@@ -24642,7 +24642,7 @@
     "topics": "[\"public-safety\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176606,
     "matter_id": 110483,
@@ -24656,7 +24656,7 @@
     "topics": "[\"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176607,
     "matter_id": 110484,
@@ -24670,7 +24670,7 @@
     "topics": "[\"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176608,
     "matter_id": 110485,
@@ -24684,7 +24684,7 @@
     "topics": "[\"budget\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176609,
     "matter_id": 110586,
@@ -24698,7 +24698,7 @@
     "topics": "[\"housing\", \"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176610,
     "matter_id": 110587,
@@ -24754,7 +24754,7 @@
     "topics": "[\"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176617,
     "matter_id": 110574,
@@ -24768,7 +24768,7 @@
     "topics": "[\"budget\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176619,
     "matter_id": 110595,
@@ -24782,7 +24782,7 @@
     "topics": "[\"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176620,
     "matter_id": 110596,
@@ -24796,7 +24796,7 @@
     "topics": "[\"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176621,
     "matter_id": 110597,
@@ -24810,7 +24810,7 @@
     "topics": "[\"budget\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176623,
     "matter_id": 110591,
@@ -24824,7 +24824,7 @@
     "topics": "[\"development\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176625,
     "matter_id": 110594,
@@ -24838,7 +24838,7 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176626,
     "matter_id": 110600,
@@ -24880,7 +24880,7 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176630,
     "matter_id": 110585,
@@ -24894,7 +24894,7 @@
     "topics": "[\"budget\", \"health\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176632,
     "matter_id": 110590,
@@ -24922,7 +24922,7 @@
     "topics": "[\"development\", \"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176635,
     "matter_id": 110602,
@@ -24950,7 +24950,7 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176637,
     "matter_id": 110584,
@@ -24964,7 +24964,7 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176638,
     "matter_id": 110576,
@@ -24992,13 +24992,13 @@
     "topics": "[\"budget\", \"health\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176643,
     "matter_id": 110607,
     "matter_type": "Public Hearing",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Marilyn K. Kirkpatrick",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 60,
@@ -25034,13 +25034,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176650,
     "matter_id": 110497,
     "matter_type": "Business Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Marilyn K. Kirkpatrick",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 66,
@@ -25076,7 +25076,7 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Presented",
     "event_id": 2987,
     "event_item_id": 176657,
     "matter_id": 110608,
@@ -25664,7 +25664,7 @@
     "topics": "[\"land-use\", \"development\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176718,
     "matter_id": 110651,
@@ -26616,13 +26616,13 @@
     "topics": "[\"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176803,
     "matter_id": 110652,
     "matter_type": "Business Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Tick Segerblom",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 64,
@@ -26630,13 +26630,13 @@
     "topics": "[\"budget\", \"health\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176805,
     "matter_id": 110719,
     "matter_type": "Business Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Tick Segerblom",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 65,
@@ -26644,7 +26644,7 @@
     "topics": "[\"budget\", \"health\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 2987,
     "event_item_id": 176806,
     "matter_id": 110720,
@@ -26658,7 +26658,7 @@
     "topics": "[\"budget\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Presented",
     "event_id": 2987,
     "event_item_id": 176808,
     "matter_id": 110721,
@@ -54677,7 +54677,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2937,
-    "fetched_at": "2026-08-18T06:00:02.530326+00:00",
+    "fetched_at": "2026-08-19T06:00:12.905297+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2937&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-04-21T09:00",
@@ -54716,7 +54716,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2944,
-    "fetched_at": "2026-08-18T06:00:30.134097+00:00",
+    "fetched_at": "2026-08-19T06:00:41.252337+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2944&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-05T09:00",
@@ -54755,7 +54755,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2953,
-    "fetched_at": "2026-08-18T06:01:01.492515+00:00",
+    "fetched_at": "2026-08-19T06:01:18.384395+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2953&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-19T09:00",
@@ -54768,7 +54768,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2955,
-    "fetched_at": "2026-08-18T06:04:30.214041+00:00",
+    "fetched_at": "2026-08-19T06:05:15.455707+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2955&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-04-21T19:00",
@@ -54781,7 +54781,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2956,
-    "fetched_at": "2026-08-18T06:07:35.210957+00:00",
+    "fetched_at": "2026-08-19T06:08:38.329558+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2956&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-04-22T09:00",
@@ -54794,7 +54794,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2960,
-    "fetched_at": "2026-08-18T06:05:05.586119+00:00",
+    "fetched_at": "2026-08-19T06:05:59.978200+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2960&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-05T19:00",
@@ -54807,7 +54807,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2961,
-    "fetched_at": "2026-08-18T06:07:43.840537+00:00",
+    "fetched_at": "2026-08-19T06:08:46.858962+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2961&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-06T09:00",
@@ -54820,7 +54820,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2963,
-    "fetched_at": "2026-08-18T06:01:41.551843+00:00",
+    "fetched_at": "2026-08-19T06:01:59.577358+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2963&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-02T09:00",
@@ -54833,7 +54833,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2966,
-    "fetched_at": "2026-08-18T06:05:24.586476+00:00",
+    "fetched_at": "2026-08-19T06:06:22.644500+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2966&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-19T19:00",
@@ -54846,7 +54846,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2967,
-    "fetched_at": "2026-08-18T06:07:54.462760+00:00",
+    "fetched_at": "2026-08-19T06:08:57.150444+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2967&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-20T09:00",
@@ -54859,7 +54859,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2969,
-    "fetched_at": "2026-08-18T06:02:15.541055+00:00",
+    "fetched_at": "2026-08-19T06:02:34.076199+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2969&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-16T09:00",
@@ -54872,7 +54872,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2970,
-    "fetched_at": "2026-08-18T06:03:01.322377+00:00",
+    "fetched_at": "2026-08-19T06:03:20.024038+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2970&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-07T09:05",
@@ -54885,7 +54885,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2973,
-    "fetched_at": "2026-08-18T06:05:50.875130+00:00",
+    "fetched_at": "2026-08-19T06:06:54.445976+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2973&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-02T19:00",
@@ -54898,7 +54898,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2974,
-    "fetched_at": "2026-08-18T06:08:06.962646+00:00",
+    "fetched_at": "2026-08-19T06:09:10.148890+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2974&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-03T09:00",
@@ -54911,7 +54911,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2976,
-    "fetched_at": "2026-08-18T06:03:26.681477+00:00",
+    "fetched_at": "2026-08-19T06:03:52.836940+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2976&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T09:00",
@@ -54924,7 +54924,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2978,
-    "fetched_at": "2026-08-18T06:06:04.662845+00:00",
+    "fetched_at": "2026-08-19T06:07:10.860635+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2978&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-16T19:00",
@@ -54937,7 +54937,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2979,
-    "fetched_at": "2026-08-18T06:08:16.022930+00:00",
+    "fetched_at": "2026-08-19T06:09:19.413255+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2979&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-17T09:00",
@@ -54950,7 +54950,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2980,
-    "fetched_at": "2026-08-18T06:03:53.525805+00:00",
+    "fetched_at": "2026-08-19T06:04:28.755493+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2980&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T09:05",
@@ -54963,7 +54963,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2983,
-    "fetched_at": "2026-08-18T06:06:50.283313+00:00",
+    "fetched_at": "2026-08-19T06:07:49.459322+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2983&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-07T19:00",
@@ -54976,7 +54976,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2984,
-    "fetched_at": "2026-08-18T06:08:23.807957+00:00",
+    "fetched_at": "2026-08-19T06:09:28.126253+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2984&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-08T09:00",
@@ -54989,7 +54989,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2987,
-    "fetched_at": "2026-08-18T06:04:28.078113+00:00",
+    "fetched_at": "2026-08-19T06:05:12.801340+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2987&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T09:00",
@@ -55002,7 +55002,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2989,
-    "fetched_at": "2026-08-18T06:07:20.251550+00:00",
+    "fetched_at": "2026-08-19T06:08:23.230187+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2989&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T19:00",
@@ -55015,7 +55015,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2990,
-    "fetched_at": "2026-08-18T06:08:30.438944+00:00",
+    "fetched_at": "2026-08-19T06:09:34.996129+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2990&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-22T09:00",
@@ -55028,7 +55028,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2992,
-    "fetched_at": "2026-08-18T06:07:26.163451+00:00",
+    "fetched_at": "2026-08-19T06:08:29.454171+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2992&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T19:00",
@@ -55041,7 +55041,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2993,
-    "fetched_at": "2026-08-18T06:08:40.528616+00:00",
+    "fetched_at": "2026-08-19T06:09:46.050247+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2993&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-05T09:00",
@@ -55054,7 +55054,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2997,
-    "fetched_at": "2026-08-18T06:07:33.141122+00:00",
+    "fetched_at": "2026-08-19T06:08:35.858550+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2997&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T19:00",
@@ -55067,7 +55067,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2999,
-    "fetched_at": "2026-08-18T06:08:50.805459+00:00",
+    "fetched_at": "2026-08-19T06:09:58.314596+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2999&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-19T09:00",
