@@ -28436,13 +28436,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177335,
     "matter_id": 110898,
     "matter_type": "Opening Ceremonies",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Steve Kirk",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 12,
@@ -28450,13 +28450,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177336,
     "matter_id": 110899,
     "matter_type": "Opening Ceremonies",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Steve Kirk",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 13,
@@ -28674,13 +28674,13 @@
     "topics": "[\"land-use\", \"development\", \"transportation\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177354,
     "matter_id": 110916,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Nelson Stone",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 31,
@@ -28688,13 +28688,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177355,
     "matter_id": 110917,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Nelson Stone",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 32,
@@ -28702,13 +28702,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177356,
     "matter_id": 110918,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Vivian Kilarski",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 34,
@@ -28716,13 +28716,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177357,
     "matter_id": 110919,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Nelson Stone",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 35,
@@ -28730,13 +28730,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177358,
     "matter_id": 110920,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 36,
@@ -28744,13 +28744,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177359,
     "matter_id": 110921,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 37,
@@ -28758,13 +28758,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177360,
     "matter_id": 110922,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 38,
@@ -28772,13 +28772,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177361,
     "matter_id": 110923,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 53,
@@ -28786,13 +28786,13 @@
     "topics": "[\"land-use\", \"transportation\", \"business\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177362,
     "matter_id": 110924,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 54,
@@ -28898,13 +28898,13 @@
     "topics": "[\"land-use\", \"development\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177370,
     "matter_id": 110932,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 44,
@@ -28912,13 +28912,13 @@
     "topics": "[\"land-use\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177371,
     "matter_id": 110933,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 45,
@@ -28968,13 +28968,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Denied",
     "event_id": 3010,
     "event_item_id": 177375,
     "matter_id": 110937,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 57,
@@ -28982,13 +28982,13 @@
     "topics": "[\"land-use\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Denied",
     "event_id": 3010,
     "event_item_id": 177376,
     "matter_id": 110938,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 58,
@@ -29612,13 +29612,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177730,
     "matter_id": 110952,
     "matter_type": "Opening Ceremonies",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 12,
@@ -29626,13 +29626,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177731,
     "matter_id": 110953,
     "matter_type": "Opening Ceremonies",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 13,
@@ -29920,13 +29920,13 @@
     "topics": "[\"land-use\", \"development\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177754,
     "matter_id": 110973,
     "matter_type": "Non-Routine Item",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 39,
@@ -30172,13 +30172,13 @@
     "topics": "[\"land-use\", \"development\", \"transportation\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177772,
     "matter_id": 110991,
     "matter_type": "Non-Routine Item",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 60,
@@ -30242,13 +30242,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177777,
     "matter_id": 110996,
     "matter_type": "Non-Routine Item",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 65,
@@ -30326,13 +30326,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177783,
     "matter_id": 111002,
     "matter_type": "Non-Routine Item",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 72,
@@ -30354,13 +30354,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177785,
     "matter_id": 111006,
     "matter_type": "Non-Routine Item",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 31,
@@ -30494,13 +30494,13 @@
     "topics": "[\"land-use\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3012,
     "event_item_id": 177802,
     "matter_id": 111012,
     "matter_type": "Non-Routine Item",
     "mover": null,
-    "passed_flag": null,
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 35,
@@ -30508,13 +30508,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Held",
     "event_id": 3010,
     "event_item_id": 177803,
     "matter_id": 111018,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Nelson Stone",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 49,
@@ -30564,13 +30564,13 @@
     "topics": "[\"land-use\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Held",
     "event_id": 3010,
     "event_item_id": 177807,
     "matter_id": 111017,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 33,
@@ -50979,6 +50979,286 @@
     "vote": "Voting Aye"
    },
    {
+    "event_item_id": 177659,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177659,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177659,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177659,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177659,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177659,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177659,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177660,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177660,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177660,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177660,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177660,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177660,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177660,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177695,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177695,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177695,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177695,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177695,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177695,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177695,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177809,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177809,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177809,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177809,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177809,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177809,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177809,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177701,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177701,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177701,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177701,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177701,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177701,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177701,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177702,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177702,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177702,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177702,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177702,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177702,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177702,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177711,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177711,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177711,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177711,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177711,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177711,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177711,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177712,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177712,
+    "person": "William McCurdy II",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177712,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177712,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177712,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177712,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177712,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
     "event_item_id": 173929,
     "person": "Edward Frasier III",
     "vote": "Voting Aye"
@@ -58745,6 +59025,601 @@
    },
    {
     "event_item_id": 176985,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177335,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177335,
+    "person": "Leslie Mujica",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177335,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177335,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177335,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177335,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177335,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177336,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177336,
+    "person": "Leslie Mujica",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177336,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177336,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177336,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177336,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177336,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177354,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177354,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177354,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177354,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177354,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177354,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177354,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177355,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177355,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177355,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177355,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177355,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177355,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177355,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177807,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177807,
+    "person": "Leslie Mujica",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177807,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177807,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177807,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177807,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177807,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177356,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177356,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177356,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177356,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177356,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177356,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177356,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177357,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177357,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177357,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177357,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177357,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177357,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177357,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177358,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177358,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177358,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177358,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177358,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177358,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177358,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177359,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177359,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177359,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177359,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177359,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177359,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177359,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177360,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177360,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177360,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177360,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177360,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 177360,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177360,
+    "person": "Nelson Stone",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 177370,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177370,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177370,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177370,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177370,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177370,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177370,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177371,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177371,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177371,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177371,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177371,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177371,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177371,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177803,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177803,
+    "person": "Leslie Mujica",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177803,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177803,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177803,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177803,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177803,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177361,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177361,
+    "person": "Leslie Mujica",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177361,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177361,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177361,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177361,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177361,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177362,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177362,
+    "person": "Leslie Mujica",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177362,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177362,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177362,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177362,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177362,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177375,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177375,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177375,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177375,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177375,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177375,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177375,
+    "person": "Nelson Stone",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 177376,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177376,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177376,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177376,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177376,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177376,
+    "person": "Michael Roitman",
+    "vote": "Absent"
+   },
+   {
+    "event_item_id": 177376,
     "person": "Nelson Stone",
     "vote": "Voting Aye"
    },
@@ -62780,7 +63655,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2953,
-    "fetched_at": "2026-09-16T05:30:04.144114+00:00",
+    "fetched_at": "2026-09-17T06:00:01.527714+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2953&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-19T09:00",
@@ -62845,7 +63720,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2963,
-    "fetched_at": "2026-09-16T05:32:16.654338+00:00",
+    "fetched_at": "2026-09-17T06:00:24.046198+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2963&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-02T09:00",
@@ -62858,7 +63733,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2966,
-    "fetched_at": "2026-09-16T05:48:34.451133+00:00",
+    "fetched_at": "2026-09-17T06:03:09.503806+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2966&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-19T19:00",
@@ -62871,7 +63746,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2967,
-    "fetched_at": "2026-09-16T05:59:51.383651+00:00",
+    "fetched_at": "2026-09-17T06:05:11.994275+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2967&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-05-20T09:00",
@@ -62884,7 +63759,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2969,
-    "fetched_at": "2026-09-16T05:34:34.808229+00:00",
+    "fetched_at": "2026-09-17T06:00:45.138221+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2969&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-16T09:00",
@@ -62897,7 +63772,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2970,
-    "fetched_at": "2026-09-16T05:37:58.401623+00:00",
+    "fetched_at": "2026-09-17T06:01:15.740474+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2970&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-07T09:05",
@@ -62910,7 +63785,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2973,
-    "fetched_at": "2026-09-16T05:50:26.170054+00:00",
+    "fetched_at": "2026-09-17T06:03:27.842203+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2973&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-02T19:00",
@@ -62923,7 +63798,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2974,
-    "fetched_at": "2026-09-16T06:00:56.748212+00:00",
+    "fetched_at": "2026-09-17T06:05:21.786595+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2974&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-03T09:00",
@@ -62936,7 +63811,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2976,
-    "fetched_at": "2026-09-16T05:39:52.939367+00:00",
+    "fetched_at": "2026-09-17T06:01:46.312772+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2976&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T09:00",
@@ -62949,7 +63824,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2978,
-    "fetched_at": "2026-09-16T05:51:29.003137+00:00",
+    "fetched_at": "2026-09-17T06:03:37.004683+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2978&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-16T19:00",
@@ -62962,7 +63837,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2979,
-    "fetched_at": "2026-09-16T06:01:50.263148+00:00",
+    "fetched_at": "2026-09-17T06:05:28.795466+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2979&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-06-17T09:00",
@@ -62975,7 +63850,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2980,
-    "fetched_at": "2026-09-16T05:41:40.506406+00:00",
+    "fetched_at": "2026-09-17T06:02:05.524552+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2980&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T09:05",
@@ -62988,7 +63863,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2983,
-    "fetched_at": "2026-09-16T05:53:31.841027+00:00",
+    "fetched_at": "2026-09-17T06:04:00.071613+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2983&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-07T19:00",
@@ -63001,7 +63876,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2984,
-    "fetched_at": "2026-09-16T06:02:33.238075+00:00",
+    "fetched_at": "2026-09-17T06:05:34.775733+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2984&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-08T09:00",
@@ -63014,7 +63889,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2987,
-    "fetched_at": "2026-09-16T05:44:50.358600+00:00",
+    "fetched_at": "2026-09-17T06:02:32.424674+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2987&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T09:00",
@@ -63027,7 +63902,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2989,
-    "fetched_at": "2026-09-16T05:55:32.119224+00:00",
+    "fetched_at": "2026-09-17T06:04:21.238318+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2989&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T19:00",
@@ -63040,7 +63915,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2990,
-    "fetched_at": "2026-09-16T06:03:17.432792+00:00",
+    "fetched_at": "2026-09-17T06:05:40.221385+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2990&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-22T09:00",
@@ -63053,7 +63928,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2992,
-    "fetched_at": "2026-09-16T05:56:32.497614+00:00",
+    "fetched_at": "2026-09-17T06:04:32.247589+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2992&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T19:00",
@@ -63066,7 +63941,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2993,
-    "fetched_at": "2026-09-16T06:04:13.255435+00:00",
+    "fetched_at": "2026-09-17T06:05:47.165412+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2993&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-05T09:00",
@@ -63079,7 +63954,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2994,
-    "fetched_at": "2026-09-16T05:46:36.372492+00:00",
+    "fetched_at": "2026-09-17T06:02:45.936844+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2994&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-01T09:05",
@@ -63092,7 +63967,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2997,
-    "fetched_at": "2026-09-16T05:57:07.546615+00:00",
+    "fetched_at": "2026-09-17T06:04:37.146155+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2997&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T19:00",
@@ -63105,7 +63980,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2999,
-    "fetched_at": "2026-09-16T06:05:12.648183+00:00",
+    "fetched_at": "2026-09-17T06:05:55.014936+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2999&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-19T09:00",
@@ -63118,12 +63993,12 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3001,
-    "fetched_at": "2026-09-16T05:48:28.423568+00:00",
+    "fetched_at": "2026-09-17T06:03:03.869148+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3001&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-15T09:00",
     "minutes_url": null,
-    "status": "upcoming"
+    "status": "past"
    },
    {
     "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/9/3005_A_Clark_County_Planning_Commission_26-09-01_PC_Agenda.pdf",
@@ -63131,7 +64006,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3005,
-    "fetched_at": "2026-09-16T05:59:14.460624+00:00",
+    "fetched_at": "2026-09-17T06:04:56.602585+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3005&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-01T19:00",
@@ -63144,7 +64019,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3006,
-    "fetched_at": "2026-09-16T06:06:00.365757+00:00",
+    "fetched_at": "2026-09-17T06:06:00.911861+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3006&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-02T09:00",
@@ -63157,12 +64032,12 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3010,
-    "fetched_at": "2026-09-16T05:59:43.786547+00:00",
+    "fetched_at": "2026-09-17T06:05:01.398724+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3010&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-15T19:00",
     "minutes_url": null,
-    "status": "upcoming"
+    "status": "past"
    },
    {
     "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/9/3012_A_Clark_County_Zoning_Commission__26-09-16_Zoning_Agenda.pdf",
@@ -63170,7 +64045,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3012,
-    "fetched_at": "2026-09-16T06:07:07.888284+00:00",
+    "fetched_at": "2026-09-17T06:06:09.084306+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3012&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-16T09:00",
