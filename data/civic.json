@@ -30662,13 +30662,13 @@
     "topics": "[]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177840,
     "matter_id": 111064,
     "matter_type": "Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 15,
@@ -30676,13 +30676,13 @@
     "topics": "[\"land-use\", \"development\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177841,
     "matter_id": 111065,
     "matter_type": "Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 16,
@@ -30704,13 +30704,13 @@
     "topics": "[\"transportation\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177843,
     "matter_id": 111068,
     "matter_type": "Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 18,
@@ -30718,13 +30718,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177844,
     "matter_id": 111069,
     "matter_type": "Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 19,
@@ -30732,13 +30732,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177845,
     "matter_id": 111070,
     "matter_type": "Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 20,
@@ -30746,13 +30746,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\", \"parks\", \"health\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177846,
     "matter_id": 111071,
     "matter_type": "Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 21,
@@ -30760,13 +30760,13 @@
     "topics": "[\"land-use\", \"development\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177847,
     "matter_id": 111072,
     "matter_type": "Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 22,
@@ -30858,13 +30858,13 @@
     "topics": "[\"land-use\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177855,
     "matter_id": 111081,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 36,
@@ -30872,13 +30872,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177856,
     "matter_id": 111082,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 37,
@@ -30998,13 +30998,13 @@
     "topics": "[\"land-use\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177865,
     "matter_id": 111092,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 40,
@@ -31012,13 +31012,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Amended",
     "event_id": 3019,
     "event_item_id": 177866,
     "matter_id": 111093,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 41,
@@ -31026,13 +31026,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3019,
     "event_item_id": 177867,
     "matter_id": 111094,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 42,
@@ -35154,6 +35154,524 @@
     "sequence": 68,
     "title": "Authorize Petition for Writ of Mandamus to Supreme Court of Nevada in Annette Walker v. Clark County Office of the Coroner/ Medical Examiner, EJDC Case No. A-24-890997-C; or take other action as deemed appropriate.  (For possible action)",
     "topics": "[\"budget\", \"health\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179082,
+    "matter_id": 111035,
+    "matter_type": "Public Forum",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 10,
+    "title": "Public Comment",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179084,
+    "matter_id": 111033,
+    "matter_type": "Agenda Item",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 12,
+    "title": "Approval of Minutes of the Regular Meeting on October 6, 2026.  (For possible action) (Available in the County Clerk's Office, Commission Division)",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179085,
+    "matter_id": 111034,
+    "matter_type": "Agenda Item",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 13,
+    "title": "Approval of Agenda with the Inclusion of Any Emergency Items and Deletion of Any Items.  (For possible action)",
+    "topics": "[\"public-safety\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179088,
+    "matter_id": 111268,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 17,
+    "title": "Approve the increase of funding to the Contract with OpenText, for CBE No. 603557-14, for OpenText End User License Agreement; and authorize the Chief Financial Officer or her designee to issue purchase orders; subject to approved budget appropriations; or take other action as appropriate. (For possible action)",
+    "topics": "[\"budget\", \"business\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179089,
+    "matter_id": 111269,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 18,
+    "title": "Approve the award of Bid No. 607970-26, for Residential Streets Pavement Reconstruction #108 to the low responsive and responsible bidders, contingent upon submission of the required bonds and insurance. Staff recommends award of Lot 1 to Wells Cargo, Inc. and Lots 2 and 3 to Las Vegas Paving Corporation; or take other action as appropriate. (For possible action)",
+    "topics": "[\"housing\", \"budget\", \"transportation\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179090,
+    "matter_id": 111270,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 19,
+    "title": "Approve the award of Bid No. 607997-26, for Durango Drive Rehabilitation - Russell Road to Tropicana Boulevard, Fort Apache/Tompkins Intersection Improvements, Tropicana/Conquistador Improvements, Russell Road Rehabilitation - Hualapai Way to Grand Canyon Drive, and Cactus/Jones Improvements to the low responsive and responsible bidder, contingent upon submission of the required bonds and insurance. Staff recommends award to Unicon, LLC; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"budget\", \"transportation\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179091,
+    "matter_id": 111373,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 21,
+    "title": "Approve the 4th Amendment to the Contract with Accela Inc., for CBE No. 605880-21, for Subscription Service Agreement; and authorize the Chief Financial Officer or her designee to sign the Amendment; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"budget\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179092,
+    "matter_id": 111383,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 20,
+    "title": "Approve an Amendment to the Contract with Harris Recording Solutions, for CBE No. 607356-24, for Verification of Official Records; and authorize the Chief Financial Officer or her designee to sign the Amendment; or take other action as appropriate. (For possible action)",
+    "topics": "[\"budget\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179093,
+    "matter_id": 111384,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 22,
+    "title": "Ratify the Assignment of Bid No. 606067-21, for Annual Requirements Contract for Security Guard Services Countywide, from Reliance Security, Inc. to Sorsen, Inc., contingent upon submission of the required insurance; and authorize the Chief Financial Officer or her designee to sign the Assignment of Contract; or take other action as appropriate. (For possible action)",
+    "topics": "[\"budget\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179095,
+    "matter_id": 111478,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 24,
+    "title": "Note for the record the following Town Advisory Board (TAB) and/or Citizens Advisory Council (CAC) Minutes:  Enterprise TAB - September 30, 2026; Lone Mountain CAC - September 29, 2026; Paradise TAB - September 29, 2026; Spring Valley TAB - September 29, 2026; Sunrise Manor TAB - October 1, 2026; and Winchester TAB - September 29, 2026.",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179097,
+    "matter_id": 111382,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 26,
+    "title": "Approve and authorize the Chair to sign a Broadband Provider Franchise Agreement between Clark County and BAM Broadband OpCo LLC. allowing for the installation, maintenance and operation of its facilities to provide broadband services; and providing for other matters properly related thereto. Commission District: All (For possible action)",
+    "topics": "[\"budget\", \"business\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179099,
+    "matter_id": 111369,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 30,
+    "title": "Ratify, adopt, and authorize the recommendation of the Local Law Enforcement Advisory Committee (LLEAC) for the City of North Las Vegas to serve as the fiscal agent and lead applicant-on behalf of the disparate jurisdictions of Clark County, City of Las Vegas, City of North Las Vegas, and City of Henderson-for the BJA FY26 Edward Byrne Memorial Justice Assistance Grant (JAG) Program application; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"budget\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179100,
+    "matter_id": 111370,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 29,
+    "title": "Approve and authorize Social Services to accept allocated subgrant funds-in the amount of $431,863.00-from the City of North Las Vegas' BJA FY26 Edward Byrne Memorial Justice Assistance Grant (JAG) Program application; and authorize the County Manager, or his designee, to execute any necessary documents related thereto; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"budget\", \"health\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179101,
+    "matter_id": 111371,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 31,
+    "title": "Ratify and authorize Clark County Social Services' submission of the Clark County Street Medicine grant application on behalf of Healthcare in Action, Inc. to the U.S. Department of Housing and Urban Development (HUD), in the amount of $561,338 for the period of July 1, 2027, through November 30, 2028, to provide medical outreach and critical supportive services to individuals and families experiencing homelessness; authorize the County Manager, or his designee, to sign all related documents and accept any grant funds awarded; approve and authorize the subrecipient grant to Healthcare in Action for $541,338; and authorize the establishment of one (1) part-time hourly Management Assistant, or equivalent position, contingent on grant award from HUD for the period the grant funds are available; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"development\", \"housing\", \"budget\", \"transportation\", \"health\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179102,
+    "matter_id": 111372,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 32,
+    "title": "Ratify and authorize Clark County Social Services' submission of the Clark County Transitional Housing grant application to the U.S. Department of Housing and Urban Development (HUD), in the amount of $1,029,135 for the period of July 1, 2027, through November 30, 2028, to provide transitional housing and critical supportive services to households experiencing homelessness; authorize the County Manager, or his designee, to sign all related documents and accept any grant funds awarded; authorize the establishment of one (1) limited-perm Family Services Specialist (C28); one (1) limited-perm Senior Eligibility Worker (C25); one (1) limited-perm Family Services Technician (C25); one (1) Family Services Supervisor (C30); and two (2) part-time Hourly Management Assistants, or equivalent positions, contingent on grant award from HUD for the period the grant funds are available; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"development\", \"housing\", \"budget\", \"health\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179104,
+    "matter_id": 111376,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 34,
+    "title": "Approve and authorize the acquisition by negotiation of a portion of Assessor's Parcel Number 178-06-202-015 (Joseph Bolognese and Dorothy Wayne Bolognese, Trustees of the 1984 Bolognese Family Trust, dated July 18, 1984), needed for construction of the Sunset Park Storm Drain between Duck Creek Wash and Eastern Avenue - Phase 1 project; and authorize the County Manager or his designee to sign future escrow instructions and any pertinent documents necessary to complete the acquisition process.  (For possible action)",
+    "topics": "[\"land-use\", \"development\", \"parks\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179105,
+    "matter_id": 111377,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 35,
+    "title": "Approve and authorize the Chair to sign the First Amendment to a licensure agreement for advertising on touchdown structures among Clark County, MGM Grand Hotel, LLC, New Castle, LLC (also known as Excalibur Hotel and Casino), New York-New York Hotel and Casino, LLC, and Park MGM, LLC, for advertising on digital LED displays on the exterior elevator towers for the pedestrian bridges located at Las Vegas Boulevard and Tropicana Avenue, and the northwest corner of Las Vegas Boulevard and Bruno Mars Drive; and extend the term of the agreement to December 31, 2034.  (For possible action)",
+    "topics": "[\"budget\", \"transportation\", \"parks\", \"business\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179106,
+    "matter_id": 111378,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 36,
+    "title": "Approve and authorize the County Manager or his designee to sign Supplemental No. 5 to the professional engineering services contract between Clark County and GCW, Inc. (John Tobin, Executive Vice President) to extend the contract term for traffic signal improvements at various locations.  (For possible action)",
+    "topics": "[\"budget\", \"transportation\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179107,
+    "matter_id": 111379,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 37,
+    "title": "Approve and authorize a waiver of Title 16, Section 16.06.060 - Restriction on streets and times for events on Las Vegas Boulevard South for a Special Event for the Rock 'n' Roll Las Vegas Marathon and Half Marathon on Sunday, February 21, 2027; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"budget\", \"transportation\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179109,
+    "matter_id": 111381,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 39,
+    "title": "Approve a list of public land sale nominations for disposal by the Bureau of Land Management (BLM) and authorize the Director of the Department of Comprehensive Planning to submit the land sale nomination list to the BLM. (For possible action)",
+    "topics": "[\"land-use\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179111,
+    "matter_id": 111385,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 41,
+    "title": "Approve and authorize the Chair to sign an agreement for installation and donation of connecting sidewalks at James Regional Sports Park between Clark County and TS Durango LLC, for the donation of materials and labor to construct sidewalks connecting to the existing 5k trail located on Assessor's Parcel Number 176-09-201-012; and sign any other documents as necessary to complete the transaction. (For possible action)",
+    "topics": "[\"land-use\", \"development\", \"budget\", \"transportation\", \"parks\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179112,
+    "matter_id": 111386,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 42,
+    "title": "Approve and authorize the Director of Real Property Management or designee to sign a Revocable License Agreement with The Church of Jesus Christ of Latter-Day Saints to allow for access and temporary event parking on Clark County-owned vacant land, located at the southeast corner of Buffalo Drive and Patrick Lane (portions of Assessor's Parcel 163-34-301-001). (For possible action)",
+    "topics": "[\"land-use\", \"budget\", \"parks\", \"business\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179114,
+    "matter_id": 111395,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 45,
+    "title": "Approve the submission of a grant proposal in the amount of $3,900,000 from the Bureau of Justice Assistance (BJA) under the FY26 Justice Reinvestment Initiative: Strengthening State and Local Operations to Reduce Crime and Recidivism program within the Clark County Detention Center (CCDC) to enhance intelligence analysis through an AI supported platform to identify and analyze data in an efficient manner to aid in contraband mitigation, crime reduction, and support law enforcement investigations and authorize the County Manager or his designee to sign grant documents related hereto.  (For possible action)",
+    "topics": "[\"budget\", \"public-safety\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179115,
+    "matter_id": 111400,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 44,
+    "title": "In accordance with NRS 244.210 and 354.220 through 354.250, approve, adopt, and authorize the Chair to sign a resolution to authorize refunds as shown on Exhibit \"A\".  (For possible action)",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179116,
+    "matter_id": 111480,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 46,
+    "title": "Approve the allocation of $1,965,568 from the Eighth Judicial Court Capital Fund (4760) and reallocate $885,128 from various closed projects within the Eighth Judicial Court Capital Fund (4760).  (For Possible Action)",
+    "topics": "[\"budget\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179117,
+    "matter_id": 111481,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 47,
+    "title": "Approve and authorize the Board of County Commissioners, the Clark County Water Reclamation District Board of Trustees, and the Board of Hospital Trustees of University Medical Center of Southern Nevada, the Redevelopment Agency, the Department of Aviation, and Eighth Judicial District Court to submit the quarterly economic condition reports to the State of Nevada Department of Taxation pursuant to NRS 354.6015 and NAC 354.559 for Clark County.  (For possible action)",
+    "topics": "[\"budget\", \"environment\", \"health\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179119,
+    "matter_id": 111375,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 49,
+    "title": "Approve the District's participation as a pilot host site in support of a proposal to the National Science Foundation (NSF) for funding of a research project entitled \"Integrated Treatment and Beneficial Reuse of Non-traditional Waters for Colorado River Basin Water Security\"; or take other action as appropriate.  (For possible action)",
+    "topics": "[\"budget\", \"environment\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179121,
+    "matter_id": 111380,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 51,
+    "title": "Approve and authorize the Chair to sign the correction of the 2023-2024 thru 2026-2027 Secured and the 2022-2023 thru 2026-2027 Unsecured Assessment Roll AR-1103-26-21 and order the corrections to be made.  (For possible action)",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179122,
+    "matter_id": 111374,
+    "matter_type": "Consent",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 52,
+    "title": "Ratify the acceptance of the subgrant award in the amount of $1,970,568 from the State of Nevada Department of Human Services - Grants Management Unit for the period of October 1, 2026, through September 30, 2027, to fund therapeutic mental health services for children and families being assisted by Clark County Clinical and Community Services and authorize the County Manager or his designee to sign any additional grant documents related thereto and accept any funds awarded. (For possible action)",
+    "topics": "[\"budget\", \"health\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179123,
+    "matter_id": 111482,
+    "matter_type": "Business Item",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 65,
+    "title": "Approve and authorize, in accordance with NRS 4.032, the appointment of Adam Anderson, Esq., Alexander Smith, Andy Wong, Augusta Massey, Bernie Zadrowski, Bruce Nelson, Chata Holt, Christopher Crawford, Christopher Laurent, Cory Santos, Craig Friedberg, Craig Newman, Curtis Brown, Darin Imlay, David S. Olsen, David S. Gibson, Sr., David Stephens, Esq., Debra Turner, Doug Hedger, Esq., Gary Pulliam, Gregory Denue, Holly Fic, Holly Stoberski, Ivette Maningo, James Miller, Janet Pancoast, Jarrod Rickard, Jeanie Hua, Esq., John Hunt, Joshua Igeleke, Jr., Justin Zarcone, Kam Brian, Karen Van De Pol, Esq., Kyle Waite, Esq., Lauria Lynch-German, Lee Thompson, Lisa Luzaich-Rego, Lisa Parker, Lucinda Coumou, Mark Stevens, Matt Sibert, Max Kelner, Michael Federico, Miriam Rodriguez, Natalie Lehman, Natalie Tyrrell, Nihat Deniz Bayramoglu, Paul Lal, Peter Dubowsky, Randy Stevens, Richard Litt, Robert Walsh, Ryan Krametbauer, Stephanie Barker, Stephen Smith, Steven Pacitti, Steven Waters, Esq., Susan Roger, T. Louis Palazzo, Taleen Pandukht, Telia Williams, Trent Richards, Victoria Villegas, Esq., Vivienne Rakowsky, William Jansen Esq., to the panel of Justices of the Peace Pro Tempore, as substitute for Justices of the Peace, effective Tuesday, December 2, 2025, through December 31, 2026, or take other action as appropriate. (For possible action)",
+    "topics": "[\"budget\", \"environment\", \"governance\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179127,
+    "matter_id": 111367,
+    "matter_type": "Public Hearing",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 57,
+    "title": "Conduct a public hearing and approve, adopt, and authorize the Chair to sign an ordinance to amend Clark County Code Title 7, Chapter 7.100 to revise the purposes and regulations governing short-term rental units; to amend Title 30, Chapters 30.03 and 30.07, of the Clark County Code to add short-term rentals as a conditional commercial use in certain zoning districts; and providing for other matters properly related thereto.  Commission District: All (For possible action)",
+    "topics": "[\"land-use\", \"housing\", \"governance\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179128,
+    "matter_id": 111439,
+    "matter_type": "Public Hearing",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 58,
+    "title": "Conduct a public hearing and approve, adopt and authorize the Chair to sign a resolution approving the issuance, solely for the purposes of Section 147(f) of the Internal Revenue Code of 1986, as amended, by the National Finance Authority, in one or more series, of airport special facility revenue bonds in an amount not to exceed $50,000,000 in order to (a) pay or reimburse a portion of the costs of the acquisition and redevelopment of certain airport facilities comprised of a 5.24-acre aircraft storage hangar site, including the development of three single-story aircraft storage hangars totaling approximately 75,000 square feet, located at Harry Reid International Airport, 135, 145, and 155 East Reno Avenue, Las Vegas, Nevada 89119 for use by MTP-Las Vegas Hangars, LLC, (b) fund a debt service reserve fund for the Bonds and pay capitalized interest with respect to the Bonds, and (c) pay certain costs of issuance of the Bonds.  (For possible action)",
+    "topics": "[\"development\", \"budget\", \"transportation\", \"governance\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179132,
+    "matter_id": 111438,
+    "matter_type": "Introduction of Ordinances",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 62,
+    "title": "Introduce an ordinance to amend Title 6, Chapter 6.04, Section 6.04.090 of the Clark County Code, to reduce the time to appeal a decision of the director of the Department of Business License from thirty (30) calendar days to fourteen (14) calendar days unless a different period is specifically provided in the Clark County Code, and providing for other matters properly related thereto; and set a public hearing. Commission District: All (For possible action)",
+    "topics": "[\"business\", \"governance\"]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179134,
+    "matter_id": 111036,
+    "matter_type": "Business Item",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 64,
+    "title": "Identify emerging issues to be addressed by staff or by the Board at future meetings; receive updates on the activities of the various regional boards and commissions; and direct staff accordingly.",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179135,
+    "matter_id": 111037,
+    "matter_type": "Business Item",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 67,
+    "title": "Go into closed session, pursuant to NRS 241.015(4)(c) as amended by AB52, to receive information from the District Attorney regarding potential or existing litigation involving a matter over which the Board has supervision, control, jurisdiction or advisory power, and to deliberate toward a decision on the matter, and pursuant to NRS Chapter 288.220, to receive a report on the status of ongoing labor negotiations; and direct staff accordingly.  (For possible action)",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179144,
+    "matter_id": 111488,
+    "matter_type": "Business Item",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 66,
+    "title": "Approve and adopt the Clark County Redevelopment Agency Relocation Assistance Policy and Procedures; authorize the Executive Director or his designee to implement the policy and procedures as necessary to support the redevelopment activity of the Agency.  (Sitting as the Clark County Redevelopment Agency) (For possible action)",
+    "topics": "[]"
+   },
+   {
+    "action_name": null,
+    "event_id": 3015,
+    "event_item_id": 179147,
+    "matter_id": 111489,
+    "matter_type": "Recognition",
+    "mover": null,
+    "passed_flag": null,
+    "plain_summary": null,
+    "seconder": null,
+    "sequence": 8,
+    "title": "Recognize and receive a presentation from Elle Hope for being selected as the new Clark County Poet Laureate.",
+    "topics": "[]"
    }
   ],
   "geocodes": [
@@ -67510,6 +68028,251 @@
     "vote": "Voting Aye"
    },
    {
+    "event_item_id": 177840,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177840,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177840,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177840,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177840,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177840,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177840,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177841,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177841,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177841,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177841,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177841,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177841,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177841,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177843,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177843,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177843,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177843,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177843,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177843,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177843,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177844,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177844,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177844,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177844,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177844,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177844,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177844,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177845,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177845,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177845,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177845,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177845,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177845,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177845,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177846,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177846,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177846,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177846,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177846,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177846,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177846,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177847,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177847,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177847,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177847,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177847,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177847,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177847,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
     "event_item_id": 177857,
     "person": "Edward Frasier III",
     "vote": "Voting Aye"
@@ -67786,6 +68549,76 @@
    },
    {
     "event_item_id": 177854,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177855,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177855,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177855,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177855,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177855,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177855,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177855,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177856,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177856,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177856,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177856,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177856,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177856,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177856,
     "person": "Nelson Stone",
     "vote": "Voting Aye"
    },
@@ -67856,6 +68689,111 @@
    },
    {
     "event_item_id": 177864,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177865,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177865,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177865,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177865,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177865,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 177865,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177865,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177866,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177866,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177866,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177866,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177866,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 177866,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177866,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177867,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177867,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177867,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177867,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177867,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 177867,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177867,
     "person": "Nelson Stone",
     "vote": "Voting Aye"
    },
@@ -72202,6 +73140,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\", \"parks\", \"business\", \"budget\", \"governance\", \"environment\"]"
    },
    {
+    "event_id": 3015,
+    "generated_at": "2026-10-28T05:45:23.932289+00:00",
+    "model": "mlx-community/gemma-4-26b-a4b-it-4bit",
+    "overview": "This meeting covers a wide range of local issues, including new rules for short-term rentals, road repairs, and funding for social services. Residents may also want to pay attention to decisions regarding airport development, public safety technology, and local infrastructure projects.",
+    "topics": "[\"public-safety\", \"budget\", \"business\", \"housing\", \"transportation\", \"health\", \"development\", \"land-use\", \"parks\", \"environment\", \"governance\"]"
+   },
+   {
     "event_id": 3019,
     "generated_at": "2026-09-30T05:46:49.316382+00:00",
     "model": "mlx-community/gemma-4-26b-a4b-it-4bit",
@@ -72575,7 +73520,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2970,
-    "fetched_at": "2026-10-27T06:00:01.555394+00:00",
+    "fetched_at": "2026-10-28T06:00:01.908458+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2970&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-07T09:05",
@@ -72614,7 +73559,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2976,
-    "fetched_at": "2026-10-27T06:00:20.297242+00:00",
+    "fetched_at": "2026-10-28T06:00:20.208020+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2976&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T09:00",
@@ -72653,7 +73598,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2980,
-    "fetched_at": "2026-10-27T06:00:38.223682+00:00",
+    "fetched_at": "2026-10-28T06:00:37.883286+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2980&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T09:05",
@@ -72666,7 +73611,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2983,
-    "fetched_at": "2026-10-27T06:02:54.547633+00:00",
+    "fetched_at": "2026-10-28T06:02:52.931470+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2983&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-07T19:00",
@@ -72679,7 +73624,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2984,
-    "fetched_at": "2026-10-27T06:04:35.901940+00:00",
+    "fetched_at": "2026-10-28T06:04:42.440970+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2984&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-08T09:00",
@@ -72692,7 +73637,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2987,
-    "fetched_at": "2026-10-27T06:01:02.835798+00:00",
+    "fetched_at": "2026-10-28T06:01:02.793758+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2987&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T09:00",
@@ -72705,7 +73650,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2989,
-    "fetched_at": "2026-10-27T06:03:20.622951+00:00",
+    "fetched_at": "2026-10-28T06:03:20.229958+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2989&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T19:00",
@@ -72718,7 +73663,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2990,
-    "fetched_at": "2026-10-27T06:04:41.366040+00:00",
+    "fetched_at": "2026-10-28T06:04:48.230926+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2990&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-22T09:00",
@@ -72731,7 +73676,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2992,
-    "fetched_at": "2026-10-27T06:03:33.664252+00:00",
+    "fetched_at": "2026-10-28T06:03:33.295039+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2992&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T19:00",
@@ -72744,7 +73689,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2993,
-    "fetched_at": "2026-10-27T06:04:48.866928+00:00",
+    "fetched_at": "2026-10-28T06:04:56.518047+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2993&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-05T09:00",
@@ -72757,7 +73702,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2994,
-    "fetched_at": "2026-10-27T06:01:18.836936+00:00",
+    "fetched_at": "2026-10-28T06:01:17.591206+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2994&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-01T09:05",
@@ -72770,7 +73715,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2997,
-    "fetched_at": "2026-10-27T06:03:39.809799+00:00",
+    "fetched_at": "2026-10-28T06:03:38.891206+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2997&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T19:00",
@@ -72783,7 +73728,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2999,
-    "fetched_at": "2026-10-27T06:04:57.046865+00:00",
+    "fetched_at": "2026-10-28T06:05:05.246023+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2999&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-19T09:00",
@@ -72796,7 +73741,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3001,
-    "fetched_at": "2026-10-27T06:01:39.632739+00:00",
+    "fetched_at": "2026-10-28T06:01:38.410759+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3001&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-15T09:00",
@@ -72809,7 +73754,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3004,
-    "fetched_at": "2026-10-27T06:01:44.646577+00:00",
+    "fetched_at": "2026-10-28T06:01:43.500519+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3004&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-06T09:05",
@@ -72822,7 +73767,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3005,
-    "fetched_at": "2026-10-27T06:04:00.997076+00:00",
+    "fetched_at": "2026-10-28T06:03:59.315915+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3005&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-01T19:00",
@@ -72835,7 +73780,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3006,
-    "fetched_at": "2026-10-27T06:05:04.007945+00:00",
+    "fetched_at": "2026-10-28T06:05:11.672823+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3006&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-02T09:00",
@@ -72848,7 +73793,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3009,
-    "fetched_at": "2026-10-27T06:02:18.483794+00:00",
+    "fetched_at": "2026-10-28T06:02:23.408077+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3009&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-20T09:00",
@@ -72861,7 +73806,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3010,
-    "fetched_at": "2026-10-27T06:04:15.159909+00:00",
+    "fetched_at": "2026-10-28T06:04:13.277937+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3010&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-15T19:00",
@@ -72874,7 +73819,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3012,
-    "fetched_at": "2026-10-27T06:05:13.412777+00:00",
+    "fetched_at": "2026-10-28T06:05:20.746898+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3012&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-16T09:00",
@@ -72882,12 +73827,25 @@
     "status": "past"
    },
    {
+    "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3015_A_Clark_County_Board_of_Commissioners_26-11-03_BCC_Agenda.pdf",
+    "body_id": 138,
+    "body_name": "Board of Commissioners",
+    "body_slug": "board-of-commissioners",
+    "event_id": 3015,
+    "fetched_at": "2026-10-28T06:02:51.080443+00:00",
+    "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3015&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
+    "location": null,
+    "meeting_date": "2026-11-03T09:05",
+    "minutes_url": null,
+    "status": "upcoming"
+   },
+   {
     "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/10/3019_A_Clark_County_Planning_Commission_26-10-06_PC_Agenda.pdf",
     "body_id": 180,
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3019,
-    "fetched_at": "2026-10-27T06:04:24.436901+00:00",
+    "fetched_at": "2026-10-28T06:04:22.971882+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3019&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-06T19:00",
@@ -72900,7 +73858,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3020,
-    "fetched_at": "2026-10-27T06:05:19.361491+00:00",
+    "fetched_at": "2026-10-28T06:05:25.808199+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3020&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-07T09:00",
@@ -72913,7 +73871,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3023,
-    "fetched_at": "2026-10-27T06:05:31.964502+00:00",
+    "fetched_at": "2026-10-28T06:05:37.466205+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3023&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-21T09:00",
@@ -72926,7 +73884,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3024,
-    "fetched_at": "2026-10-27T06:04:30.332280+00:00",
+    "fetched_at": "2026-10-28T06:04:36.253955+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3024&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-20T19:00",
