@@ -28772,12 +28772,12 @@
     "topics": "[\"land-use\", \"development\", \"housing\"]"
    },
    {
-    "action_name": "Approved",
+    "action_name": "Adopted",
     "event_id": 3010,
     "event_item_id": 177361,
     "matter_id": 110923,
     "matter_type": "Non-Routine Item",
-    "mover": null,
+    "mover": "Edward Frasier III",
     "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
@@ -28791,7 +28791,7 @@
     "event_item_id": 177362,
     "matter_id": 110924,
     "matter_type": "Non-Routine Item",
-    "mover": null,
+    "mover": "Edward Frasier III",
     "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
@@ -28800,13 +28800,13 @@
     "topics": "[\"land-use\", \"housing\", \"transportation\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177363,
     "matter_id": 110925,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 55,
@@ -28814,13 +28814,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177364,
     "matter_id": 110926,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Edward Frasier III",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 56,
@@ -28898,12 +28898,12 @@
     "topics": "[\"land-use\", \"development\", \"transportation\"]"
    },
    {
-    "action_name": "Approved",
+    "action_name": "Adopted",
     "event_id": 3010,
     "event_item_id": 177370,
     "matter_id": 110932,
     "matter_type": "Non-Routine Item",
-    "mover": null,
+    "mover": "Leslie Mujica",
     "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
@@ -28917,7 +28917,7 @@
     "event_item_id": 177371,
     "matter_id": 110933,
     "matter_type": "Non-Routine Item",
-    "mover": null,
+    "mover": "Leslie Mujica",
     "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
@@ -28926,13 +28926,13 @@
     "topics": "[\"land-use\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177372,
     "matter_id": 110934,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 46,
@@ -28940,13 +28940,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177373,
     "matter_id": 110935,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 47,
@@ -28954,13 +28954,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Approved",
     "event_id": 3010,
     "event_item_id": 177374,
     "matter_id": 110936,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 48,
@@ -28973,7 +28973,7 @@
     "event_item_id": 177375,
     "matter_id": 110937,
     "matter_type": "Non-Routine Item",
-    "mover": null,
+    "mover": "Leslie Mujica",
     "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
@@ -28987,7 +28987,7 @@
     "event_item_id": 177376,
     "matter_id": 110938,
     "matter_type": "Non-Routine Item",
-    "mover": null,
+    "mover": "Leslie Mujica",
     "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
@@ -28996,13 +28996,13 @@
     "topics": "[\"land-use\", \"housing\", \"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Denied",
     "event_id": 3010,
     "event_item_id": 177377,
     "matter_id": 110939,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 59,
@@ -29010,13 +29010,13 @@
     "topics": "[\"transportation\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Denied",
     "event_id": 3010,
     "event_item_id": 177378,
     "matter_id": 110940,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Leslie Mujica",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 60,
@@ -30513,7 +30513,7 @@
     "event_item_id": 177803,
     "matter_id": 111018,
     "matter_type": "Non-Routine Item",
-    "mover": null,
+    "mover": "Nelson Stone",
     "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
@@ -30522,13 +30522,13 @@
     "topics": "[\"land-use\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Held",
     "event_id": 3010,
     "event_item_id": 177804,
     "matter_id": 111021,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Nelson Stone",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 52,
@@ -30536,13 +30536,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Held",
     "event_id": 3010,
     "event_item_id": 177805,
     "matter_id": 111020,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Nelson Stone",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 51,
@@ -30550,13 +30550,13 @@
     "topics": "[\"land-use\", \"development\", \"housing\", \"transportation\", \"parks\"]"
    },
    {
-    "action_name": null,
+    "action_name": "Held",
     "event_id": 3010,
     "event_item_id": 177806,
     "matter_id": 111019,
     "matter_type": "Non-Routine Item",
-    "mover": null,
-    "passed_flag": null,
+    "mover": "Nelson Stone",
+    "passed_flag": 1,
     "plain_summary": null,
     "seconder": null,
     "sequence": 50,
@@ -61904,6 +61904,1511 @@
     "vote": "Voting Aye"
    },
    {
+    "event_item_id": 175593,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175593,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175593,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175593,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175593,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175593,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175593,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175302,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175302,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175302,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175302,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175302,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175302,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175302,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175303,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175303,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175303,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175303,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175303,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175303,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175303,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175305,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175305,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175305,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175305,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175305,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175305,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175305,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175306,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175306,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175306,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175306,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175306,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175306,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175306,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175307,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175307,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175307,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175307,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175307,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175307,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175307,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175308,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175308,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175308,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175308,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175308,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175308,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175308,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175309,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175309,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175309,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175309,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175309,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175309,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175309,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175310,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175310,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175310,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175310,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175310,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175310,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175310,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175311,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175311,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175311,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175311,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175311,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175311,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175311,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175312,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175312,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175312,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175312,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175312,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175312,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175312,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175314,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175314,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175314,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175314,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175314,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175314,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175314,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175315,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175315,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175315,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175315,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175315,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175315,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175315,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175316,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175316,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175316,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175316,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175316,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175316,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175316,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175317,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175317,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175317,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175317,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175317,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175317,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175317,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175318,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175318,
+    "person": "Leslie Mujica",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175318,
+    "person": "Tyler Brady",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175318,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175318,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175318,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175318,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175319,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175319,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175319,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175319,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175319,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175319,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175319,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175320,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175320,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175320,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175320,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175320,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175320,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175320,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175321,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175321,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175321,
+    "person": "Tyler Brady",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175321,
+    "person": "Steve Kirk",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175321,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175321,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175321,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175326,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175326,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175326,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175326,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175326,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175326,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175326,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175327,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175327,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175327,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175327,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175327,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175327,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175327,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175328,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175328,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175328,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175328,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175328,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175328,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175328,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175329,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175329,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175329,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175329,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175329,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175329,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175329,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175330,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175330,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175330,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175330,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175330,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175330,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175330,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175331,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175331,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175331,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175331,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175331,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175331,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175331,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175332,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175332,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175332,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175332,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175332,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175332,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175332,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175333,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175333,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175333,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175333,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175333,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175333,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175333,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175334,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175334,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175334,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175334,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175334,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175334,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175334,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175335,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175335,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175335,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175335,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175335,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175335,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175335,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175336,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175336,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175336,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175336,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175336,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175336,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175336,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175337,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175337,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175337,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175337,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175337,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175337,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175337,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175338,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175338,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175338,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175338,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175338,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175338,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175338,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175339,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175339,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175339,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175339,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175339,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175339,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175339,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175340,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175340,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175340,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175340,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175340,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175340,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175340,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175341,
+    "person": "Edward Frasier III",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175341,
+    "person": "Leslie Mujica",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175341,
+    "person": "Tyler Brady",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175341,
+    "person": "Steve Kirk",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175341,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175341,
+    "person": "Michael Roitman",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175341,
+    "person": "Nelson Stone",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175342,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175342,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175342,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175342,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175342,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175342,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175342,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175343,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175343,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175343,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175343,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175343,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175343,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175343,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175344,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175344,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175344,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175344,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175344,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Nay"
+   },
+   {
+    "event_item_id": 175344,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175344,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175345,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175345,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175345,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175345,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175345,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175345,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175345,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175346,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175346,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175346,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175346,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175346,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175346,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175346,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175347,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175347,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175347,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175347,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175347,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175347,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175347,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175348,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175348,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175348,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175348,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175348,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175348,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175348,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175349,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175349,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175349,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175349,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175349,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175349,
+    "person": "Michael Roitman",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 175349,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
     "event_item_id": 175744,
     "person": "Michael Naft",
     "vote": "Voting Aye"
@@ -64109,1511 +65614,6 @@
     "vote": "Voting Aye"
    },
    {
-    "event_item_id": 175593,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175593,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175593,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175593,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175593,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175593,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175593,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175302,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175302,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175302,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175302,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175302,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175302,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175302,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175303,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175303,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175303,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175303,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175303,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175303,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175303,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175305,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175305,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175305,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175305,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175305,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175305,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175305,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175306,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175306,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175306,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175306,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175306,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175306,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175306,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175307,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175307,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175307,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175307,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175307,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175307,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175307,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175308,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175308,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175308,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175308,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175308,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175308,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175308,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175309,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175309,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175309,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175309,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175309,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175309,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175309,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175310,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175310,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175310,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175310,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175310,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175310,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175310,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175311,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175311,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175311,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175311,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175311,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175311,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175311,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175312,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175312,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175312,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175312,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175312,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175312,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175312,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175314,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175314,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175314,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175314,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175314,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175314,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175314,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175315,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175315,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175315,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175315,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175315,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175315,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175315,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175316,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175316,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175316,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175316,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175316,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175316,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175316,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175317,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175317,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175317,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175317,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175317,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175317,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175317,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175318,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175318,
-    "person": "Leslie Mujica",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175318,
-    "person": "Tyler Brady",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175318,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175318,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175318,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175318,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175319,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175319,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175319,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175319,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175319,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175319,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175319,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175320,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175320,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175320,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175320,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175320,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175320,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175320,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175321,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175321,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175321,
-    "person": "Tyler Brady",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175321,
-    "person": "Steve Kirk",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175321,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175321,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175321,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175326,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175326,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175326,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175326,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175326,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175326,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175326,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175327,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175327,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175327,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175327,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175327,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175327,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175327,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175328,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175328,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175328,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175328,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175328,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175328,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175328,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175329,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175329,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175329,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175329,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175329,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175329,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175329,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175330,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175330,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175330,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175330,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175330,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175330,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175330,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175331,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175331,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175331,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175331,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175331,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175331,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175331,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175332,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175332,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175332,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175332,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175332,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175332,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175332,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175333,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175333,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175333,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175333,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175333,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175333,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175333,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175334,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175334,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175334,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175334,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175334,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175334,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175334,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175335,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175335,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175335,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175335,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175335,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175335,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175335,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175336,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175336,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175336,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175336,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175336,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175336,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175336,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175337,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175337,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175337,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175337,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175337,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175337,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175337,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175338,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175338,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175338,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175338,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175338,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175338,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175338,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175339,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175339,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175339,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175339,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175339,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175339,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175339,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175340,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175340,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175340,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175340,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175340,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175340,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175340,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175341,
-    "person": "Edward Frasier III",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175341,
-    "person": "Leslie Mujica",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175341,
-    "person": "Tyler Brady",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175341,
-    "person": "Steve Kirk",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175341,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175341,
-    "person": "Michael Roitman",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175341,
-    "person": "Nelson Stone",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175342,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175342,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175342,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175342,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175342,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175342,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175342,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175343,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175343,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175343,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175343,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175343,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175343,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175343,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175344,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175344,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175344,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175344,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175344,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Nay"
-   },
-   {
-    "event_item_id": 175344,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175344,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175345,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175345,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175345,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175345,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175345,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175345,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175345,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175346,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175346,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175346,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175346,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175346,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175346,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175346,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175347,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175347,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175347,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175347,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175347,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175347,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175347,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175348,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175348,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175348,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175348,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175348,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175348,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175348,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175349,
-    "person": "Edward Frasier III",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175349,
-    "person": "Leslie Mujica",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175349,
-    "person": "Tyler Brady",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175349,
-    "person": "Steve Kirk",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175349,
-    "person": "Vivian Kilarski",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175349,
-    "person": "Michael Roitman",
-    "vote": "Voting Aye"
-   },
-   {
-    "event_item_id": 175349,
-    "person": "Nelson Stone",
-    "vote": "Voting Aye"
-   },
-   {
     "event_item_id": 175623,
     "person": "Edward Frasier III",
     "vote": "Voting Aye"
@@ -69946,7 +69946,7 @@
    {
     "event_item_id": 177370,
     "person": "Michael Roitman",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177370,
@@ -69981,7 +69981,7 @@
    {
     "event_item_id": 177371,
     "person": "Michael Roitman",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177371,
@@ -69989,6 +69989,111 @@
     "vote": "Voting Aye"
    },
    {
+    "event_item_id": 177372,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177372,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177372,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177372,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177372,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177372,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177372,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177373,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177373,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177373,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177373,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177373,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177373,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177373,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177374,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177374,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177374,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177374,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177374,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177374,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177374,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
     "event_item_id": 177803,
     "person": "Edward Frasier III",
     "vote": "Voting Aye"
@@ -69996,7 +70101,7 @@
    {
     "event_item_id": 177803,
     "person": "Leslie Mujica",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177803,
@@ -70016,10 +70121,115 @@
    {
     "event_item_id": 177803,
     "person": "Michael Roitman",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177803,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177806,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177806,
+    "person": "Leslie Mujica",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177806,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177806,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177806,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177806,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177806,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177805,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177805,
+    "person": "Leslie Mujica",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177805,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177805,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177805,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177805,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177805,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177804,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177804,
+    "person": "Leslie Mujica",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177804,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177804,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177804,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177804,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177804,
     "person": "Nelson Stone",
     "vote": "Voting Aye"
    },
@@ -70031,7 +70241,7 @@
    {
     "event_item_id": 177361,
     "person": "Leslie Mujica",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177361,
@@ -70051,7 +70261,7 @@
    {
     "event_item_id": 177361,
     "person": "Michael Roitman",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177361,
@@ -70066,7 +70276,7 @@
    {
     "event_item_id": 177362,
     "person": "Leslie Mujica",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177362,
@@ -70086,10 +70296,80 @@
    {
     "event_item_id": 177362,
     "person": "Michael Roitman",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177362,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177363,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177363,
+    "person": "Leslie Mujica",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177363,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177363,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177363,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177363,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177363,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177364,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177364,
+    "person": "Leslie Mujica",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177364,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177364,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177364,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177364,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177364,
     "person": "Nelson Stone",
     "vote": "Voting Aye"
    },
@@ -70121,7 +70401,7 @@
    {
     "event_item_id": 177375,
     "person": "Michael Roitman",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177375,
@@ -70156,10 +70436,80 @@
    {
     "event_item_id": 177376,
     "person": "Michael Roitman",
-    "vote": "Absent"
+    "vote": "Excused"
    },
    {
     "event_item_id": 177376,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177377,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177377,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177377,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177377,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177377,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177377,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177377,
+    "person": "Nelson Stone",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177378,
+    "person": "Edward Frasier III",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177378,
+    "person": "Leslie Mujica",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177378,
+    "person": "Tyler Brady",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177378,
+    "person": "Steve Kirk",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177378,
+    "person": "Vivian Kilarski",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 177378,
+    "person": "Michael Roitman",
+    "vote": "Excused"
+   },
+   {
+    "event_item_id": 177378,
     "person": "Nelson Stone",
     "vote": "Voting Aye"
    },
@@ -76005,6 +76355,321 @@
    },
    {
     "event_item_id": 178783,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178978,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178978,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178978,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178978,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178978,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178978,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178978,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178979,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178979,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178979,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178979,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178979,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178979,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178979,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178994,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178994,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178994,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178994,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178994,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178994,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178994,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178996,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178996,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178996,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178996,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178996,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178996,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178996,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178997,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178997,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178997,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178997,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178997,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178997,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178997,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178998,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178998,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178998,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178998,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178998,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178998,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178998,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178999,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178999,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178999,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178999,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178999,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178999,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 178999,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179007,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179007,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179007,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179007,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179007,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179007,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179007,
+    "person": "Tick Segerblom",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179011,
+    "person": "Michael Naft",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179011,
+    "person": "William McCurdy II",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179011,
+    "person": "April Becker",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179011,
+    "person": "Jim Gibson",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179011,
+    "person": "Justin Jones",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179011,
+    "person": "Marilyn K. Kirkpatrick",
+    "vote": "Voting Aye"
+   },
+   {
+    "event_item_id": 179011,
     "person": "Tick Segerblom",
     "vote": "Voting Aye"
    }
@@ -76794,7 +77459,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2976,
-    "fetched_at": "2026-11-05T07:00:30.050973+00:00",
+    "fetched_at": "2026-11-06T07:00:01.572983+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2976&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T09:00",
@@ -76833,7 +77498,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2980,
-    "fetched_at": "2026-11-05T07:00:57.031094+00:00",
+    "fetched_at": "2026-11-06T07:00:28.021988+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2980&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T09:05",
@@ -76859,7 +77524,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2984,
-    "fetched_at": "2026-11-05T07:06:52.183325+00:00",
+    "fetched_at": "2026-11-06T07:04:50.128503+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2984&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-08T09:00",
@@ -76872,7 +77537,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2987,
-    "fetched_at": "2026-11-05T07:01:27.344972+00:00",
+    "fetched_at": "2026-11-06T07:00:56.749830+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2987&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T09:00",
@@ -76885,7 +77550,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2989,
-    "fetched_at": "2026-11-05T07:04:07.407509+00:00",
+    "fetched_at": "2026-11-06T07:03:02.689304+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2989&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-21T19:00",
@@ -76898,7 +77563,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2990,
-    "fetched_at": "2026-11-05T07:06:59.329565+00:00",
+    "fetched_at": "2026-11-06T07:04:55.543980+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2990&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-07-22T09:00",
@@ -76911,7 +77576,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2992,
-    "fetched_at": "2026-11-05T07:04:27.340504+00:00",
+    "fetched_at": "2026-11-06T07:03:14.650724+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2992&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-04T19:00",
@@ -76924,7 +77589,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2993,
-    "fetched_at": "2026-11-05T07:07:09.538995+00:00",
+    "fetched_at": "2026-11-06T07:05:03.116915+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2993&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-05T09:00",
@@ -76937,7 +77602,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 2994,
-    "fetched_at": "2026-11-05T07:01:42.013643+00:00",
+    "fetched_at": "2026-11-06T07:01:12.274699+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2994&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-01T09:05",
@@ -76950,7 +77615,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 2997,
-    "fetched_at": "2026-11-05T07:04:36.360243+00:00",
+    "fetched_at": "2026-11-06T07:03:19.808617+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2997&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-18T19:00",
@@ -76963,7 +77628,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 2999,
-    "fetched_at": "2026-11-05T07:07:21.635461+00:00",
+    "fetched_at": "2026-11-06T07:05:11.188284+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2999&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-08-19T09:00",
@@ -76976,7 +77641,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3001,
-    "fetched_at": "2026-11-05T07:02:00.204865+00:00",
+    "fetched_at": "2026-11-06T07:01:34.219035+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3001&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-15T09:00",
@@ -76989,7 +77654,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3004,
-    "fetched_at": "2026-11-05T07:02:04.963620+00:00",
+    "fetched_at": "2026-11-06T07:01:40.150042+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3004&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-06T09:05",
@@ -77002,7 +77667,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3005,
-    "fetched_at": "2026-11-05T07:05:15.074571+00:00",
+    "fetched_at": "2026-11-06T07:03:40.304956+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3005&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-01T19:00",
@@ -77015,7 +77680,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3006,
-    "fetched_at": "2026-11-05T07:07:29.822661+00:00",
+    "fetched_at": "2026-11-06T07:05:17.226073+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3006&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-02T09:00",
@@ -77028,7 +77693,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3009,
-    "fetched_at": "2026-11-05T07:02:38.603243+00:00",
+    "fetched_at": "2026-11-06T07:02:16.442682+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3009&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-20T09:00",
@@ -77041,7 +77706,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3010,
-    "fetched_at": "2026-11-05T07:05:39.262697+00:00",
+    "fetched_at": "2026-11-06T07:03:53.591666+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3010&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-15T19:00",
@@ -77054,7 +77719,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3012,
-    "fetched_at": "2026-11-05T07:07:40.084965+00:00",
+    "fetched_at": "2026-11-06T07:05:25.353101+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3012&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-09-16T09:00",
@@ -77067,7 +77732,7 @@
     "body_name": "Board of Commissioners",
     "body_slug": "board-of-commissioners",
     "event_id": 3015,
-    "fetched_at": "2026-11-05T07:03:05.808080+00:00",
+    "fetched_at": "2026-11-06T07:02:40.655248+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3015&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-11-03T09:05",
@@ -77080,7 +77745,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3019,
-    "fetched_at": "2026-11-05T07:06:07.149201+00:00",
+    "fetched_at": "2026-11-06T07:04:17.682778+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3019&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-06T19:00",
@@ -77093,7 +77758,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3020,
-    "fetched_at": "2026-11-05T07:07:46.210316+00:00",
+    "fetched_at": "2026-11-06T07:05:30.239376+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3020&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-07T09:00",
@@ -77106,7 +77771,7 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3023,
-    "fetched_at": "2026-11-05T07:08:00.156319+00:00",
+    "fetched_at": "2026-11-06T07:05:40.850354+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3023&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-21T09:00",
@@ -77119,7 +77784,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3024,
-    "fetched_at": "2026-11-05T07:06:27.756740+00:00",
+    "fetched_at": "2026-11-06T07:04:31.577487+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3024&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-10-20T19:00",
@@ -77132,12 +77797,12 @@
     "body_name": "Zoning Commission",
     "body_slug": "zoning-commission",
     "event_id": 3031,
-    "fetched_at": "2026-11-05T07:08:14.603905+00:00",
+    "fetched_at": "2026-11-06T07:05:51.216384+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3031&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-11-04T09:00",
     "minutes_url": null,
-    "status": "upcoming"
+    "status": "past"
    },
    {
     "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3032_A_Clark_County_Planning_Commission_26-11-03_PC_Agenda.pdf",
@@ -77145,7 +77810,7 @@
     "body_name": "Planning Commission",
     "body_slug": "planning-commission",
     "event_id": 3032,
-    "fetched_at": "2026-11-05T07:06:42.661453+00:00",
+    "fetched_at": "2026-11-06T07:04:42.675417+00:00",
     "legistar_url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3032&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
     "location": null,
     "meeting_date": "2026-11-03T19:00",
